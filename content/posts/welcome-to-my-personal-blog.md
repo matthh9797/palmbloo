@@ -1,6 +1,6 @@
 ---
-  title: "Welcome to My Personal Blog"
-  date: 2021-01-13T17:33:14+06:00
+  title: "Welcome to My Travel Blog"
+  date: 2022-09-18T17:33:14+06:00
   featured: true
   tags: "travel"
   tranding: false
