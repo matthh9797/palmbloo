@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://poetic-mochi-5f1707.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
