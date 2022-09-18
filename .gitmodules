@@ -1,0 +1,3 @@
+[submodule "blogge-hugo-theme"]
+	path = blogge-hugo-theme
+	url = https://github.com/StaticMania/blogge-hugo-theme
