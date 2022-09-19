@@ -1,6 +1,10 @@
 ---
 title: "Spain_estepona"
 date: 2022-09-19T09:14:19+01:00
-draft: true
+tags: "news"
+tranding: false
+readTime: "4 min"
+thumbnail: /images/blog/blog-thum-2.png
+featureImage: /images/blog/feature-image-04.jpg
 ---
 
