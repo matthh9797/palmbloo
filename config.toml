@@ -11,13 +11,26 @@ theme = "blogge-hugo-theme"
     url= ""
     weight= 1
   [[menu.main]]
+    name = "Recipes"
+    url= "recipes"
+    weight= 2
+  [[menu.main]]
+    name = "How to Articles"
+    url= "how_to"
+    weight= 3
+  [[menu.main]]
+    name = "Places"
+    url= "places"
+    weight= 4
+  [[menu.main]]
     name = "About"
     url= "about"
-    weight= 2
+    weight= 5
   [[menu.main]]
     name = "Contact"
     url= "contact"
-    weight= 3
+    weight= 6
+
 
 [params]
   summarylength = 80
