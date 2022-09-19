@@ -1,5 +1,5 @@
 ---
-title: "Spain_estepona"
+title: "Spain, Estepona - A cultural experience"
 date: 2022-09-19T09:14:19+01:00
 tags: "news"
 tranding: false

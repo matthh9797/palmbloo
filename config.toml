@@ -2,7 +2,7 @@ baseURL = "https://poetic-mochi-5f1707.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
-title = "Gypsy Lulu | Travel Blogging Site"
+title = "Gypsy Lulu | Travel Blog"
 theme = "blogge-hugo-theme"
 
 [menu]
