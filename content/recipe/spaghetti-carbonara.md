@@ -6,6 +6,7 @@ tranding: false
 readTime: "4 min"
 thumbnail: /images/blog/blog-thum-2.png
 featureImage: /images/blog/feature-image-04.jpg
+author: "Hendo"
 ---
 
 consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
@@ -21,7 +22,7 @@ consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
  - Spaghetti, 500 grams, £2 
  - Egg yokes, 3, £2 
  - Peppercorns, 200 grams, £1
- 
+
 
 ## Method
 
