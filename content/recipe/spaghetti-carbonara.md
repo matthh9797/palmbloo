@@ -28,7 +28,7 @@ The recipe for *carbonara* began to appear in 1944. It is said that American sol
 
 ![Spaghetti carbonara ingredients](Https://drive.google.com/uc?export=view&id=18UXFJ5my3sm90fi7IrinIk_EoGC-ttv7)
 
-**Step 2: Fry the Guanciale and cook the spaghetti.** To fry the Guanciale, fry on a medium heat with no oil since there will be a lot of fat. At the same time
+**Step 2: Fry the Guanciale and cook the spaghetti.** To fry the Guanciale, fry on a medium heat with no oil since there will be a lot of fat. At the same time cook the spaghetti in a large deep pan. Cook both for 13 minutes.
 
 ![Spaghetti carbonara ingredients](Https://drive.google.com/uc?export=view&id=19wgAxlCN-3asdXs5XdNmtWv_F-XAf-IL)
 
