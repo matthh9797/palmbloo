@@ -1,8 +1,11 @@
 ---
 title: "Two Days in Bangkok"
 date: 2022-11-19T23:51:11+07:00
-draft: false
-author: "Luana Nicosia"
+tags: "Bangkok"
+tranding: false
+readTime: "4 min"
+thumbnail: /images/place/bangkok-header.jpg
+featureImage: /images/place/bangkok-header.jpg
 ---
 
 # Two days in Bangkok
