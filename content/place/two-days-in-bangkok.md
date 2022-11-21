@@ -8,8 +8,6 @@ thumbnail: /images/place/bangkok-header.jpg
 featureImage: /images/place/bangkok-header.jpg
 ---
 
-# Two days in Bangkok
-
 Our first destination in our South East Asia trip is Bangkok. The first impression of Bangkok was it was both hectic and intriguing.
 
 Straght away in our taxi ride from the airport it was clear to see how Thailand is the country with the second most road fatalities in the world, the driver was driving in out of lanes and the roads were very crowded. However, the taxi to Ekkamai was only 500 baht (*12 pound*) - not bad for a 40 minute ride.
