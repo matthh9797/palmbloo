@@ -23,13 +23,17 @@ theme = "blogge-hugo-theme"
     url= "place"
     weight= 4
   [[menu.main]]
+    name = "Experiences"
+    url= "experience"
+    weight= 5
+  [[menu.main]]
     name = "About"
     url= "about"
-    weight= 5
+    weight= 6
   [[menu.main]]
     name = "Contact"
     url= "contact"
-    weight= 6
+    weight= 7
 
 
 [params]
