@@ -8,4 +8,4 @@ thumbnail: /images/experience/jungle-trek-koh-chang-thumbnail.jpg
 featureImage: /images/experience/jungle-trek-koh-chang-header.jpg
 ---
 
-{{< gallery-slider dir="/test1/" >}}
+{{< gallery-slider dir="/test/" >}}
