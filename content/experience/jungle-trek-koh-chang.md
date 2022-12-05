@@ -8,7 +8,7 @@ thumbnail: /images/experience/jungle-trek-koh-chang-thumbnail.jpg
 featureImage: /images/experience/jungle-trek-koh-chang-header.jpg
 ---
 
-{{< gallery-slider dir="/test1/" >}}
+{{< gallery-slider dir="/images/place/" >}}
 
 Trekking in the jungle on Koh Chang island without a tour guide is illegal on Koh Chang island. Tan (*our trekking guide*) explained to us on the way up the mountain that tourists had been lost in the jungle in the past and they are extremely hard to find. A tourist dying has a negative effect on tourism which hurts the local economy, therefore, a large effort is put into finding lost tourists costing lots of people time.
 
