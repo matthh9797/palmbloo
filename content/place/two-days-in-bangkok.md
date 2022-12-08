@@ -2,7 +2,7 @@
 title: "Two Days in Bangkok"
 date: 2022-11-19T23:51:11+07:00
 tags: "Bangkok"
-tranding: false
+tranding: true
 readTime: "4 min"
 thumbnail: /images/place/bangkok-header.jpg
 featureImage: /images/place/bangkok-header.jpg

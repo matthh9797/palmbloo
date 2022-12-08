@@ -1,7 +1,8 @@
 ---
 title: "Jungle Trek Koh Chang"
 date: 2022-11-29T15:52:53+07:00
-tranding: false
+tags: "Trekking"
+tranding: true
 author: "Luana Nicosia"
 readTime: "4 min"
 thumbnail: /images/experience/jungle-trek-koh-chang-thumbnail.jpg
