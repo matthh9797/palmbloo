@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+tags: 
 tranding: false
 author: "Luana Nicosia"
 readTime: "4 min"
