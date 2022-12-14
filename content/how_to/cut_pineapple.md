@@ -33,4 +33,4 @@ Chop the pineapple into edible sized chunks.
 
 Finally, eat!
 
-{{< youtube XR4ohK_rt3M >}}
+{{< youtube KGb6Ov9dRBo >}}
