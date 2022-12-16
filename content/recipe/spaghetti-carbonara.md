@@ -11,7 +11,7 @@ featureImage: /images/recipe/spaghetti-carbonara/cover.jpeg
 YouTubeID: F2SYDXV1W1w# The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 category: pasta 
 cuisine: "Italian"
-yield: 8
+yield: 2
 prepTime: 15
 cookTime: 45
 
