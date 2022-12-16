@@ -43,7 +43,10 @@
           <div class="feature-image">
             <img src="{{ .Params.featureImage  | absURL }}" alt="banner">
           </div>
-          {{ if eq .Params.layout "recipe" }}<div>{{ partial "partials/recipe.html" . }}</div>{{end}}
+          {{/*  Add recipe partial if layout set to recipe  */}}
+          {{ if eq .Params.layout "recipe" }}
+            {{ partial "partials/recipe.html" . }}
+          {{end}}
           <div class="single-blog-content">
             {{ .Content }}
           </div>
