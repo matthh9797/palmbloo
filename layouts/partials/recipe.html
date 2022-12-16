@@ -1,23 +1,23 @@
 <div class="clearfix mt3">
     {{ with .Params.yield }}
-    <div class="sm-col sm-col-3">
+    <div class="sm-col sm-col-12">
         <h4 class="black mt0 mb2 xs-center">Feeds: {{.}}</h4>
     </div>
     {{ end }}
     {{ with .Params.prepTime }}
-    <div class="sm-col sm-col-3">
+    <div class="sm-col sm-col-12">
       <h4 class="black mt0 mb2 xs-center">Preparation time: {{.}} minutes</h4>
     </div>
     {{ end }}
     {{ with .Params.cookTime }}
-    <div class="sm-col sm-col-3">
+    <div class="sm-col sm-col-12">
       <h4 class="black mt0 mb2 xs-center">Cooking time: {{.}} minutes</h4>
     </div>
     {{ end }}
   </div>
 
   <!-- call up recipe and directions -->
-  <div class="clearfix mt3">
+  <div class="clearfix mt2">
     <div class="sm-col sm-col-6 lg-col-6 recipeItems">
       <!-- check if it's a component-based recipe -->
       {{ with .Params.Components}}
