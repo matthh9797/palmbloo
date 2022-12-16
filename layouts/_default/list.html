@@ -1,6 +1,8 @@
 {{ define "main" }}
 
+{{ if eq .Kind "home" }}
 {{ partial "feature.html" . }}
+{{end}}
 
 <section class="blog">
   <div class="container">
