@@ -55,7 +55,7 @@ theme = "blogge-hugo-theme"
   fabformURL  = "9AJk8ro"
   googleMapAPI = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
   custom_css = [
-    "css/new.css"
+    "css/recipe_box.css"
   ]
 
 [taxonomies]
