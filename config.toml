@@ -54,6 +54,11 @@ theme = "blogge-hugo-theme"
   # We're using formspree.io for form handling, paste your formspree url below
   fabformURL  = "9AJk8ro"
   googleMapAPI = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  custom_css = [
+    "css/recipe_box.css"
+  ]
 
 [taxonomies]
   tag = "tags"
+
+

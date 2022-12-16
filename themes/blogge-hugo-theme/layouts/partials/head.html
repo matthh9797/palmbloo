@@ -10,6 +10,10 @@
   {{ end }}
   {{ hugo.Generator }}
 
+  {{ range .Site.Params.custom_css -}}
+  <link rel="stylesheet" href="{{ . | absURL }}">
+  {{- end }}
+
   <link rel="stylesheet" href={{ "plugins/font-awesome/css/font-awesome.min.css" | absURL }} />
   {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | minify}}
   <link href="{{ $style.Permalink }}" rel="stylesheet" />
