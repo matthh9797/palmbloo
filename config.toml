@@ -38,7 +38,7 @@ theme = "blogge-hugo-theme"
 
 [params]
   summarylength = 80
-  logo = "images/logo.svg"
+  logo = "images/logo.png"
   author = "Luana Nicosia & Matthew Henderson"
   authorThumb = "images/matt-and-lulu.png"
   authorAddress = "Somewhere in Thailand"
