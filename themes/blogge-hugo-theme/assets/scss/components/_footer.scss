@@ -12,6 +12,9 @@
     @include mobile-xs {
       margin-bottom: 20px;
     }
+    img {
+      max-width: 115px;
+    }
   }
   &-nav {
     display: flex;
