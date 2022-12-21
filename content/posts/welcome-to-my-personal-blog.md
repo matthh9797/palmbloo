@@ -1,5 +1,5 @@
 ---
-  title: "Why choose to travel?"
+  title: "Why do we choose to travel?"
   date: 2022-09-18T17:33:14+06:00
   featured: true
   author: "Luana Nicosia"
