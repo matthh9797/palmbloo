@@ -4,6 +4,7 @@ paginate = 6
 summarylength = 10
 title = "Gypsy Lulu | Travel Blog"
 theme = "blogge-hugo-theme"
+enableEmoji = true
 
 [menu]
   [[menu.main]]
@@ -52,7 +53,7 @@ theme = "blogge-hugo-theme"
   twitterUsername = "mary_astor"
   linkedinUsername = "mary_astor"
   blogTitle = "Articles"
-  blogSubTitle = "View the latest news on Blogger"
+  blogSubTitle = "View the latest posts on Gypsy Lulu"
   trendingBlogIcon = "images/blog/icon.svg"
   # Replace the third party URL/API with yours
   # We're using formspree.io for form handling, paste your formspree url below
