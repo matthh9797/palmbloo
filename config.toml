@@ -1,4 +1,4 @@
-baseURL = "http://gypsy-lulu.com"
+baseURL = "https://gypsy-lulu.com"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
