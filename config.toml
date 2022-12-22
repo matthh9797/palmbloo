@@ -4,6 +4,7 @@ paginate = 6
 summarylength = 10
 title = "Gypsy Lulu | Travel Blog"
 theme = "blogge-hugo-theme"
+enableEmoji = true
 
 [menu]
   [[menu.main]]
@@ -11,29 +12,33 @@ theme = "blogge-hugo-theme"
     url= ""
     weight= 1
   [[menu.main]]
-    name = "Recipes"
-    url= "recipe"
+    name = "Cuisine"
+    url= "cuisine"
     weight= 2
-  [[menu.main]]
-    name = "How to Articles"
-    url= "how_to"
-    weight= 3
-  [[menu.main]]
-    name = "Places"
-    url= "place"
-    weight= 4
   [[menu.main]]
     name = "Experiences"
     url= "experience"
+    weight= 3
+  [[menu.main]]
+    name = "Perspective"
+    url= ""
+    weight= 4  
+  [[menu.main]]
+    name = "Places"
+    url= "place"
     weight= 5
+  [[menu.main]]
+    name = "Skills"
+    url= "skill"
+    weight= 6
   [[menu.main]]
     name = "About"
     url= "about"
-    weight= 6
+    weight= 7
   [[menu.main]]
     name = "Contact"
     url= "contact"
-    weight= 7
+    weight= 8
 
 
 [params]
@@ -46,9 +51,9 @@ theme = "blogge-hugo-theme"
   instaUsername = "mary_astor"
   facebookUsername = "mary_astor"
   twitterUsername = "mary_astor"
-  linkedinUsername = "mary_astor"
+  linkedinUsername = "matthew-henderson-986374bb"
   blogTitle = "Articles"
-  blogSubTitle = "View the latest news on Blogger"
+  blogSubTitle = "View the latest posts on Gypsy Lulu"
   trendingBlogIcon = "images/blog/icon.svg"
   # Replace the third party URL/API with yours
   # We're using formspree.io for form handling, paste your formspree url below
