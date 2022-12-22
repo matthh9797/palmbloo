@@ -1,7 +1,7 @@
 ## Image dimensions
 
 For:
- - Feature Image: 0.416 height to width
+ - Feature Image: 0.5 height to width
  - Thumbnail Image: Square
 
 ## Resources
