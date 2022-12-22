@@ -12,33 +12,33 @@ enableEmoji = true
     url= ""
     weight= 1
   [[menu.main]]
-    name = "Perspective"
-    url= "recipe"
-    weight= 1.1   
+    name = "Cuisine"
+    url= "cuisine"
+    weight= 2
   [[menu.main]]
     name = "Experiences"
     url= "experience"
-    weight= 2
-  [[menu.main]]
-    name = "Cuisine"
-    url= "recipe"
     weight= 3
   [[menu.main]]
-    name = "Skills"
-    url= "how_to"
-    weight= 4
+    name = "Perspective"
+    url= ""
+    weight= 4  
   [[menu.main]]
     name = "Places"
     url= "place"
     weight= 5
   [[menu.main]]
+    name = "Skills"
+    url= "skill"
+    weight= 6
+  [[menu.main]]
     name = "About"
     url= "about"
-    weight= 6
+    weight= 7
   [[menu.main]]
     name = "Contact"
     url= "contact"
-    weight= 7
+    weight= 8
 
 
 [params]
@@ -51,7 +51,7 @@ enableEmoji = true
   instaUsername = "mary_astor"
   facebookUsername = "mary_astor"
   twitterUsername = "mary_astor"
-  linkedinUsername = "mary_astor"
+  linkedinUsername = "matthew-henderson-986374bb"
   blogTitle = "Articles"
   blogSubTitle = "View the latest posts on Gypsy Lulu"
   trendingBlogIcon = "images/blog/icon.svg"
