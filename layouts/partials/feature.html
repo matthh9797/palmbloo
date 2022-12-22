@@ -23,7 +23,9 @@
             </ul>
           </div>
           <div class="featured-post-thumb">
-            <img src="{{ .Params.thumbnail  | absURL }}" alt="feature-post-thumb" />
+            <a href="{{ .Permalink }}">
+              <img src="{{ .Params.thumbnail  | absURL }}" alt="feature-post-thumb" />
+            </a>
           </div>
         </article>
       </div>
