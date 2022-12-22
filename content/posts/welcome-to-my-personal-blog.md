@@ -1,63 +1,64 @@
 ---
-  title: "Why do we choose to travel?"
+  title: "Welcome to Our Travel Blog"
   date: 2022-09-18T17:33:14+06:00
   featured: true
   author: "Luana Nicosia"
   tags: "travel"
   tranding: false
   readTime: "5 mins"
-  thumbnail: /images/welcome-image.jpg
-  featureImage: /images/blog/blog-single.png
+  thumbnail: /images/welcome-image2.jpg
+  featureImage: /images/posts/welcome-article/chilling.jpg
 ---
 
-When you tell people that you have decided to take an extended period of time to go **"travelling"** you are often met with a roll of the eyes: **"What about your career?"**, **"Are you going to party for a full year?"**, **"Ooh are you going to find yourself?"**
+Welcome to our travel blog! This website is meant for anyone who is interested to learn about the world. **If you already love traveling** you can learn some tips and practical advice. **If you are thinking about traveling** you can learn how skills and experiences will enhance your character. **Everyone** can learn new recipes from some of the best World Cuisine or gain perspective by considering how people in other cultures live.
 
-There seems to be a lot of misconception about what travelling is and why people do it so we have created this website to share with you our experience. We are not going to tell you that everyone should quit their jobs right now and book the next flight to the other side of the world but just show you why we have chosen to do it ourselves.
+We decided to call the blog "Gypsy Lulu". The word gypsy is inspired by Fleetwood Mac and to us means "a nomadic and free spirited person". Gypsy Lulu is a concept of a person who does not belong to one place or country.
 
-> A JOURNEY OF A THOUSAND MILES BEGINS WITH A SINGLE STEP
+### Why do we choose to travel?
+
+When you tell people that you have decided to take an extended period of time to go **"traveling"** you are often met with a roll of the eyes: **"What about your career?"**, **"Are you going to party for a full year?"**, **"Are you going to find yourself?"**
+
+There seems to be a lot of misconception about what traveling is and why people do it so we have created this website to share our experience with others. We are not going to tell you that everyone should quit their jobs right now and book the next flight to the other side of the world but just show you why we have chosen to do it ourselves.
+
+> "A JOURNEY OF A THOUSAND MILES BEGINS WITH A SINGLE STEP"
 -LAO TZU
 
-Whilst we can't share everything about travelling we have tried to group our reasons into these key categories:
- - [Deepen your Perspective]()
- - [Widen your Experiences]()
- - [Immerse yourself in local Cuisine]()
- - [Learn new Skills]()
- - [Discover intersting Places]()
+Whilst we can't share everything about traveling we have tried to group our reasons into these key categories:
 
-Everyone has a different experience when they travel and don't claim this is a full list of reasons to do it. In fact, there are some important reasons we missed out since they are harder to share through a blog. But most people who have been travelling would agree that these are some of the key reasons to go and this what we would like to share with you. 
+- [Deepen your Perspective]()
+- [Widen your Experiences]()
+- [Immerse yourself in local Cuisine]()
+- [Learn new Skills]()
+- [Discover interesting Places]()
+
+Everyone has a different experience when they travel and don't claim this is a full list of reasons to do it. In fact, there are some important reasons missed out since they are harder to share through a blog. But most people who travel would agree that these are some of the key reasons to do it and this is what we would like to share with you.
 
 ### Deepen your perspective
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
+**Observing how different societies function deepens your [Perspective]() and we would like to share our thoughts about it as we travel the world.** Meeting people from other cultures will teach you that the way you have been looking at the world isn't the way everybody else does. Perspective is something you take into everything you do and one of the main reasons we love to travel.
 
-### Widen your experiences
+### Widen your Experiences
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+**We would like to show you the unique and amazing [Experiences]() that come from travelling.** Travel means adventure and some adventures are worth having! Volunteering and living locally come with challenges and opportunities that grow your awareness about how the world works. Activities that push you outside of your comfort zone will make you feel alive.
 
-### Try local cuisine
+### Learn new skills
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+**When travelling you learn a lot of new skills so we would like to share some [Skills](), tips and tricks.** We like to focus our travel around meeting local people and with that you often learn a variety of interesting things. We also try to travel cheap and light (*within reason*) and you learn a lot as you go so you can read this section for our tips and tricks.
 
-### Learn new Skills
+### Immerse yourself in local Cuisine
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+**We will share with you recipes from some of the best food cultures in the World [Cuisine]() and share some tips about how to eat locally and avoid tourist meals/prices.** Travel and food go hand in hand and you will be constantly surprised by the flavours the world has to offer. Local cuisine helps you to understand the culture of a place and the way people prepare food in different countries can be so amazing.
 
-### Discover intersting Places
+### Discover interesting places
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+**By moving to lots of different places and living under lots of different conditions we will share with you some of the pro's and con's of different [Places]() and help you discover what is really important to you in your chosen place to live.** There is no perfect place in the world, if there was everyone would move there, then it would no longer be perfect. There are lots of factors to consider when choosing a place like weather, cost of living, jobs, crowdedness, activities, safety and weather again!
 
-> You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.
+![Lonely Beach sunset](/images/posts/welcome-article/lonely-beach2.jpg)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
+### A Few More Reasons
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+There are some other important reasons to travel. Although we did not feel these reasons required a full section of the website we hope these come through in our articles and would like to include these here:
 
-![](/images/blog/feature-image-05.jpg)
-
-### The Dreamy Not Factors
-
-This is not a full list and there are there are some important reasons that are harder to share. 
- - Travelling is fun
- - You learn to socialise with people from all over the World
- - You have time to understand yourself and find your path towards personal enlightenment
- - It is character building, you have more to talk about when you meet people
+- **Brings you out of your shell socially**
+- **Is a great way to improve your English for non-natives**
+- **Gives you time to learn what you are interested in**
