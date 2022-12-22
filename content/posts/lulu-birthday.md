@@ -2,7 +2,7 @@
 title: "Lulu's Birthday"
 date: 2022-12-16T16:14:31+07:00
 tags: 
-tranding: false
+tranding: true
 author: "Luana Nicosia"
 readTime: "3 min"
 thumbnail: /images/posts/lulu-birthday/lulu-birthday-thumbnail.jpg
