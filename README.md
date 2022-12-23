@@ -1,3 +1,15 @@
+# Gypsy Lulu
+
+A travel blogging website
+
+## Getting started
+
+To run the app locally complete the following steps:
+
+ 1. [Install Hugo](https://gohugo.io/installation/) on your local machine
+ 2. Clone this repository: `git clone "https://github.com/matthh9797/gypsy_lulu"`
+ 3. Build your site with `hugo server` and see the result at http://localhost:1313/.
+ 
 ## Image dimensions
 
 For:
