@@ -5,7 +5,7 @@ window.marker = null;
 
 function initialize() {
   var map;
-  var nottingham = new google.maps.LatLng(23.7783741, 90.3746808);
+  var nottingham = new google.maps.LatLng(12.107538, 102.272054);
   var style = [
     {
       featureType: "all",
