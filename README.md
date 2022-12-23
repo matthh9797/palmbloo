@@ -1,6 +1,6 @@
 # Gypsy Lulu
 
-A travel blogging website
+[Gypsy Lulu](https://gypsy-lulu.com/) is a travel blogging website
 
 ## Getting started
 
