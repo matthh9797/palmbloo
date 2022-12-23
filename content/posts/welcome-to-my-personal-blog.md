@@ -25,33 +25,32 @@ There seems to be a lot of misconception about what traveling is and why people 
 
 Whilst we can't share everything about traveling we have tried to group our reasons into these key categories:
 
-- [Deepen your Perspective]()
-- [Widen your Experiences]()
-- [Immerse yourself in local Cuisine]()
-- [Learn new Skills]()
-- [Discover interesting Places]()
+- [Immerse yourself in local Cuisine]({{< ref "/cuisine" >}})
+- [Widen your Experiences]({{< ref "/experience" >}})
+- [Deepen your Perspective]({{< ref "/" >}})
+- [Discover interesting Places]({{< ref "/place" >}})
+- [Learn new Skills]({{< ref "/skill" >}})
 
-Everyone has a different experience when they travel and don't claim this is a full list of reasons to do it. In fact, there are some important reasons missed out since they are harder to share through a blog. But most people who travel would agree that these are some of the key reasons to do it and this is what we would like to share with you.
-
-### Deepen your perspective
-
-**Observing how different societies function deepens your [Perspective]() and we would like to share our thoughts about it as we travel the world.** Meeting people from other cultures will teach you that the way you have been looking at the world isn't the way everybody else does. Perspective is something you take into everything you do and one of the main reasons we love to travel.
-
-### Widen your Experiences
-
-**We would like to show you the unique and amazing [Experiences]() that come from travelling.** Travel means adventure and some adventures are worth having! Volunteering and living locally come with challenges and opportunities that grow your awareness about how the world works. Activities that push you outside of your comfort zone will make you feel alive.
-
-### Learn new skills
-
-**When travelling you learn a lot of new skills so we would like to share some [Skills](), tips and tricks.** We like to focus our travel around meeting local people and with that you often learn a variety of interesting things. We also try to travel cheap and light (*within reason*) and you learn a lot as you go so you can read this section for our tips and tricks.
+Everyone has a different experience when they travel and we don't claim this is a full list of reasons to do it. In fact, there are some important reasons we missed out since they are harder to share through a blog. But most people who travel would agree that these are some of the key reasons to do it and this is what we would like to share with you.
 
 ### Immerse yourself in local Cuisine
 
-**We will share with you recipes from some of the best food cultures in the World [Cuisine]() and share some tips about how to eat locally and avoid tourist meals/prices.** Travel and food go hand in hand and you will be constantly surprised by the flavours the world has to offer. Local cuisine helps you to understand the culture of a place and the way people prepare food in different countries can be so amazing.
+We will share with you recipes from some of the best food cultures in the World [Cuisine]({{< ref "/cuisine" >}}) and share some tips about how to eat locally and avoid tourist meals and prices. Travel and food go hand in hand and you will be constantly surprised by the flavours the world has to offer. Local cuisine helps you to understand the culture of a place and the way people prepare food in different countries can be so amazing.
+
+### Widen your Experiences
+
+We would like to show you the unique and amazing [Experiences]({{< ref "/experience" >}}) that come from travelling. Travel means adventure and some adventures are worth having! Volunteering and living locally come with challenges and opportunities that grow your awareness about how the world works. Activities that push you outside of your comfort zone will make you feel alive.
+### Deepen your perspective
+
+Observing how different societies function deepens your [Perspective]({{< ref "/" >}}) and we would like to share our thoughts about it as we travel the world. Meeting people from other cultures will teach you that the way you have been looking at the world isn't the way everybody else does. Perspective is something you take into everything you do and one of the main reasons we love to travel.
 
 ### Discover interesting places
 
-**By moving to lots of different places and living under lots of different conditions we will share with you some of the pro's and con's of different [Places]() and help you discover what is really important to you in your chosen place to live.** There is no perfect place in the world, if there was everyone would move there, then it would no longer be perfect. There are lots of factors to consider when choosing a place like weather, cost of living, jobs, crowdedness, activities, safety and weather again!
+By moving to lots of different places and living under lots of different conditions we will share with you the pro's and con's of living in different [Places]({{< ref "/place" >}}) and help you discover what is really important to you in your chosen place to live. There is no perfect place in the world, if there was everyone would move there, then it would no longer be perfect. There are lots of factors to consider when choosing a place like weather, cost of living, jobs, crowdedness, activities, safety and weather again!
+
+### Learn new skills
+
+When travelling you learn a lot of new skills so we would like to share some [Skills]({{< ref "/skill" >}}), tips and tricks. We like to focus our travel around meeting local people and with that you often learn a variety of interesting things. We also try to travel cheap and light (*within reason*) and you learn a lot as you go so you can read this section for our tips and tricks.
 
 ![Lonely Beach sunset](/images/posts/welcome-article/lonely-beach2.jpg)
 
@@ -59,6 +58,6 @@ Everyone has a different experience when they travel and don't claim this is a f
 
 There are some other important reasons to travel. Although we did not feel these reasons required a full section of the website we hope these come through in our articles and would like to include these here:
 
-- **Brings you out of your shell socially**
-- **Is a great way to improve your English for non-natives**
-- **Gives you time to learn what you are interested in**
+- Brings you out of your shell socially
+- Is a great way to improve your English for non-natives
+- Gives you time to learn what you are interested in
