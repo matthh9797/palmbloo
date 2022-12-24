@@ -3,10 +3,10 @@ enable: true
 instaImages:
   [
     "images/ribbon/1-byronbay.jpg",
-    "images/ribbon/2-gipsylulu.jpg",
     "images/ribbon/3-paddleboard.jpg",
     "images/ribbon/4-sunset.jpg",
     "images/ribbon/5-surfboard.jpg",
+    "images/ribbon/matt-and-grace.png",
     "images/ribbon/6-swing.jpg",
   ]
 ---
