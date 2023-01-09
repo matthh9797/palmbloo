@@ -1,4 +1,5 @@
 ---
+type: country
 title: "Thailand"
 date: 2023-01-09T15:31:40+07:00
 tags: "Country"

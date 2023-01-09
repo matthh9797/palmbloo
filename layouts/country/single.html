@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<section class="blog-single">
+  <div class="container">
+    <div class="row">
+      {{ partial "social_media.html" . }}
+      <div class="col-lg-10 order-1 order-lg-2">
+        <article class="single-blog">
+            <a href={{ printf "tags/%s" .Params.tags | absURL }} class="tag">{{ .Params.tags }}</a>
+            <p class="title">{{ .Title }}</p>
+            <ul class="meta">
+              <li>
+                By <a href={{ "about" | absURL }}>{{ .Params.author }}</a>
+              </li>
+              <li>
+                <i class="fa fa-clock-o"></i>
+                {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }} read
+              </li>
+            </ul>
+            <div class="feature-image">
+              <img src="{{ .Params.featureImage  | absURL }}" alt="banner">
+            </div>
+            {{/*  Add recipe partial if layout set to recipe  */}}
+            {{ if eq .Params.layout "recipe" }}
+              {{ partial "partials/recipe.html" . }}
+            {{end}}
+            <div class="single-blog-content">
+              <h3>Language spoken</h3>
+              <h3>Import and Export</h3>
+              <h3>Prominent Religion</h3>
+              {{.Content}}
+            </div>
+        
+          </article>
+        {{ partial "blog-single-presentation.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
