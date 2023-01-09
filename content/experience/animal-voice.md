@@ -12,7 +12,7 @@ featureImage: /images/experience/animal-voice/cover.jpeg
 
 Three weeks surrounded by dogs in a modern pad in the middle of the jungle, what not to like? 
 
-Animal voice is an interesting Non Profit Organisation on Koh Chang, Thailand which we found on the [workaway app](https://www.workaway.info/app). It's an association of animal welfare activists and veterinarians who made their goal to help animals in this island so take care of animals that do not survive on the street ( old dogs, with diseases, blind, paralyzed, etc ). 
+Animal voice is an interesting Non Profit Organisation on Koh Chang, Thailand which we found on the [workaway app](https://www.workaway.info/app). It's an association of animal welfare activists and veterinarians who made their goal to help animals in this island so take care of animals that do not survive on the street (old dogs, with diseases, blind, paralyzed, etc). 
 
 The reviews were great with extremely positive feedback, so we decided to get in touch and set off on this new adventure.
 
