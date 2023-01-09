@@ -16,9 +16,15 @@
     {{/*  Add recipe partial if layout set to recipe  */}}
     {{ if eq .Params.layout "recipe" }}
       {{ partial "partials/recipe.html" . }}
-    {{end}}
+    {{ else if eq .Params.layout "experience" }}
+      {{ partial "partials/experience-box.html" . }}
+      <div class="single-blog-content">
+        {{ .Content }}
+      </div>
+    {{ else }}
     <div class="single-blog-content">
       {{ .Content }}
     </div>
+    {{end}}
 
   </article>
