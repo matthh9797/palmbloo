@@ -51,22 +51,7 @@ The reality of working in an animal shelter it is a hospital for sick dogs and p
 
 {{< gallery-slider dir="/images/experience/animal-voice/slider-2" height="360px" width="600px">}}
 
-The dogs are super cute, and the staff very helpful and kind. The atmosphere in the house was always so comfortable and we could truly see how much everyone involved cares so much for the dogs.
-
-The place is located in a really nice spot in the middle of the jungle and the accommodation was very clean and comfortable. 
-
-![Cover](Https://drive.google.com/uc?export=view&id=12fx3EZ4Qqmn54NtyHUot3juyUmSqpOJQ)
-
-
-== MATT ADD THE SLIDER ( puppies.jpg and puppy&lulu ) ==
-
-
-
-
-
-
-We loved this experience and would have stayed even longer, at the end I was pretty sad because we had to say goodbyes to dogs. 
-Maybe we will back one day, but for now we will keep with us this experience very happy with the fact that there are organisations in the world like this one that do so much to help animals in need. 
+We loved this experience and would have stayed even longer had it not have been fully booked. At the end we were pretty sad to say goodbye to the dogs. Maybe we will back one day, but for now we will keep with us this experience very happy with the fact that there are organisations in the world like this one that do so much to help animals in need. 
 
 
 
