@@ -1,0 +1,22 @@
+<div class="blog-single-presentation">
+    <ul>
+      {{ with .Site.RegularPages.Prev . }}
+      <li> <a href="{{.RelPermalink}}" class="tag">PREVIOUS</a>
+        <a href="{{.RelPermalink}}" class="title">
+          {{ .Title }}
+        </a>
+        <i class="fa fa-clock-o"></i>
+        {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }}
+      </li>
+      {{ end }}
+      {{ with .Site.RegularPages.Next . }}
+      <li> <a href="{{.RelPermalink}}" class="tag">Next</a>
+        <a href="{{.RelPermalink}}" class="title">
+          {{ .Title }}
+        </a>
+        <i class="fa fa-clock-o"></i>
+        {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }}
+      </li>
+      {{ end }}
+    </ul>
+  </div>
