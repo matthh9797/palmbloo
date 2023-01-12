@@ -8,7 +8,7 @@ thumbnail: /images/experience/animal-voice/thumb.jpg
 featureImage: /images/experience/animal-voice/cover.jpeg
 ---
 
-[Donate Here](https://www.animalvoicekohchang.com/donation/)
+{{< button text="Donate Here" url="https://www.animalvoicekohchang.com/donation/" >}}
 
 Three weeks surrounded by dogs in a modern pad in the middle of the jungle, what not to like? 
 
