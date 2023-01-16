@@ -16,13 +16,13 @@ Animal voice is an interesting Non Profit Organisation on Koh Chang, Thailand wh
 
 The reviews were great with extremely positive feedback, so we decided to get in touch and set off on this new adventure.
 
-![waiting for walkies](Https://drive.google.com/uc?export=view&id=139I1mvCmi4fEspDcss7wocbJJqf_RIRA)
+![dog friends](Https://drive.google.com/uc?export=view&id=154oRJTQHt-Uvq1FWgTWWBXnG_abauHhe)
 
 The work was split into a shift in the morning and one in the afternoon, we would agree with other volunteers which one to take on which day. Our main daily tasks were feeding the dogs, administering medication, walking them and giving them showers. 
 
 There are around 20 dogs in the shelter so at first we did not think it would be possible to remember all of the names but after feeding them a few times we quickly started to get the hang of it!
 
-{{< gallery-slider dir="/images/experience/animal-voice/slider-1" height="360px" width="600px">}}
+![waiting for walkies](Https://drive.google.com/uc?export=view&id=14Cx9VFNN-CTWAsFb-jhDwbczzOawFnZa)
 
 This is Grace, she is paralysed in the two back legs. She is an interesting dog because she could have a tendency to bite people but at the same time she is extremely sweet and requires a lot of attention so we had to be careful and learn how to work with her.
 
@@ -49,7 +49,7 @@ Unfortunately two puppies didn't seem very active at all in fact during the nigh
 
 The reality of working in an animal shelter it is a hospital for sick dogs and puppies dying is an unfortunate part of the experience. However, the other three were very active and healthy. If the shelter had not taken them in, they may also have not survived and that was a very special and memorable feeling.
 
-{{< gallery-slider dir="/images/experience/animal-voice/slider-2" height="360px" width="600px">}}
+{{< gallery-slider dir="/images/experience/animal-voice/slider-2/" height="360px" width="600px">}}
 
 We loved this experience and would have stayed even longer had it not have been fully booked. At the end we were pretty sad to say goodbye to the dogs. Maybe we will back one day, but for now we will keep with us this experience very happy with the fact that there are organisations in the world like this one that do so much to help animals in need. 
 
