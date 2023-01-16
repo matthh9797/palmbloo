@@ -1,0 +1,9 @@
+av1:
+  - image: /images/experience/animal-voice/slider-1/lulu-walkies.jpg
+    content_html: "1"
+    title: Lulu Walkies
+    caption: Lulu on a walk
+  - image: /images/experience/animal-voice/slider-1/matt-walkies.jpg
+    content_html: "2"
+    title: Matt Walkies
+    caption: Matt on a walk
