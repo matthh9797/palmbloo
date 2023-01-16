@@ -1,9 +1,14 @@
 av1:
   - image: /images/experience/animal-voice/slider-1/lulu-walkies.jpg
-    content_html: "1"
-    title: Lulu Walkies
+    position: bottomright
     caption: Lulu on a walk
   - image: /images/experience/animal-voice/slider-1/matt-walkies.jpg
-    content_html: "2"
-    title: Matt Walkies
+    position: middle
     caption: Matt on a walk
+av2:
+  - image: /images/experience/animal-voice/slider-2/puppies.jpg
+    position: bottomright
+    caption: Puppies!
+  - image: /images/experience/animal-voice/slider-2/puppy&lulu.jpg
+    position: bottomleft
+    caption: none

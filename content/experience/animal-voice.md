@@ -49,7 +49,7 @@ Unfortunately two puppies didn't seem very active at all in fact during the nigh
 
 The reality of working in an animal shelter it is a hospital for sick dogs and puppies dying is an unfortunate part of the experience. However, the other three were very active and healthy. If the shelter had not taken them in, they may also have not survived and that was a very special and memorable feeling.
 
-{{< gallery-slider dir="/images/experience/animal-voice/slider-2" height="360px" width="600px">}}
+{{< w3carousel id="av2" >}}
 
 We loved this experience and would have stayed even longer had it not have been fully booked. At the end we were pretty sad to say goodbye to the dogs. Maybe we will back one day, but for now we will keep with us this experience very happy with the fact that there are organisations in the world like this one that do so much to help animals in need. 
 
