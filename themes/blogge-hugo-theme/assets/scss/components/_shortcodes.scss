@@ -1,0 +1,22 @@
+.shortcode {
+    .bootstrap-button {
+        a {
+            color: $primary-color; background-color: #D1E7DD; border-color: $secondary-color;
+        }
+        margin-bottom: 15px;
+    }
+    .blog-image {
+        img {
+            max-width: 100%;
+            aspect-ratio: 16 / 9;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+        figcaption {
+            color: $primary-color;
+        }
+    }
+    .w3-carousel {
+        margin-bottom: 15px;
+    }
+}

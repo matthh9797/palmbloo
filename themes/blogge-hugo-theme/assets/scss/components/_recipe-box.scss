@@ -1,4 +1,5 @@
-@media (min-width: 40em) {
+.container-recipe-box {
+    @media (min-width: 40em) {
     .sm-col {
       float: left;
       box-sizing: border-box;
@@ -262,8 +263,9 @@
     top: 2px;
     width: 6px;
     height: 12px;
-    border: solid #23B12E;
+    border: solid $secondary-color;
     border-width: 0 3px 3px 0;
     background-color: transparent;
     border-radius: 0;
   }
+}

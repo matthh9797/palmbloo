@@ -1,0 +1,60 @@
+<style>
+.mySlides {display:none;}
+</style>
+
+<div class="shortcode">
+    <div class="w3-carousel">
+
+
+
+{{ $id := .Get "id" }}
+{{ range $key0, $value0 := .Site.Data.carousel }}
+{{ if eq $key0 $id }}
+
+<div class="w3-content w3-display-container mb2">
+
+{{ range $key1, $value1 := . }}
+
+<div class="w3-display-container mySlides">
+<img src="{{ .image }}" style="width:100%">
+{{/*  Options for position: bottomright, bottomleft, topright, topleft, middle  */}}
+{{ if eq .caption "none" }}
+{{ else }}
+<div class="w3-display-{{ .position }} w3-large w3-container w3-padding-16 w3-black">
+    {{ .caption }}
+</div>
+{{ end }}
+</div>
+
+{{ end }}
+
+<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
+
+</div>
+
+</div>
+</div>
+
+{{ end }}
+{{ end }}
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+    showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    if (n > x.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = x.length}
+    for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";  
+    }
+    x[slideIndex-1].style.display = "block";  
+}
+</script>
