@@ -2,6 +2,11 @@
 .mySlides {display:none;}
 </style>
 
+<div class="shortcode">
+    <div class="w3-carousel">
+
+
+
 {{ $id := .Get "id" }}
 {{ range $key0, $value0 := .Site.Data.carousel }}
 {{ if eq $key0 $id }}
@@ -26,6 +31,9 @@
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
 
+</div>
+
+</div>
 </div>
 
 {{ end }}
