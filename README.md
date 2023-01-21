@@ -1,6 +1,6 @@
 # Gypsy Lulu
 
-A travel blogging website
+A travel blogging website. Live site: [gypsy-lulu.com](https://gypsy-lulu.com/)
 
 ## Getting started
 
