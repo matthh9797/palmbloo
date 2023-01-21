@@ -16,13 +16,13 @@ Animal voice is an interesting Non Profit Organisation on Koh Chang, Thailand wh
 
 The reviews were great with extremely positive feedback, so we decided to get in touch and set off on this new adventure.
 
-![dog friends](Https://drive.google.com/uc?export=view&id=154oRJTQHt-Uvq1FWgTWWBXnG_abauHhe)
+{{< blog-image gdrive_id="154oRJTQHt-Uvq1FWgTWWBXnG_abauHhe" caption="Matthew's dog friend" >}}
 
 The work was split into a shift in the morning and one in the afternoon, we would agree with other volunteers which one to take on which day. Our main daily tasks were feeding the dogs, administering medication, walking them and giving them showers. 
 
 There are around 20 dogs in the shelter so at first we did not think it would be possible to remember all of the names but after feeding them a few times we quickly started to get the hang of it!
 
-![waiting for walkies](Https://drive.google.com/uc?export=view&id=14Cx9VFNN-CTWAsFb-jhDwbczzOawFnZa)
+{{< blog-image gdrive_id="14Cx9VFNN-CTWAsFb-jhDwbczzOawFnZa" caption="Out for a walk in the Jungle" >}}
 
 This is Grace, she is paralysed in the two back legs. She is an interesting dog because she could have a tendency to bite people but at the same time she is extremely sweet and requires a lot of attention so we had to be careful and learn how to work with her.
 
