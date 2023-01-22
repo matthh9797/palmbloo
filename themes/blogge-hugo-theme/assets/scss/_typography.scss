@@ -48,3 +48,6 @@ h4 {
 a {
   color: $secondary-color;
 }
+a:hover {
+  color: $secondary-color - 40
+}

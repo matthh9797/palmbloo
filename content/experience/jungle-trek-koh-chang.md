@@ -27,13 +27,14 @@ Tan picked us up from our accomodation at 8am in the morning and we jumped on th
 
 > Tan let us know on the trek that there are no wild elephants on Koh Chang island, to see them in Thailand he suggested Khao Yai national park
 
-  ![Khlong Prao elephant](Https://drive.google.com/uc?export=view&id=12AIOSN7-nZNLHiJeWRRakL24RYaCG_lr)
+{{< blog-image gdrive_id="12AIOSN7-nZNLHiJeWRRakL24RYaCG_lr" caption="Elephant in Khlong Prao" >}}
 
 The incline was quite steep and the humidity made it hard work. The path felt very wild there was a lot of ducking and jumping over/under trees. On the way up Tan showed us some different types of plants, trees and mushrooms that grow in the jungle. 
 
 We started the trek by making our way through some farmers land. Tan explained how the farmers used the trees to make toys and tyres. On the way up the mountain Tan pointed out lots of jungle vegetation such as lots of different types of mushrooms, some hard like wood and other soft and squigy. Trees with natural camoflage which tan explained were the colours vietnam soldiers would wear in the war. Also some plants such as Ivy and Orchids. 
 
-{{< gallery-slider dir="/images/experience/jungle-trek-koh-chang-slider1/" height="360px" width="600px">}}
+{{< w3-carousel id="jtkohchang" >}}
+
 
 After a couple of hours we got to a point where we could leave our bags and reach the peak. At the top of the mountain there were two amazing views, the first a view of the inner jungle and the second a view of the sea. We stopped at each for a while. One thing we have noticed of the Thai culture is that they work hard but when they stop they really relax and take their time.
 
