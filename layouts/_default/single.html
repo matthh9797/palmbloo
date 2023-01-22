@@ -46,6 +46,8 @@
           {{/*  Add recipe partial if layout set to recipe  */}}
           {{ if eq .Params.layout "recipe" }}
             {{ partial "partials/recipe.html" . }}
+          {{ else if eq .Params.layout "experience" }}
+            {{ partial "partials/experience-box.html" . }}
           {{end}}
           <div class="single-blog-content">
             {{ .Content }}
