@@ -1,4 +1,10 @@
 ---
+layout: experience
+price: ฿1,200 (£28.10) per person
+location: Thailand, Koh Chang
+duration: 6-7 hours
+wildlife: Green Viper, Sea Eagle
+to_bring: Swim suit, light trekking trousers (not essentail)
 title: "Jungle Trek Koh Chang"
 date: 2022-11-29T15:52:53+07:00
 tags: "Trekking"
