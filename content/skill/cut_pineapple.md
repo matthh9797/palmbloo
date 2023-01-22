@@ -9,6 +9,9 @@ thumbnail: /images/how_to/cut_pineapple/cut-pineapple-thumbnail.jpg
 featureImage: /images/how_to/cut_pineapple/header.jpg
 ---
 
+{{< youtube KGb6Ov9dRBo >}}
+<br>
+
 The first time we were shown how to cut a pineapple the Asian way we thought it looked a bit overcomplicated and time consuming but we quickly came to enjoy it. The method is an efficient way to get the most fruit out of your pineapple and a relaxing activity when you make the time to do it. 
 
 Chop of the crown and the slips (top and bottom) of the pineapple and sit it standing up on the chopping board.
@@ -32,5 +35,3 @@ Chop the pineapple into edible sized chunks.
 {{< blog-image gdrive_id="18dCma3UG4AVK29SzpJr2Jm-ikE-0kOOI" caption="" >}}
 
 Finally, eat!
-
-{{< youtube KGb6Ov9dRBo >}}
