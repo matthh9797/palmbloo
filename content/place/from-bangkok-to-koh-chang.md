@@ -19,18 +19,16 @@ We decided to take the second option to save some money and chose to stay in a h
 
 Since the price was so cheap, we were skeptical about the bus trip and expected an old bus with no aircon to show up in the morning. In actual fact the coach was quite modern and well air-conditioned. The co-driver also gave us some snacks and juice, there was the air con so not too warm and actually we fell asleep so we woke up very close to the ferry pier.
 
-![999 bus from Bangkok to Koh Chang](Https://drive.google.com/uc?export=view&id=1IyXPs-rSmwcRfmQZAOmk5ZTSUMM3JEZ_)
+{{< blog-image gdrive_id="172BC1KfTd5N7YG2LCpcA9MGkh9GNPt4F" caption="999 bus from Bangkok to Koh Chang" >}}
 
 The bus dropped us off at a stall on Laem Ngop where we were sold ferry tickets and transport to our accomodation when on the island. We were charged ฿360 (*£8.42*), ฿160 for the ferry tickets and ฿200 for the taxi to our accomodation when on the island. However, we were given a refund for the ฿200 as our accomodation was too far off route for the driver to go to.
 
-![Koh Chang ferry](Https://drive.google.com/uc?export=view&id=1BMlxmzCX1ldQj68a66OpFfaQBciJy4zo)
+{{< blog-image gdrive_id="178TUNXWCffGnGG9f8hgfc4m7fqQrXB1r" caption="Ferry from Laem Ngop to Koh Chang" >}}
 
 The ferry was pretty standard, there were some cheap snacks and and you could also buy a smoothie for the ride. The best part though was the view of Koh Chang as we approached  the mystical looking island - it looked like something from King Kong or Jurrasic Park. 
 
-<!-- ![Koh Chang Island view from ferry](Https://drive.google.com/uc?export=view&id=1jzs1Jbq5GvBO_56X9u8qFWgIIVEwZG-s) -->
-
 By the time we had arrived on the island we had managed to get our WorkAway host to come and pick us up who was a really nice and energetic woman from Cambodia. She told us to jump on the back of her small 4 by 4 with all of our luggage which turned out to be a really cool way to get an initial view of the island and the crazy antics of Thai drivers.
 
-![Crazy Thai drivers](Https://drive.google.com/uc?export=view&id=1wt3OyXQ5Nwc15dENLuRqsezvo8neVi16)
+{{< blog-image gdrive_id="171uQ5R3YLxjOG5jYiuXTYAv8-PnqJf0b" caption="Crazy Thai drivers" >}}
 
 And that was us, we left our accomodation in Ekkamai at 7am and arrived in our accomodation on Koh Chang island by 2pm where our hosts were preparing a BBQ for our arrival.
