@@ -1,4 +1,10 @@
 ---
+layout: experience
+price: 
+location: 
+duration: 
+wildlife: 
+to_bring: 
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 tranding: false
