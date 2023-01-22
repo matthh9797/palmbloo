@@ -38,11 +38,11 @@ We started the trek by making our way through some farmers land. Tan explained h
 
 After a couple of hours we got to a point where we could leave our bags and reach the peak. At the top of the mountain there were two amazing views, the first a view of the inner jungle and the second a view of the sea. We stopped at each for a while. One thing we have noticed of the Thai culture is that they work hard but when they stop they really relax and take their time.
 
-![Peak](Https://drive.google.com/uc?export=view&id=12Ys52hnGejAvmLvhRksPAmW107AqBCRw)
+{{< blog-image gdrive_id="12Ys52hnGejAvmLvhRksPAmW107AqBCRw" caption="The first peak" >}}
 
 After the peak we made our way back down and picked up our bags. It was around an hours trek towards a waterfall where we could stop to have some lunch and a swim. The waterfalls in Koh Chang island have lots of fish that like to nibble your dead skin (*like in the shopping centres*). 
 
-![Swimming in the waterfall](Https://drive.google.com/uc?export=view&id=12a4us_5-DXAaXDy_K3cRN5V7m9XLgW71)
+{{< blog-image gdrive_id="12a4us_5-DXAaXDy_K3cRN5V7m9XLgW71" caption="Lulu swimming with the fishes" >}}
 
 On the way out of the valley Tan spotted a green viper camoflaged in the trees. We would have never spotted it otherwise. It sat peacefully and watched us as we walked by.
 
