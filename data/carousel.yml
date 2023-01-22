@@ -12,3 +12,29 @@ av2:
   - image: /images/experience/animal-voice/slider-2/puppy&lulu.jpg
     position: bottomleft
     caption: none
+jtkohchang:
+  - image: /images/experience/jungle-trek-koh-chang-slider1/a-trees-used-for-toys.jpg
+    position: bottomleft
+    caption: Tree bark farmed
+  - image: /images/experience/jungle-trek-koh-chang-slider1/b-wild-mushrooms-squashy.jpg
+    position: bottomright
+    caption: Squashy mushrooms
+  - image: /images/experience/jungle-trek-koh-chang-slider1/b-wild-mushrooms.jpg
+    position: topright
+    caption: Solid mushrooms attached to tree
+  - image: /images/experience/jungle-trek-koh-chang-slider1/c-tree-camo.jpg
+    position: bottomleft
+    caption: Natural camouflage
+  - image: /images/experience/jungle-trek-koh-chang-slider1/d-ivy.jpg
+    position: bottomright
+    caption: Ivy
+  - image: /images/experience/jungle-trek-koh-chang-slider1/termite-mound.jpg
+    position: bottomleft
+    caption: Termite mound
+cut_pinapple:
+  - image: /images/how_to/cut_pineapple/slider/pineapple-cut-brown-spots-2.jpg
+    position: bottomright
+    caption: none
+  - image: /images/how_to/cut_pineapple/slider/s-pineapple-spiraled.jpg
+    position: bottomleft
+    caption: none
