@@ -4,28 +4,32 @@ spaghetti_carbonara:
     city: Edinburgh
     currency: GBP
   ingredients:
-    - name: Guanciale
-      quantity: 0.142
-      measure: grams
+    - item: guanciale
+      measure: weight
+      unit: gram
+      quantity: 150
       price: 4.50
       sourced: Leith Sunday Market
-    - name: Pecorino
-      quantity: 0.1
-      measure: grams
+    - item: pecorino
+      measure: weight
+      unit: grams
+      quantity: 100
       price: 4.50
       sourced: Leith Sunday Market
-    - name: Spaghetti
+    - item: spaghetti
+      measure: weight
+      unit: grams
       quantity: 500
-      measure: grams
       price: 2
       sourced: Tesco
-    - name: Egg yokes
-      quantity: 3
+    - item: egg yokes
       measure: proportion
+      quantity: 3
       price: 4.50
       sourced: Tesco
-    - name: Peppercorns
+    - item: peppercorns
+      measure: weight
+      unit: grams
       quantity: 200
-      measure: grams
       price: 1
       sourced: Marks & Spencers
