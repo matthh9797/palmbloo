@@ -1,0 +1,32 @@
+spaghetti_carbonara:
+  made_in:
+    country: Scotland
+    city: Edinburgh
+    currency: GBP
+  ingredients:
+    - name: Guanciale
+      quantity: 0.142
+      measure: grams
+      price: 4.50
+      sourced: Leith Sunday Market
+    - name: Pecorino
+      quantity: 0.1
+      measure: grams
+      price: 4.50
+      sourced: Leith Sunday Market
+    - name: Spaghetti
+      quantity: 500
+      measure: grams
+      price: 2
+      sourced: Tesco
+    - name: Egg yokes
+      quantity: 3
+      measure: proportion
+      price: 4.50
+      sourced: Tesco
+    - name: Peppercorns
+      quantity: 200
+      measure: grams
+      price: 1
+      sourced: Marks & Spencers
+
