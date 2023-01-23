@@ -38,8 +38,8 @@
         <!-- list ingredients that make up recipe -->
         {{ range (index .Site.Data.recipes "spaghetti_carbonara").ingredients }}
           <li itemprop="recipeIngredient">
-            {{ $ingredient := delimit (slice .quantity .measure "of" .name ) " " }}
-            {{ with ( $ingredient | markdownify) }}{{ partial "recipe_item.html" . }}{{ end }}
+            {{ $ingredient := (partial "format_measure" (dict "item" .item "measure" .measure "unit" .unit "quantity" .quantity)) }}
+            {{ with $ingredient }}{{ partial "recipe_item.html" . }}{{ end }}
           </li>
         {{ end }}
       </ul>
