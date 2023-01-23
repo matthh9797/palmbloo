@@ -1,0 +1,12 @@
+THB:
+  name: Thai Baht
+  suffix: baht 
+  symbol: 
+GBP:
+  name: British Pound
+  suffix: pound 
+  symbol: £
+USD:
+  name: US Dollar
+  suffix: dollars
+  symbol: $
