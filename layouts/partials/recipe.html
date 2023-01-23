@@ -33,17 +33,16 @@
       </ul>
       {{ end }}
 
-      {{ with .Params.Ingredients }}
       <h4 class="black mt0 mb2 xs-center">Ingredients</h4>
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
-        {{ range . }}
-        <li itemprop="recipeIngredient">
-          {{ with ( . | markdownify) }}{{ partial "recipe_item.html" . }}{{ end }}
-        </li>
+        {{ range (index .Site.Data.recipes "spaghetti_carbonara").ingredients }}
+          <li itemprop="recipeIngredient">
+            {{ $ingredient := delimit (slice .quantity .measure "of" .name ) " " }}
+            {{ with ( $ingredient | markdownify) }}{{ partial "recipe_item.html" . }}{{ end }}
+          </li>
         {{ end }}
       </ul>
-      {{ end }}
     </div>
 
     <div class="sm-col sm-col-6 lg-col-6 recipeItems">
@@ -57,10 +56,3 @@
     </div>
   </div>
   <!-- end recipe and directions -->
-
-{{ $recipe_id := .Params.recipe_id }}
-{{ with .Data.recipes }}
-  {{ range $key, $value := . }}
-    {{ .made_in.country }}
-  {{ end }}
-{{ end }}
