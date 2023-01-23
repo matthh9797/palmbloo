@@ -1,5 +1,6 @@
 ---
 layout: recipe
+recipe_id: spaghetti_carbonara
 title: "Spaghetti Carbonara"
 date: 2022-09-24T18:06:15+01:00
 author: "Luana Nicosia"
