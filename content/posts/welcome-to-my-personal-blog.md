@@ -2,7 +2,7 @@
   title: "Welcome to Our Travel Blog"
   date: 2022-09-18T17:33:14+06:00
   featured: true
-  author: "Luana Nicosia"
+  author: "Luana"
   tags: "travel"
   tranding: false
   readTime: "5 mins"

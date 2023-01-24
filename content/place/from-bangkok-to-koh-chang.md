@@ -3,7 +3,7 @@ title: "From Bangkok to Koh Chang"
 date: 2022-11-21T21:55:49+07:00
 tags: "Route"
 tranding: false
-author: "Luana Nicosia"
+author: "Luana & Matthew"
 readTime: "4 min"
 thumbnail: /images/place/from-bangkok-to-koh-chang-thumbnail.jpg
 featureImage: /images/place/from-bangkok-to-koh-chang-header.jpg
