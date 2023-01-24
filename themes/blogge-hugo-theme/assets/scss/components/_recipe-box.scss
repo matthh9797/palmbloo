@@ -1,9 +1,23 @@
 .container-recipe-box {
+    .text-success {
+      ul {color: $text-color;}
+    }
+
+    .recipe-info {
+      padding: 15px;
+      margin-bottom: 20px;
+      border: 3px solid $text-color;
+      border-radius: 5px;
+      // background-color: $text-color + 5;
+      color: $primary-color;
+      text-align: center;
+    }
+
     @media (min-width: 40em) {
     .sm-col {
       float: left;
       box-sizing: border-box;
-      padding-left:2%;
+      padding-left:0%;
     }
     .sm-col-right {
       float: right;
