@@ -48,3 +48,22 @@ lulu_birthday:
   - image: /images/posts/lulu-birthday/slider1/papaya-salad.jpg
     position: topright
     caption: Papaya Salad
+spaghetti_carbonara:
+  - image: https://drive.google.com/uc?export=view&id=19zvaoR9mAre87g5hdVaT6SYmfi80MaqO
+    position: topleft
+    caption: "Step 0: Ingredients"
+  - image: https://drive.google.com/uc?export=view&id=1A0ynNpi20AwzYRGFRdbnNVldC13MzyEk
+    position: topleft
+    caption: "Step 1: Prepare"
+  - image: https://drive.google.com/uc?export=view&id=1A0ynNpi20AwzYRGFRdbnNVldC13MzyEk
+    position: topleft
+    caption: "Step 2: Cook"
+  - image: https://drive.google.com/uc?export=view&id=19jmOTLtY7jKQ7bI593gqLyKZgOdHOYhl
+    position: topleft
+    caption: "Step 3: The cream"
+  - image: https://drive.google.com/uc?export=view&id=1A7v8ZgWKLrmYhChOZSDrAn_87L_0Zyep
+    position: topleft
+    caption: "Step 4: Mix"
+  - image: https://drive.google.com/uc?export=view&id=19pyHHt-0TUIhX5ku7VZCaeryNXjx6Zbn
+    position: topleft
+    caption: "Step 5: Eat!"
