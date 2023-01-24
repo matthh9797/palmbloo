@@ -2,7 +2,7 @@
 title: "Animal Voice"
 date: 2023-01-05T16:19:44+07:00
 tags: "Workaway"
-tranding: false
+tranding: true
 author: "Luana & Matthew"
 readTime: "4 min"
 thumbnail: /images/experience/animal-voice/thumb.jpg
