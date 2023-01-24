@@ -3,7 +3,7 @@ layout: recipe
 recipe_id: spaghetti_carbonara
 title: "Spaghetti Carbonara"
 date: 2022-09-24T18:06:15+01:00
-author: "Luana Nicosia"
+author: "Luana"
 tags: "Italian"
 tranding: false
 readTime: "4 min"
@@ -15,14 +15,6 @@ cuisine: "Italian"
 yield: 2
 prepTime: 15
 cookTime: 45
-
-ingredients:
-
-- Guanciale, 0.142 grams, £4.50
-- Pecorino, 0.101 grams, £4.50
-- Spaghetti, 500 grams, £2
-- Egg yokes, 3, £2
-- Peppercorns, 200 grams, £1
 
 directions:
 - Cut the Guanciale length wise. Grate the pecorino with a fine grater. Split the eggs and keep only the yoke. Use a spice grinder to crush the pepper.
