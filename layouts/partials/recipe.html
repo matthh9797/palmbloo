@@ -1,25 +1,40 @@
-<div class="container-recipe-box">
-<div class="clearfix mt3">
-    {{ with .Params.yield }}
-    <div class="sm-col sm-col-12">
-        <h4 class="black mt0 mb2 xs-center">Feeds: {{.}}</h4>
-    </div>
-    {{ end }}
-    {{ with .Params.prepTime }}
-    <div class="sm-col sm-col-12">
-      <h4 class="black mt0 mb2 xs-center">Preparation time: {{.}} minutes</h4>
-    </div>
-    {{ end }}
-    {{ with .Params.cookTime }}
-    <div class="sm-col sm-col-12">
-      <h4 class="black mt0 mb2 xs-center">Cooking time: {{.}} minutes</h4>
-    </div>
-    {{ end }}
-  </div>
 
+<div class="container-recipe-box">
+
+<div class="recipe-info clearfix mt3">
+  {{ with .Params.prepTime }}
+  <div class="sm-col sm-col-4">
+    
+    <div class="mt1 mb1 xs-center">{{ emojify ":hourglass_flowing_sand:" }}<strong class="ml1">Prep:</strong> {{.}} mins</div>
+  </div>
+  {{ end }}
+  {{ with .Params.cookTime }}
+  <div class="sm-col sm-col-4">
+    <div class="mt1 mb1 xs-center">{{ emojify ":hourglass:" }}<strong class="ml1">Cook:</strong> {{.}} mins</div>
+  </div>
+  {{ end }}
+  {{ with .Params.yield }}
+  <div class="sm-col sm-col-4">
+      <div class="mt1 mb1 xs-center">{{ emojify ":fork_and_knife:" }}<strong class="ml1">Feeds:</strong> {{.}}</div>
+  </div>
+  {{ end }}
+</div>
+
+<div>
+  <h3>Description</h3>
+  <p>
+  {{ .Params.description | markdownify }}
+  </p>
+</div>
+<h3>Method</h3>
+<div class="single-blog-content mb-5">
+  {{ .Content }}
+</div>
+<div class="card border-success mb-3">
+  <div class="card-body text-success">
   <!-- call up recipe and directions -->
   <div class="clearfix mt2">
-    <div class="sm-col sm-col-6 lg-col-6 recipeItems">
+    <div class="sm-col sm-col-6 lg-col-6 recipeItems ps-1">
       <!-- check if it's a component-based recipe -->
       {{ with .Params.Components}}
       <h4 class="black mt0 mb2 xs-center">Components</h4>
@@ -45,7 +60,7 @@
       </ul>
     </div>
 
-    <div class="sm-col sm-col-6 lg-col-6 recipeItems">
+    <div class="sm-col sm-col-6 lg-col-6 recipeItems ps-1">
       <h4 class="black mt0 mb2 xs-center">Directions</h4>
       <ul itemprop="recipeInstructions">
         {{ range .Params.Directions }}
@@ -55,4 +70,7 @@
       </ul>
     </div>
   </div>
+
+  </div>
+</div>
   <!-- end recipe and directions -->
