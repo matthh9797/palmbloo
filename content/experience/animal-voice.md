@@ -23,7 +23,7 @@ The work was split into a shift in the morning and one in the afternoon, we woul
 
 There are around 20 dogs in the shelter so at first we did not think it would be possible to remember all of the names but after feeding them a few times we quickly started to get the hang of it!
 
-{{< blog-image gdrive_id="14Cx9VFNN-CTWAsFb-jhDwbczzOawFnZa" caption="Out for a walk in the Jungle" >}}
+{{< blog-image gdrive_id="19RrOxtbHSGqaA0K-Wwey9jAM_X4rUZFN" caption="Out for a walk in the jungle" >}}
 
 This is Grace, she is paralysed in the two back legs. She is an interesting dog because she could have a tendency to bite people but at the same time she is extremely sweet and requires a lot of attention so we had to be careful and learn how to work with her.
 
@@ -46,15 +46,16 @@ Near the end of our stay Agnieszka came to us with some "bad news", we were goin
 
 The puppies arrived late in the evening and they were so tiny. We fed them with some warm milk and covered them with a blanket. 
 
+{{< blog-image gdrive_id="15BMy7p3OV0WQeL7itrCIBRchrNI9NaxN" caption="Puppies!" >}}
+
 Unfortunately two puppies didn't seem very active at all in fact during the night two of the volunteers found a puppy dead and let us know that another was not looking well. The next morning we expected the worst and in fact we found another puppy dead. It was very sad for us but there wasn't much we could do to save them.
 
 The reality of working in an animal shelter it is a hospital for sick dogs and puppies dying is an unfortunate part of the experience. However, the other three were very active and healthy. If the shelter had not taken them in, they may also have not survived and that was a very special and memorable feeling.
 
-{{< w3-carousel id="av2" >}}
+{{< youtube LmfKna4IVrs >}}
+<br>
 
 We loved this experience and would have stayed even longer had it not have been fully booked. At the end we were pretty sad to say goodbye to the dogs. Maybe we will back one day, but for now we will keep with us this experience very happy with the fact that there are organisations in the world like this one that do so much to help animals in need. 
 
-
-
-
+{{< w3-carousel id="animal_voice" >}}
 

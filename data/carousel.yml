@@ -1,17 +1,37 @@
-av1:
-  - image: /images/experience/animal-voice/slider-1/lulu-walkies.jpg
-    position: bottomright
-    caption: Lulu on a walk
+animal_voice:
+  - image: https://drive.google.com/uc?export=view&id=19MfXvG5vTkiEFfFyyLeD9taYe2pD3Zz4
+    position: topright
+    caption: Straight Outta Compton
+  - image: https://drive.google.com/uc?export=view&id=14ktvX_4a-XjqdhsuaTCISd_1G8nQCDJL
+    position: topleft
+    caption: Lulu in love
   - image: /images/experience/animal-voice/slider-1/matt-walkies.jpg
-    position: middle
-    caption: Matt on a walk
-av2:
-  - image: /images/experience/animal-voice/slider-2/puppies.jpg
+    position: topright
+    caption: The day a stray joined us
+  - image: https://drive.google.com/uc?export=view&id=12fx3EZ4Qqmn54NtyHUot3juyUmSqpOJQ
     position: bottomright
-    caption: Puppies!
-  - image: /images/experience/animal-voice/slider-2/puppy&lulu.jpg
+    caption: Matthew in da house
+  - image: https://drive.google.com/uc?export=view&id=19QdK97dK2dHWPTzw5fYC7Vsyqzrz0JJz
+    position: topleft
+    caption: Time to sleep
+  - image: https://drive.google.com/uc?export=view&id=14sAoAMP6rxdCd13y5XY8fZi2J9aj8wNb
+    position: topleft
+    caption: Scruffy and Kangi chilling
+  - image: https://drive.google.com/uc?export=view&id=14n35c-xEAtrt5Gq5i_Z96q-um1lY8q28
     position: bottomleft
-    caption: none
+    caption: Time for walkies
+  - image: https://drive.google.com/uc?export=view&id=14z8G6tRHj6oqAnl36Hnx0t4ESDz9GtOC
+    position: bottomleft
+    caption: Matthew and Point
+  - image: https://drive.google.com/uc?export=view&id=14HkmAG20dipMYrg51vIKRDnxa3KcGPwk
+    position: bottomleft
+    caption: Naughty Kafi!
+  - image: https://drive.google.com/uc?export=view&id=13Fef3mpIKsabpcbJ2pWQz8y_V9lQvPIW
+    position: topright
+    caption: Waiting for walkies
+  - image: https://drive.google.com/uc?export=view&id=14eusUaAgDItM2DITjbEcIjRWOKDVtQZU
+    position: topright
+    caption: Had to end with another puppy picture
 jtkohchang:
   - image: /images/experience/jungle-trek-koh-chang-slider1/a-trees-used-for-toys.jpg
     position: bottomleft
