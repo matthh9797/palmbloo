@@ -1,3 +1,14 @@
+@keyframes rotation {
+  0% {transform: rotate(0deg);}
+  20% {transform: rotate(180deg);}
+  30% {transform: translate(0px, 5px) rotate(180deg);}
+  40% {transform: translate(0px, -10px) rotate(180deg);}
+  60% {transform: translate(0px, 5px) rotate(180deg);}
+  70% {transform: translate(0px, -10px) rotate(180deg);}
+  80% {transform: rotate(180deg)};
+  100% {transform: rotate(360deg);}
+}
+
 .container-recipe-box {
     .text-success {
       ul {color: $text-color;}
@@ -11,7 +22,16 @@
       // background-color: $text-color + 5;
       color: $primary-color;
       text-align: center;
+      .spin-emoji {
+        display: inline-block;
+        animation: rotation 3s 3 linear;
+      }
+      .reverse {
+        animation-direction: reverse;
+        animation-delay: 0.5s;
+      }
     }
+
 
     @media (min-width: 40em) {
     .sm-col {

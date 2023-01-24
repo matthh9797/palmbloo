@@ -5,17 +5,17 @@
   {{ with .Params.prepTime }}
   <div class="sm-col sm-col-4">
     
-    <div class="mt1 mb1 xs-center">{{ emojify ":hourglass_flowing_sand:" }}<strong class="ml1">Prep:</strong> {{.}} mins</div>
+    <div class="mt1 mb1 xs-center"><span class="spin-emoji">{{ emojify ":hourglass_flowing_sand:" }}</span><strong class="ml1">Prep:</strong> {{.}} mins</div>
   </div>
   {{ end }}
   {{ with .Params.cookTime }}
   <div class="sm-col sm-col-4">
-    <div class="mt1 mb1 xs-center">{{ emojify ":hourglass:" }}<strong class="ml1">Cook:</strong> {{.}} mins</div>
+    <div class="mt1 mb1 xs-center"><span class="spin-emoji reverse">{{ emojify ":hourglass:" }}</span><strong class="ml1">Cook:</strong> {{.}} mins</div>
   </div>
   {{ end }}
   {{ with .Params.yield }}
   <div class="sm-col sm-col-4">
-      <div class="mt1 mb1 xs-center">{{ emojify ":fork_and_knife:" }}<strong class="ml1">Feeds:</strong> {{.}}</div>
+      <div class="mt1 mb1 xs-center"><span>{{ emojify ":fork_and_knife:" }}</span><strong class="ml1">Feeds:</strong> {{.}}</div>
   </div>
   {{ end }}
 </div>
