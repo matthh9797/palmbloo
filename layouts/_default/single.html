@@ -48,10 +48,14 @@
             {{ partial "partials/recipe.html" . }}
           {{ else if eq .Params.layout "experience" }}
             {{ partial "partials/experience-box.html" . }}
-          {{end}}
+            <div class="single-blog-content">
+              {{ .Content }}
+            </div>
+          {{ else }}
           <div class="single-blog-content">
             {{ .Content }}
           </div>
+          {{end}}
 
         </article>
         <div class="blog-single-presentation">
