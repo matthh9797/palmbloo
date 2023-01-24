@@ -19,10 +19,11 @@ enableEmoji = true
     name = "Experiences"
     url= "experience"
     weight= 3
-  [[menu.main]]
-    name = "Perspective"
-    url= ""
-    weight= 4  
+  # removed until we add the first article for perspective
+  # [[menu.main]]
+  #   name = "Perspective"
+  #   url= ""
+  #   weight= 4  
   [[menu.main]]
     name = "Places"
     url= "place"
@@ -44,7 +45,7 @@ enableEmoji = true
 [params]
   summarylength = 80
   logo = "images/logo.png"
-  author = "Luana Nicosia & Matthew Henderson"
+  author = "Luana & Matthew"
   authorThumb = "images/matt-and-lulu.png"
   authorAddress = "Somewhere in Thailand"
   authorPhone = "+66 6-4110-1052"
