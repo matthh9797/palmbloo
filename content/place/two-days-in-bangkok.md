@@ -40,3 +40,5 @@ From here we [grab](https://www.grab.com/th/)'d at taxi home which cost 177 baht
 Things to note:
  - We found the BTS to be a good way to get around Bangkok as it is a modern overground tram with good air conditioning, however, it isn't too built up so you will be lucky to get exactly where you are going.
  - Another thing we noticed when walking around Bangkok is there is loads of low hanging cables hanging from the street posts.
+
+{{< blog-image gdrive_id="19L9HDyFknRlkSUR0M8XsfzGN9wTs_W2k" caption="Low hanging cables in Bangkok" >}}
