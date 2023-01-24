@@ -2,7 +2,8 @@
 title: "Two Days in Bangkok"
 date: 2022-11-19T23:51:11+07:00
 tags: "Bangkok"
-tranding: true
+tranding: false
+author: "Luana & Matthew"
 readTime: "4 min"
 thumbnail: /images/place/bangkok-header.jpg
 featureImage: /images/place/two-days-in-bangkok/cover.jpg

@@ -3,7 +3,7 @@ title: "How to Cut a Pineapple"
 date: 2022-12-09T09:11:41+07:00
 tags: "Fruit preparation"
 tranding: false
-author: "Luana Nicosia"
+author: "Luana"
 readTime: "2 min"
 thumbnail: /images/how_to/cut_pineapple/cut-pineapple-thumbnail.jpg
 featureImage: /images/how_to/cut_pineapple/header.jpg
