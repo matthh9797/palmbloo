@@ -35,7 +35,6 @@ We started the trek by making our way through some farmers land. Tan explained h
 
 {{< w3-carousel id="jtkohchang" >}}
 
-
 After a couple of hours we got to a point where we could leave our bags and reach the peak. At the top of the mountain there were two amazing views, the first a view of the inner jungle and the second a view of the sea. We stopped at each for a while. One thing we have noticed of the Thai culture is that they work hard but when they stop they really relax and take their time.
 
 {{< blog-image gdrive_id="12Ys52hnGejAvmLvhRksPAmW107AqBCRw" caption="The first peak" >}}

@@ -1,7 +1,10 @@
+{{ $border_radius := (.Get "border_radius") | default "5px" }}
+{{ $wh_ratio := (.Get "wh_ratio") | default "16 / 9" }}
+
 <div class="shortcode">
     <div class="blog-image">
         <figure class="figure">
-            <img src="https://drive.google.com/uc?export=view&id={{.Get `gdrive_id`}}"/>
+            <img style="border-radius: {{$border_radius}}; aspect-ratio: {{$wh_ratio}};" src="https://drive.google.com/uc?export=view&id={{.Get `gdrive_id`}}"/>
             <figcaption class="figure-caption text-right">{{ .Get "caption" }}</figcaption>
         </figure>
     </div>

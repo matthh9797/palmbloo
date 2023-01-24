@@ -10,13 +10,13 @@
   featureImage: /images/posts/welcome-article/chilling.jpg
 ---
 
-Welcome to our travel blog! This website is meant for anyone who is interested to learn about the world. **If you already love traveling** you can learn some tips and practical advice. **If you are thinking about traveling** you can learn how skills and experiences will enhance your character. **Everyone** can learn new recipes from some of the best World Cuisine or gain perspective by considering how people in other cultures live.
+Welcome to our travel blog! This website is meant for anyone who is interested to learn about the world. If you already love traveling you can learn some tips and practical advice. If you are thinking about traveling you can learn how skills and experiences will enhance your character. Everyone can learn new recipes from some of the best World Cuisine or gain perspective by considering how people in other cultures live.
 
 We decided to call the blog "Gypsy Lulu". The word gypsy is inspired by Fleetwood Mac and to us means "a nomadic and free spirited person". Gypsy Lulu is a concept of a person who does not belong to one place or country.
 
 ### Why do we choose to travel?
 
-When you tell people that you have decided to take an extended period of time to go **"traveling"** you are often met with a roll of the eyes: **"What about your career?"**, **"Are you going to party for a full year?"**, **"Are you going to find yourself?"**
+When you tell people that you have decided to take an extended period of time to go **"traveling"** you are often met with a roll of the eyes: "What about your career?", "Are you going to party for a full year?", "Are you going to find yourself?"
 
 There seems to be a lot of misconception about what traveling is and why people do it so we have created this website to share our experience with others. We are not going to tell you that everyone should quit their jobs right now and book the next flight to the other side of the world but just show you why we have chosen to do it ourselves.
 
@@ -27,9 +27,9 @@ Whilst we can't share everything about traveling we have tried to group our reas
 
 - [Immerse yourself in local Cuisine]({{< ref "/cuisine" >}})
 - [Widen your Experiences]({{< ref "/experience" >}})
-- [Deepen your Perspective]({{< ref "/" >}})
 - [Discover interesting Places]({{< ref "/place" >}})
 - [Learn new Skills]({{< ref "/skill" >}})
+<!-- - [Deepen your Perspective]({{< ref "/" >}}) -->
 
 Everyone has a different experience when they travel and we don't claim this is a full list of reasons to do it. In fact, there are some important reasons we missed out since they are harder to share through a blog. But most people who travel would agree that these are some of the key reasons to do it and this is what we would like to share with you.
 
@@ -40,10 +40,6 @@ We will share with you recipes from some of the best food cultures in the World 
 ### Widen your Experiences
 
 We would like to show you the unique and amazing [Experiences]({{< ref "/experience" >}}) that come from travelling. Travel means adventure and some adventures are worth having! Volunteering and living locally come with challenges and opportunities that grow your awareness about how the world works. Activities that push you outside of your comfort zone will make you feel alive.
-### Deepen your perspective
-
-Observing how different societies function deepens your [Perspective]({{< ref "/" >}}) and we would like to share our thoughts about it as we travel the world. Meeting people from other cultures will teach you that the way you have been looking at the world isn't the way everybody else does. Perspective is something you take into everything you do and one of the main reasons we love to travel.
-
 ### Discover interesting places
 
 By moving to lots of different places and living under lots of different conditions we will share with you the pro's and con's of living in different [Places]({{< ref "/place" >}}) and help you discover what is really important to you in your chosen place to live. There is no perfect place in the world, if there was everyone would move there, then it would no longer be perfect. There are lots of factors to consider when choosing a place like weather, cost of living, jobs, crowdedness, activities, safety and weather again!
@@ -57,6 +53,10 @@ When travelling you learn a lot of new skills so we would like to share some [Sk
 ### A Few More Reasons
 
 There are some other important reasons to travel. Although we did not feel these reasons required a full section of the website we hope these come through in our articles and would like to include these here:
+
+### Deepen your perspective
+
+Observing how different societies function deepens your Perspective and we would like to share our thoughts about it as we travel the world. Meeting people from other cultures will teach you that the way you have been looking at the world isn't the way everybody else does. Perspective is something you take into everything you do and one of the main reasons we love to travel.
 
 - Brings you out of your shell socially
 - Is a great way to improve your English for non-natives
