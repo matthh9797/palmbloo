@@ -38,3 +38,13 @@ cut_pinapple:
   - image: /images/how_to/cut_pineapple/slider/s-pineapple-spiraled.jpg
     position: bottomleft
     caption: none
+lulu_birthday:
+  - image: /images/posts/lulu-birthday/slider1/pork-ribs.jpg
+    position: bottomright
+    caption: Pork Ribs
+  - image: /images/posts/lulu-birthday/slider1/chicken-cashew-nuts.jpg
+    position: bottomleft
+    caption: Chicken Cashew Nuts
+  - image: /images/posts/lulu-birthday/slider1/papaya-salad.jpg
+    position: topright
+    caption: Papaya Salad
