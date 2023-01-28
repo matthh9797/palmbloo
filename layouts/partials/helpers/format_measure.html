@@ -11,7 +11,7 @@
         {{/* {{ $prefix | strings.FirstUpper }} {{ .item }} */}}
         {{ .quantity }} {{ .item }}
     {{ else }}
-        {{ partial "format_fraction" (dict "proportion" .quantity) }} of {{ $prefix }} {{ .item }}
+        {{ partial "helpers/format_fraction" (dict "proportion" .quantity) }} of {{ $prefix }} {{ .item }}
     {{ end }}
 {{ else }}
     Please add formatting for measure: {{ .measure }}
