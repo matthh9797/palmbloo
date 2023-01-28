@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<section class="blog-single">
+    <div class="container">
+      <div class="row">
+        {{ partial "social_media.html" . }}
+        <div class="col-lg-10 order-1 order-lg-2">
+          <article class="single-blog">
+            {{ partial "single/feature.html" . }}
+            {{ partial "single/content-recipe.html" . }}
+          </article>
+          {{ partial "single/blog-presentation.html" . }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+{{ end }}
