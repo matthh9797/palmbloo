@@ -1,0 +1,86 @@
+nice:
+  name: Nice Residence
+  country: Thailand
+  area: Bangkok
+  from: 2022-11-18
+  to: 2022-11-20
+  season: High
+  accomodation_type: Hotel
+  booked_with: Agoda
+  price: 2168.18
+  currency: THB
+  rate5: 2
+  notes: >
+    Did not use the pool, in hindsight should have booked buotique guest house
+animalvoice:
+  name: Animal Voice Koh Chang
+  country: Thailand
+  area: Koh Chang
+  from: 2022-11-20
+  to: 2022-12-10
+  season: High
+  accomodation_type: Workaway
+  url: https://www.animalvoicekohchang.com/
+  rate5: 4
+  notes: >
+    Nice modern room, included free scooter, laundry and kitchen, did not include food
+tantawan:
+  name: Tantawan 
+  country: Thailand
+  area: Koh Chang
+  from: 2022-12-10
+  to: 2022-12-26
+  season: High/Peak
+  accomodation_type: Bungalow
+  booked_with: direct 
+  price: 8000
+  currency: THB
+  url: https://www.tripadvisor.com/Hotel_Review-g580110-d6886139-Reviews-Tantawan_Resort-Ko_Chang_Trat_Province.html
+  rate5: 5
+  notes: >
+    Basic room but good value for money in peak season, on the beach and had aircon, we liked the atmosphere the two guys were funny and friendly until they dissappeared 
+tayai:
+  name: Ta Yai Homestay 
+  country: Thailand
+  area: Koh Kood
+  from: 2022-12-26
+  to: 2022-12-31
+  season: Peak
+  accomodation_type: Guest House
+  booked_with: direct 
+  price: 3000
+  currency: THB
+  url: https://www.facebook.com/Dekkoh8222/
+  rate5: 2
+  notes: >
+    Cool place on a lagoon with free kayaks to use but our room was loud at night and didn't like the atmosphere much
+leelawadee:
+  name: Leelawadee Resort 
+  country: Thailand
+  area: Koh Chang
+  from: 2022-12-31
+  to: 2023-01-02
+  season: Peak
+  accomodation_type: Bungalow
+  booked_with: booking.com 
+  price: 1720
+  currency: THB
+  rate5: 4
+  url: https://www.leelawadee-resort.com/
+  notes: >
+    Quite expensive but a pretty chilled spot
+hakhuot:
+  name: Hak Huot Hotel I
+  country: Cambodia
+  area: Poipet
+  from: 2023-01-02
+  to: 2023-01-03
+  season: Peak
+  accomodation_type: Hotel
+  booked_with: Traveloka
+  price: 1473
+  currency: THB
+  rate5: 1
+  url: https://hakhuothotel.com/
+  notes: >
+    Very expensive, did not use pool, breakfast included and was quite good, Poipet is shit hole, in hindsight would have booked straight to Siem Reap

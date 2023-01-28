@@ -1,0 +1,39 @@
+thailand:
+  from: 2022-11-18
+  to: 2023-01-02 
+  season: High/Peak 
+  group: Couple
+  visa:
+    name: 45 Day Visa Exemption Scheme
+    length: 45
+    cost: 0
+    notes: >
+      Overstayed 1 day, check the stamp on your passport! Charged 500 baht / day
+  areas:
+    kohchang:
+      name: Koh Chang
+      area_type: Island
+      dates:
+        period1: 
+          from: 2022-11-20 
+          
+cambodia:
+  from: 2023-01-02 
+  season: Peak 
+  group: Couple 
+  tourism_websites:
+    tourismcambodia:
+      name: Tourism Cambodia 
+      url: https://www.tourismcambodia.com/
+  areas:
+    poipet:
+      name: Poipet 
+      area_type: City
+      dates:
+        from: 2023-01-02 
+        to: 2023-01-03 
+    siemreap:
+      name: Siem Reap 
+      area_type: City 
+      dates:
+        from: 2023-01-03
