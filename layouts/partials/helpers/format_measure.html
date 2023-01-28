@@ -1,0 +1,18 @@
+{{/* set prefix of the item */}}
+{{ $first_letter := substr .item 0 1 }}
+{{ $prefix := cond (in (slice "a" "e" "i" "o" "u") $first_letter) "an" "a" }}
+{{/* format the measurement */}}
+{{ if in (slice "weight" "volume") .measure }}
+    {{ .quantity }} {{ pluralize .unit }} of {{ .item }}
+{{ else if in (slice "proportion") .measure }}
+    {{ if gt (int .quantity) 1 }}
+        {{ .quantity }} {{ pluralize .item }}
+    {{ else if eq (int .quantity) 1 }}
+        {{/* {{ $prefix | strings.FirstUpper }} {{ .item }} */}}
+        {{ .quantity }} {{ .item }}
+    {{ else }}
+        {{ partial "helpers/format_fraction" (dict "proportion" .quantity) }} of {{ $prefix }} {{ .item }}
+    {{ end }}
+{{ else }}
+    Please add formatting for measure: {{ .measure }}
+{{ end }}
