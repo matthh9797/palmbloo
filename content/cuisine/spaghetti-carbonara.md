@@ -15,6 +15,8 @@ yield: 2
 prepTime: 15
 cookTime: 45
 
+summary: The recipe for carbonara began to appear in 1944. It is said that American soldiers, during the Second World War, tasted the Abruzzese "cacio e uova" pasta prepared by carbonari and from here it could be born the name carbonara.
+
 description: >
     The recipe for *carbonara* began to appear in 1944. It is said that American soldiers, during the Second World War, tasted the Abruzzese " cacio e  uova " pasta prepared by *carbonari* and from here it could be born the name *carbonara*. From there, adding the bacon, came almost natural.
 

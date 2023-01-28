@@ -8,6 +8,9 @@ author: "Luana & Matthew"
 readTime: "4 min"
 thumbnail: /images/experience/animal-voice/thumb.jpg
 featureImage: /images/experience/animal-voice/cover.jpeg
+
+summary: Three weeks surrounded by dogs in a modern pad in the middle of the jungle, what not to like? 
+
 ---
 
 {{< bootstrap-button text="Donate Here" url="https://www.animalvoicekohchang.com/donation/" >}}
