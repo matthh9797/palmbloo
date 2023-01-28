@@ -1,5 +1,4 @@
 ---
-layout: recipe
 recipe_id: spaghetti_carbonara
 title: "Spaghetti Carbonara"
 date: 2022-09-24T18:06:15+01:00
@@ -15,6 +14,8 @@ cuisine: "Italian"
 yield: 2
 prepTime: 15
 cookTime: 45
+
+summary: The recipe for carbonara began to appear in 1944. It is said that American soldiers, during the Second World War ... 
 
 description: >
     The recipe for *carbonara* began to appear in 1944. It is said that American soldiers, during the Second World War, tasted the Abruzzese " cacio e  uova " pasta prepared by *carbonari* and from here it could be born the name *carbonara*. From there, adding the bacon, came almost natural.
