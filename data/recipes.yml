@@ -4,6 +4,7 @@ spaghetti_carbonara:
     city: Edinburgh
     currency: GBP
   ingredients:
+      # measure (e.g. weight, volume, proportion ... ). To define new measure add to the format_measure partial
     - item: guanciale
       measure: weight
       unit: gram
@@ -33,3 +34,4 @@ spaghetti_carbonara:
       quantity: 200
       price: 1
       sourced: Marks & Spencers
+
