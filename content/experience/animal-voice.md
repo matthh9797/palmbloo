@@ -1,4 +1,5 @@
 ---
+type: _default
 title: "Animal Voice"
 date: 2023-01-05T16:19:44+07:00
 tags: "Workaway"

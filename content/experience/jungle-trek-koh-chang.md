@@ -1,5 +1,4 @@
 ---
-layout: experience
 price: ฿1,200 (£28.10) per person
 location: Thailand, Koh Chang
 duration: 6-7 hours
