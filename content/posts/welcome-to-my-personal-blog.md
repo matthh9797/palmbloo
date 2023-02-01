@@ -3,7 +3,7 @@
   date: 2022-09-18T17:33:14+06:00
   featured: true
   author: "Luana"
-  tags: "travel"
+  tags: "Travel"
   tranding: false
   readTime: "5 mins"
   thumbnail: /images/welcome-image2.jpg

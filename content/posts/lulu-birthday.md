@@ -1,7 +1,7 @@
 ---
 title: "Lulu's Birthday"
 date: 2022-12-16T16:14:31+07:00
-tags: 
+tags: "Day trip"
 tranding: true
 author: "Luana"
 readTime: "3 min"

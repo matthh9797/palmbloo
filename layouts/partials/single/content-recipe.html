@@ -1,0 +1,77 @@
+
+<div class="container-recipe-box">
+
+    <div class="recipe-info clearfix mt3">
+      {{ with .Params.prepTime }}
+      <div class="sm-col sm-col-4">
+        
+        <div class="mt1 mb1 xs-center"><span class="spin-emoji">{{ emojify ":hourglass_flowing_sand:" }}</span><strong class="ml1">Prep:</strong> {{.}} mins</div>
+      </div>
+      {{ end }}
+      {{ with .Params.cookTime }}
+      <div class="sm-col sm-col-4">
+        <div class="mt1 mb1 xs-center"><span class="spin-emoji reverse">{{ emojify ":hourglass:" }}</span><strong class="ml1">Cook:</strong> {{.}} mins</div>
+      </div>
+      {{ end }}
+      {{ with .Params.yield }}
+      <div class="sm-col sm-col-4">
+          <div class="mt1 mb1 xs-center"><span>{{ emojify ":fork_and_knife:" }}</span><strong class="ml1">Feeds:</strong> {{.}}</div>
+      </div>
+      {{ end }}
+    </div>
+    
+    <div>
+      <h3>Description</h3>
+      <p>
+      {{ .Params.description | markdownify }}
+      </p>
+    </div>
+    <h3>Method</h3>
+    <div class="single-blog-content mb-5">
+      {{ .Content }}
+    </div>
+    <div class="card border-success mb-3">
+      <div class="card-body text-success">
+      <!-- call up recipe and directions -->
+      <div class="clearfix mt2">
+        <div class="sm-col sm-col-6 lg-col-6 recipeItems ps-1">
+          <!-- check if it's a component-based recipe -->
+          {{ with .Params.Components}}
+          <h4 class="black mt0 mb2 xs-center">Components</h4>
+          <ul>
+            <!-- list components that make up recipe -->
+            {{ range . }}
+            <li>
+              {{ with ( . | markdownify) }}{{ partial "components/recipe_item.html" . }}{{ end }}
+            </li>
+            {{ end }}
+          </ul>
+          {{ end }}
+    
+          <h4 class="black mt0 mb2 xs-center">Ingredients</h4>
+          <ul itemprop="ingredients">
+            <!-- list ingredients that make up recipe -->
+            {{ range (index .Site.Data.recipes "spaghetti_carbonara").ingredients }}
+              <li itemprop="recipeIngredient">
+                {{ $ingredient := (partial "helpers/format_measure" (dict "item" .item "measure" .measure "unit" .unit "quantity" .quantity)) }}
+                {{ with $ingredient }}{{ partial "components/recipe_item.html" . }}{{ end }}
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+    
+        <div class="sm-col sm-col-6 lg-col-6 recipeItems ps-1">
+          <h4 class="black mt0 mb2 xs-center">Directions</h4>
+          <ul itemprop="recipeInstructions">
+            {{ range .Params.Directions }}
+            <li>
+              {{ with ( . | markdownify) }}{{ partial "components/recipe_item.html" . }}{{ end }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    
+      </div>
+    </div>
+      <!-- end recipe and directions -->
+    
