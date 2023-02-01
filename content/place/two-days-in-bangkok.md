@@ -1,7 +1,7 @@
 ---
 title: "Two Days in Bangkok"
 date: 2022-11-19T23:51:11+07:00
-tags: "Bangkok"
+tags: "City"
 tranding: false
 author: "Luana & Matthew"
 readTime: "4 min"
