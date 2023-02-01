@@ -30,6 +30,31 @@
         padding: 0 20px;
       }
     }
+    .info {
+      ul {
+        padding: 0;
+        margin: 0;
+        li {
+          list-style: none;
+          margin-bottom: 30px;
+          i {
+            background-color: $white;
+            margin-right: 10px;
+            color: $text-color-dark;
+            @include mobile-xs {
+              width: 30px;
+              height: 30px;
+              margin-right: 5px;
+            }
+          }
+          a {
+            color: $text-color-dark;
+            font-size: 16px;
+            text-decoration: none;
+          }
+        }
+      }
+    }
     .banner {
       margin-bottom: 80px;
       position: relative;
