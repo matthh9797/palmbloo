@@ -6,9 +6,16 @@
       <div class="col-lg-12">
         <div class="about-me">
           {{ range .Site.Data.authors }}
-            <img class="profile actor mb-3 mr-2" src="{{ .thumbnail | absURL}}" alt="image">
+            <img class="profile actor mb-4 mr-2" src="{{ .thumbnail | absURL}}" alt="image">
           {{ end }}
           <h3>We Are {{ .Site.Params.author }}</h3>
+          <div class="info">
+            <ul>
+              <li><i class="fa fa-envelope" aria-hidden="true"></i>
+                <a href="tel:+33-257634 534">Email: {{ .Site.Params.authorEmail }}</a>
+              </li>
+            </ul>
+          </div>
           <p>{{ .Site.Data.about.description }} </p>
           <div class="banner">
             <div class="about-shape-right-top">
