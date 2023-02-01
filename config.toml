@@ -36,10 +36,10 @@ enableEmoji = true
     name = "About"
     url= "about"
     weight= 7
-  [[menu.main]]
-    name = "Contact"
-    url= "contact"
-    weight= 8
+  # [[menu.main]]
+  #   name = "Contact"
+  #   url= "contact"
+  #   weight= 8
 
 
 [params]
@@ -49,6 +49,7 @@ enableEmoji = true
   authorThumb = "images/matt-and-lulu.png"
   authorAddress = "Somewhere in Thailand"
   authorPhone = "+66 6-4110-1052"
+  authorEmail = "ciao@gypsylulu.com"
   instaUsername = "GypsyLulu"
   facebookUsername = "mary_astor"
   twitterUsername = "mary_astor"
