@@ -45,7 +45,7 @@ enableEmoji = true
 [params]
   summarylength = 80
   logo = "images/logo.png"
-  author = "Luana & Matthew"
+  author = "Lulu and Matthew"
   authorThumb = "images/matt-and-lulu.png"
   authorAddress = "Somewhere in Thailand"
   authorPhone = "+66 6-4110-1052"
