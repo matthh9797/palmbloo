@@ -1,0 +1,45 @@
+.profile-cards-container {
+    margin-bottom: 40px;
+    .card {  
+        margin-top: 4rem;   
+        text-align: center;
+        height: 32rem;
+        width: 25rem;
+        margin-bottom: 40px;
+        padding: 5px;
+        border-radius: 5%;
+        border-style: none;
+        img {
+            position: absolute;
+            left: 50%; 
+            transform: translate(-50%, -50%);
+            height: 150px;
+            width: 150px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .card-body {
+            justify-content: center;
+            .card-title {
+                margin-top: 6rem;
+            }
+            .btn {
+                width: 50px;
+            }
+        }
+
+    }
+    .col:nth-child(odd) {
+        .card {
+            // border: 2px solid $complementary-theme-color2 !important;
+            background-color: lighten($complementary-theme-color4,50%);
+        }
+    }
+    .col:nth-child(even) {
+        .card {
+            // border: 2px solid $complementary-theme-color1 !important;
+            background-color: lighten($complementary-theme-color1,50%);
+        }
+    }
+}
