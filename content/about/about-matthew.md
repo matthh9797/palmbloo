@@ -9,8 +9,8 @@ readTime: "8 min"
 thumbnail: /images/blog/blog-thum-2.png
 featureImage: /images/blog/feature-image-04.jpg
 draft: true
-summary: >
-    One of the main attractions I have towards open-ended travelling is the freedom of mind. Having no place or job to go back to allows you to completely rethink and reprioritise what makes you happy before making a decision about the next stage of your life.
+profile: >
+    I'm from Scotland and I love coding and building websites like this one
 ---
 
 One of the main attractions I have towards open-ended travelling is the freedom of mind. Having no place or job to go back to allows you to completely rethink and reprioritise what makes you happy before making a decision about the next stage of your life.
