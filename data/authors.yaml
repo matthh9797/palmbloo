@@ -1,8 +1,11 @@
 matthew_henderson:
-  name: Matthew Henderson
+  name: Matthew
+  intro: Hi, I'm
   age: 25
   thumbnail: images/matthew-henderson.png
+
 luana_nicosia:
-  name: Luana Nicosia
+  name: Lulu
+  intro: Ciao, I'm
   age: 29
-  thumbnail: images/luana-nicosia.png
+  thumbnail: images/lulu.png

@@ -1,9 +1,7 @@
 ---
-title: "About me"
+title: "About us"
 ---
 
-We are a couple who met in Australia whilst travelling. Lulu is Italian and she is passionate about travelling, videography and photograpy. Matt is a data scientist who loves coding and building websites, like this one :smiley:
+We are a couple who met in Australia. We believe that to get the most out of travelling you should find authentic local experiences and use them to think introspectively about what is important in life. This means that our tips and recommendations are focussed on experiencing the culture of a place rather than simply taking pictures and moving on.
 
-After Austrlia, we moved back to the UK for two years where we lived in Edinbrugh and picked up city jobs. We started to feel sucked in by the city lifestyle - we prioritised comfort over fulfilment, we were less peaceful and more stressed and we started to find it more and more difficult not to attach ourselves to day to day frustrations.
-
-We decided to go travelling again and that this time we would like to share the experience with others. We hope this website is useful for anyone who is interested in travelling or would like to find out more about the world!
+If we've caught your interest then we hope you will enjoy reading our blog. We hope this website is useful for anyone who is interested in travelling or would like to find out more about the world!

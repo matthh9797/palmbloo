@@ -5,30 +5,33 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="about-me">
-          {{ range .Site.Data.authors }}
-            <img class="profile actor mb-4 mr-2" src="{{ .thumbnail | absURL}}" alt="image">
-          {{ end }}
-          <h3>We Are {{ .Site.Params.author }}</h3>
-          <div class="info">
-            <ul>
-              <li><i class="fa fa-envelope" aria-hidden="true"></i>
-                <a href="mailto:{{ .Site.Params.authorEmail }}">Email: {{ .Site.Params.authorEmail }}</a>
-              </li>
-            </ul>
-          </div>
-          <p>{{ .Site.Data.about.description }} </p>
-          <div class="banner">
-            <div class="about-shape-right-top">
-              <img src={{ "images/about/blob1.svg" | absURL }} alt="svg">
+          <div class="content">
+            {{/*  {{ range .Site.Data.authors }}
+              <img class="profile actor mb-4 mr-2" src="{{ .thumbnail | absURL}}" alt="image">
+            {{ end }}  */}}
+            <h3>Ciao, we are {{ .Site.Params.author }}!</h3>
+            <div class="info">
+              <ul>
+                <li><i class="fa fa-envelope" aria-hidden="true"></i>
+                  <a href="mailto:{{ .Site.Params.authorEmail }}">Email: {{ .Site.Params.authorEmail }}</a>
+                </li>
+              </ul>
             </div>
-            <div class="about-shape-left-bottom">
-              <img src={{ "images/about/blob1.svg" | absURL }} alt="svg">
+            <p>{{ .Site.Data.about.description }} </p>
+            <div class="banner">
+              <div class="about-shape-right-top">
+                <img src={{ "images/about/blob1.svg" | absURL }} alt="svg">
+              </div>
+              <div class="about-shape-left-bottom">
+                <img src={{ "images/about/blob1.svg" | absURL }} alt="svg">
+              </div>
+              {{/*  <img src="{{ .Site.Data.about.featureImage | absURL }}" alt="banner">  */}}
             </div>
-            <img src="{{ .Site.Data.about.featureImage | absURL }}" alt="banner">
+            {{ partial "components/profiles.html" . }}
+            <h3>{{ .Site.Data.about.bioTitle }}</h3>
+            <div>{{ .Content }}</div>
+            </p>
           </div>
-          <h3>{{ .Site.Data.about.bioTitle }}</h3>
-          <div>{{ .Content }}</div>
-          </p>
           <ul class="soicel-icon">
             <li> <a href="https://www.facebook.com/{{ .Site.Params.facebookUsername }}"><i
                   class="fa fa-facebook"></i></a></li>

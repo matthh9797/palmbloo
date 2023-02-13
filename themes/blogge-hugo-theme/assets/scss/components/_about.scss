@@ -7,85 +7,90 @@
     padding: 0px 0 50px 0;
   }
   &-me {
-    text-align: left;
-    @include tablet {
-      text-align: center;
-    }
-    .actior {
-      margin-bottom: 10px;
-      display: inline-block;
-    }
-    img {
-      max-width: 100%;
-    }
-    h3 {
-      font-size: 26px;
-      font-weight: 500;
-      margin-bottom: 30px;
-    }
-    p {
-      margin-bottom: 50px;
-      @include mobile {
-        text-align: justify;
-        padding: 0 20px;
+    .content {
+      text-align: left;
+      @include tablet {
+        text-align: center;
       }
-    }
-    .info {
-      ul {
-        padding: 0;
-        margin: 0;
-        li {
-          list-style: none;
-          margin-bottom: 30px;
-          i {
-            background-color: $white;
-            margin-right: 10px;
-            color: $text-color-dark;
-            @include mobile-xs {
-              width: 30px;
-              height: 30px;
-              margin-right: 5px;
-            }
-          }
-          a {
-            color: $text-color-dark;
-            font-size: 16px;
-            text-decoration: none;
-          }
-        }
-      }
-    }
-    .banner {
-      margin-bottom: 80px;
-      position: relative;
-      .about-shape-right-top {
-        position: absolute;
-        top: -50px;
-        right: -40px;
-        z-index: -1;
-        @include desktop {
-          right: -10px;
-        }
-        img {
-          box-shadow: none;
-        }
-      }
-      .about-shape-left-bottom {
-        position: absolute;
-        bottom: -40px;
-        left: -70px;
-        z-index: -1;
-        @include desktop {
-          left: -10px;
-        }
-        img {
-          box-shadow: none;
-        }
+      .actior {
+        margin-bottom: 10px;
+        display: inline-block;
       }
       img {
         max-width: 100%;
       }
+      h3 {
+        font-size: 26px;
+        font-weight: 500;
+        margin-bottom: 30px;
+      }
+      p {
+        margin-bottom: 50px;
+        @include mobile {
+          text-align: justify;
+          padding: 0 20px;
+        }
+      }
+      .info {
+        ul {
+          padding: 0;
+          margin: 0;
+          li {
+            list-style: none;
+            margin-bottom: 30px;
+            i {
+              background-color: $white;
+              margin-right: 10px;
+              color: $text-color-dark;
+              @include mobile-xs {
+                width: 30px;
+                height: 30px;
+                margin-right: 5px;
+              }
+            }
+            a {
+              color: $text-color-dark;
+              font-size: 16px;
+              text-decoration: none;
+            }
+          }
+        }
+      }
+      .banner {
+        margin-bottom: 80px;
+        position: relative;
+        .about-shape-right-top {
+          position: absolute;
+          top: -50px;
+          right: -40px;
+          z-index: -1;
+          @include desktop {
+            right: -10px;
+          }
+          img {
+            box-shadow: none;
+          }
+        }
+        .about-shape-left-bottom {
+          position: absolute;
+          bottom: -40px;
+          left: -70px;
+          z-index: -1;
+          @include desktop {
+            left: -10px;
+          }
+          img {
+            box-shadow: none;
+          }
+        }
+        img {
+          display: block;
+          margin: 0 auto;          
+          max-width: 80%;
+        }
+      }
     }
+
     .soicel-icon {
       padding: 0;
       margin: 0;
