@@ -13,14 +13,14 @@ author_id: "luana_nicosia"
 summary: >
    Hi guys my name is Luana and I’m from North Italy. Since I can remember I wanted to explore the World.
 profile: >
-   I’m from North Italy and I am passionate about videography and photography ...
+   I’m from North Italy and enjoy capturing the perfect picture to share. Since I can remember I wanted to explore the World but it took me a few years to build up the courage. When I finished High School I lived a regular lifestyle.
 ---
 
-Hi guys my name is Luana and I’m from North Italy. Since I can remember I wanted to explore the World but it took me a few years to build up the courage. When I finished University I lived a regular lifestyle for a few years, working and spending my money every summer on partying in countries like Spain and Greece. I felt like something was missing.
+Hi guys my name is Luana and I’m from North Italy. Since I can remember I wanted to explore the World but it took me a few years to build up the courage. When I finished High School I lived a regular lifestyle for a few years, working and spending my money every summer on partying in countries like Spain and Greece. I felt like something was missing.
 
 In April 2016, I took my first leap into a World outside of my comfort zone.  My first solo journey was to London and I had one main goal - to improve my English. At first, I was terrified of being alone in such a chaotic and busy city but slowly I adapted to being alone, growing more confident to meet new people and to find my way around. I remember thinking "this is the best feeling ever".
 
-After London I moved back to Italy but I started to feel like a bird in a cage. I felt the urge to do something new and the confidence to take a bigger step so I decided to fly to the other side of the World. 
+After London I moved back to Italy but I started to feel like a bird in a cage. I felt the urge to do something new and the confidence to take a bigger step so I decided to fly to the other side of the World
 
 ### 4 Years in Australia
 
