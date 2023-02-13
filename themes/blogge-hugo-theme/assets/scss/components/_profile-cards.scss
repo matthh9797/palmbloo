@@ -3,12 +3,15 @@
     .card {  
         margin-top: 4rem;   
         text-align: center;
-        height: 32rem;
+        height: 30rem;
         width: 25rem;
         margin-bottom: 40px;
         padding: 5px;
         border-radius: 5%;
         border-style: none;
+        .card-text {
+            margin-bottom: 1rem;
+        }
         img {
             position: absolute;
             left: 50%; 
@@ -23,9 +26,6 @@
             justify-content: center;
             .card-title {
                 margin-top: 6rem;
-            }
-            .btn {
-                width: 50px;
             }
         }
 
