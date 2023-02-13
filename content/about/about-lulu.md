@@ -1,15 +1,17 @@
 ---
 title: "How My Life of Travel Began"
 date: 2023-02-11T17:59:13+08:00
-tags: 
+tags: "About"
 tranding: false
 author: "Lulu"
 readTime: "4 min"
-thumbnail: /images/blog/blog-thum-2.png
-featureImage: /images/blog/feature-image-04.jpg
+thumbnail: /images/about/about-lulu/thumb.jpg
+featureImage: /images/about/about-lulu/cover-3.jpg
 
 author_id: "luana_nicosia"
 
+summary: >
+   Hi guys my name is Luana and I’m from North Italy. Since I can remember I wanted to explore the World.
 profile: >
    I’m from North Italy and I am passionate about videography and photography ...
 ---
@@ -28,7 +30,7 @@ After some time however I started to see that I was living an unbalanced lifesty
 
 ### I wanna show you some of the skills I have learned whilst travelling
 
-As I mentioned before my goal when I moved to London was to improve my English and that continued to improve in Australia. I had lots of roomates from other countries and which allowed me to pick up a lot of different acsents and dialects. Working in jobs such as sales and hospitality which pushed me continuously talk to customers. 
+As I mentioned before my goal when I moved to London was to improve my English and that continued to improve in Australia. I had lots of roommates from other countries which allowed me to pick up a lot of different accents and dialects. Working in jobs such as sales and hospitality which pushed me continuously to talk to customers. 
 
 There are some other random skills I picked up whilst travelling and I am sure some of them will come in handy later in life. For example, in Australia I learnt how to paint the interior and exterior of a house and in Thailand, I learned how to administer medication and care for unwell street dogs. 
 
@@ -38,7 +40,7 @@ Doesn’t it ever happen to you? You visit a place and you love it so much that 
 
 Over time my preferences started to change in the type of place I was looking to stay from vibrant party places to tranquil places surrounded by nature. During the first part of my trip in Australia I lived in Bondi Beach which was fun and naturally beautiful but after a while I started to feel like I wanted some peace away from the crowds. When I later explored the rainforest in Port Douglas I was completely immersed in the mixture of beach and wildlife around me and thought this is what I need. 
 
-Currently I try as much as I can to travel to places less tourist and also I don't mind to stay in one place for at least a few weeks to better immerse myself in the culture. 
+Currently I try as much as I can to travel to places less touristy and also I don't mind staying in one place for at least a few weeks to better immerse myself in the culture. 
 
 ### What has travelling taught me about how to live?
 
@@ -48,16 +50,15 @@ I grew comfortable being alone. A lot of people I met in Australia are temporary
 
 >What matters is the journey, not the destination. 
 
-I never care about where I was but I care about enjoy the moment. Doesn’t matter where you are, you can be in the best place in the world, is more important which people are around you;
+I never care about where I was but I care about enjoying the moment. Doesn’t matter where you are, you can be in the best place in the world, is more important which people are around you;
 
-Travel teaches you what people are valued in your life. When I have been in Australia I stayed in contact with some friends in Italy but after some years I discover how some people are not interested in your life or what you are doing and you know what? This is fine, people come and go, real friends stay even if you are far away;
+Lose yourself. So many times I travel solo in Australia in the middle of nowhere, just me, a car and my tent, I turned off the phone because I didn’t want to speak to anyone, just listen to the sound of nature, the ocean and enjoy the life around me. Some people think that this is scary especially for a girl by herself but that’s not true. 
 
-Lose yourself. So many times I travel solo in Australia in the middle of nowhere, just me, a car and my tent, I turned off the phone because I didn’t want to speak to anyone, just listen to the sound of nature, the ocean end enjoy the life around me. Some people think that this is scary especially for a girl by herself but that’s not true. 
-
-Real travelling is meeting the locals in their natural environments. When I was in the Philippines, Indonesia and Thailand I met so many kind and lovely locals;
-
-I can spend a day to explain to you the benefits of travel even if sometimes is not always so easy as it seems. You can post a nice picture of the most beautiful place in the world but still don’t be happy. As I mentioned above sometimes I recorded a super stressful day because I run out of money or because also I tried some different drugs in Australia and they were destroying my emotional health.  
+Real travelling is meeting the locals in their natural environments. When I was in the Philippines, Indonesia and Thailand I met so many kind and lovely locals.
 
 ### Closing Thoughts
 
-Many of us have a difficult time dealing with the uncertainty that goes along with taking risks, travel is not always so easy and fun, but helped me to realize how small we are in the world and grow more confidence. 
+I can spend a day explaining to you the benefits of travel even if sometimes it is not always as easy as it seems. You can post a nice picture of the most beautiful place in the world but still don’t be happy. 
+
+
+Many of us have a difficult time dealing with the uncertainty that goes along with taking risks, travel is not always so easy and fun, but it helped me to realise how small we are in the world and grow more confidence. 
