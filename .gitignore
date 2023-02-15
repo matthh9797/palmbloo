@@ -16,3 +16,6 @@ site/.hugo_build.lock
 node_modules 
 dist 
 tmp
+
+analysis/repository
+analysis/static
