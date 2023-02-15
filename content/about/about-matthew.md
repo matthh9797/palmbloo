@@ -1,5 +1,5 @@
 ---
-title: "Why do I travel?"
+title: "The Importance of Travel"
 date: 2023-02-01T20:41:05+08:00
 tags: "About"
 tranding: false
