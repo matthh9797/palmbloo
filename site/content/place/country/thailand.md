@@ -12,8 +12,6 @@ countryid:
 draft: true
 ---
 
-- 
-
 ### Description
 
 Thailand is the most popular South East Asian country for tourism. It was Matthew's introduction to South East Asia and he wanted to go there to "make his own mind up" about a country that you hear mixed things about.
@@ -35,8 +33,6 @@ We noticed local people drinking more alcohol than we expected and it was common
 ### Tourism
 
 I wondered as we travelled through Thailand how it had managed to get a headstart on it's neighbours in Tourism. The main reason Thailand become the main gateway to South East Asia was due to the development of the large airport in the 60's.
-
-<!-- {{< static-plot src="/plots/internation-tourist-arrivals.png" >}} -->
 
 {{< plot-altair src="/plots/chart.json" >}}
 <br>
