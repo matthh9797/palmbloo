@@ -5,7 +5,7 @@ tags: "About"
 tranding: false
 author: "Lulu"
 readTime: "4 min"
-thumbnail: /images/about/about-lulu/thumb.jpg
+thumbnail: /images/about/about-lulu/thumb2.jpg
 featureImage: /images/about/about-lulu/cover-3.jpg
 
 author_id: "luana_nicosia"
@@ -24,7 +24,9 @@ After London I moved back to Italy but I started to feel like a bird in a cage. 
 
 ### 4 Years in Australia
 
-When I left for Australia I had done little to no research which left the lifestyle, the climate and the nature a mystery I was about to uncover. I threw myself into the experience unprepared which I think was an unconscious decision to make it even more exciting. It was great initially. Living in hostels is fun because you meet lots of people and have lots of parties and I think everyone can get a lot out of doing this for a period of time. 
+When I left for Australia I had done little to no research which left the lifestyle, the climate and the nature a mystery I was about to uncover. I threw myself into the experience unprepared which I think was an unconscious decision to make it even more exciting. It was great initially. Living in hostels is fun because you meet lots of people and have lots of parties and I think everyone can get a lot out of doing this for a period of time.
+
+{{< blog-image gdrive_id="1BSLBhMdiYwV7Iep1I9qMUQBD1XSddAs1" caption="Me at the Luna Park, NYE with some people I met in Australia" >}}
 
 After some time however I started to see that I was living an unbalanced lifestyle both financially and mentally. The idea of throwing yourself in without any planning is something that people often associate with travelling but in my opinion it is just a one time thing. In our current trip to Asia I had researched much better into the seasons, the costs, where to stay, what to do etc. and it has led to a much more stable trip which I imagine is what most people would want the second time round.
 
@@ -38,7 +40,9 @@ There are some other random skills I picked up whilst travelling and I am sure s
 
 Doesn’t it ever happen to you? You visit a place and you love it so much that you start to wonder what it would be like to live there. I do it all the time.
 
-Over time my preferences started to change in the type of place I was looking to stay from vibrant party places to tranquil places surrounded by nature. During the first part of my trip in Australia I lived in Bondi Beach which was fun and naturally beautiful but after a while I started to feel like I wanted some peace away from the crowds. When I later explored the rainforest in Port Douglas I was completely immersed in the mixture of beach and wildlife around me and thought this is what I need. 
+Over time my preferences started to change in the type of place I was looking to stay from vibrant party places to tranquil places surrounded by nature. During the first part of my trip in Australia I lived in Bondi Beach which was fun and naturally beautiful but after a while I started to feel like I wanted some peace away from the crowds. When I later explored the rainforest in Port Douglas I was completely immersed in the mixture of beach and wildlife around me and thought this is what I need.
+
+{{< blog-image gdrive_id="1BPvsFY-4KQ0pHN2Ij2MGu-z8k63arUp9" caption="Silence on the side of the road in the Daintree Rainforest" >}}
 
 Currently I try as much as I can to travel to places less touristy and also I don't mind staying in one place for at least a few weeks to better immerse myself in the culture. 
 
@@ -61,4 +65,6 @@ Real travelling is meeting the locals in their natural environments. When I was 
 I can spend a day explaining to you the benefits of travel even if sometimes it is not always as easy as it seems. You can post a nice picture of the most beautiful place in the world but still don’t be happy. 
 
 
-Many of us have a difficult time dealing with the uncertainty that goes along with taking risks, travel is not always so easy and fun, but it helped me to realise how small we are in the world and grow more confidence. 
+Many of us have a difficult time dealing with the uncertainty that goes along with taking risks, travel is not always so easy and fun, but it helped me to realise how small we are in the world and grow more confidence.
+
+{{< blog-image gdrive_id="1DklHueSN5ufzEWGjbNOCxK5D5TmdWjkJ" caption="" >}}
