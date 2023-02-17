@@ -8,9 +8,14 @@ author: "Matthew"
 readTime: "4 min"
 thumbnail: /images/blog/blog-thum-2.png
 featureImage: /images/blog/feature-image-04.jpg
-countryid: 
-draft: true
+countryid: thailand
+
+price: 22
 ---
+
+{{< boostrap-alert alert_type="danger" text="We overstayed our visa 1 day and we charged ฿500 ($15). Tip no.1 don't calculate the departure date yourself, check the stamp on your passport!">}}
+
+### Introduction
 
 Thailand is the most popular South East Asian country for tourism. It was Matthew's introduction to South East Asia and he wanted to go there to "make his own mind up" about a country that you hear mixed things about.
 

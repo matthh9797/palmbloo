@@ -1,0 +1,24 @@
+{{ $country := index .Site.Data.places .Params.countryid }}
+{{ $from := $country.from | time.AsTime }}
+{{ $to := $country.to | time.AsTime }}
+{{ $duration := add (div (sub $to.Unix $from.Unix) 86400) 1 }}
+
+<div class="container-experience-box">
+    <div class="card border-success mb-3" style="max-width: 36rem;">
+      <div class="card-body text-success">
+        <h5 class="card-title text-center">Country Details</h5>
+        <p class="card-text">
+          <ul class="list-group list-group-flush">
+              <li class="list-group-item">{{ emojify ":airplane:" }} Arrived <span class="position-absolute start-50">{{ $country.from }}</span></li>
+              <li class="list-group-item">{{ emojify ":end:" }} Departed <span class="position-absolute start-50">{{ $country.to }}</span></li>
+              <li class="list-group-item">{{ emojify ":clock230:" }} Length of Stay <span class="position-absolute start-50">{{ $duration }} days</span></li>
+              <li class="list-group-item">{{ emojify ":sunny:" }} Season <span class="position-absolute start-50">{{ $country.season }}</span></li>
+              <li class="list-group-item">{{ emojify ":globe_with_meridians:" }} Visa <span class="position-absolute start-50">{{ $country.visa.name }}</span></li>   
+            </ul>
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  
+  
