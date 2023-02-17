@@ -1,15 +1,16 @@
 # Thailand Analysis 2023-02-14 (Matthew Henderson)
-setwd("~/dev/hugo/gypsy_lulu/analysis")
+setwd("~/dev/hugo/gypsy_lulu/analysis/r/")
 
 library(tidyverse)
-source("ggthemeify.R")
+source("r-utils/ggplot2/ggthemeify.R")
+source("r-utils/ggplot2/my_ggplots.R")
 
 ## Parameters
 
 ### data
-DATAREPO <- "repository/"
+DATAREPO <- "../repository/"
 DATAREPO_OWD <- "ourworldindata/"
-PLOTREPO <- "static/"
+PLOTREPO <- "../../site/static/plots/"
 
 ### theme
 mytheme_colors <- c(
@@ -47,13 +48,6 @@ theme <- theme_bw() +
   )
 
 
-## Functions
-
-### plotting
-my_area_plot <- function() {
-  geom_area(alpha = 0.8, colour="white") 
-}
-
 ## Script
 
 ### read
@@ -83,4 +77,4 @@ subtitle = str_wrap("Thailand has seen increasing numbers of tourists since 1995
   myggtheme$scale_colour_mytheme() +
   theme)
 
-ggsave(str_c(PLOTREPO, "internation-tourist-arrivals"), device = "png", width = 10, height = 5.625, units="in")
+ggsave(str_c(PLOTREPO, "internation-tourist-arrivals.png"), device = "png", width = 8, height = 6, units="in")
