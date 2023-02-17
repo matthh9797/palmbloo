@@ -87,3 +87,28 @@ spaghetti_carbonara:
   - image: https://drive.google.com/uc?export=view&id=19pyHHt-0TUIhX5ku7VZCaeryNXjx6Zbn
     position: bottomleft
     caption: "Step 5: Eat!"
+thailand_food:
+  - image: https://drive.google.com/uc?export=view&id=1CfWZT5o8crqqhMyq9bc2f86MxbCKjIz8
+    position: bottomright
+    caption: Tom Yam Soup
+  - image: https://drive.google.com/uc?export=view&id=1ByqhgGdITTI4Bmktowym6tKsIYrjVR-E
+    position: bottomright
+    caption: Chicken Cashew Nut
+  - image: https://drive.google.com/uc?export=view&id=1Bjx_5mBivIzYwksLcGQKYkiQ8n-S6a8a
+    position: topright
+    caption: Fish from Salakphet
+  - image: https://drive.google.com/uc?export=view&id=1ButAkQbL_muRfbgJqgk3XVVEGpLAdLfI
+    position: topright
+    caption: Coconut Soup
+  - image: https://drive.google.com/uc?export=view&id=1D5INs-7wxUP5jaqG8jFGOb1hn9NF4vs-
+    position: topright
+    caption: Stewed Chicken
+  - image: https://drive.google.com/uc?export=view&id=1BleUBpJaYxyMOGFJ1WDr_CycDf0_EVVM
+    position: bottomleft
+    caption: Pineapple Fried Rice
+  - image: https://drive.google.com/uc?export=view&id=1C6ptMTagf9GJeFD_gPBMYLBmu0KT6mmb
+    position: topright
+    caption: Noodle Soup
+  - image: https://drive.google.com/uc?export=view&id=1BrYMZ7hB8BA4kk-6LmU8AEHvlU6SMUiQ
+    position: bottomright
+    caption: Crispy Pork and Kale
