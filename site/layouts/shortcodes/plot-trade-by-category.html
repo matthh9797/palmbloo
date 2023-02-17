@@ -1,0 +1,13 @@
+{{ $graph := .Get "graph" }}
+{{ $graph_no := cond (eq $graph "import_by_category") "1" (cond (eq $graph "export_by_category") "2" "999") }}
+{{ if eq $graph_no "999" }}
+    <div class="alert alert-danger" role="alert">
+        Graph number does not exist. If valid, add case to code.
+    </div>
+{{ else }} 
+    <figure class="figure", style="width: 100%;">
+        <iframe style='width: 100%; height: 300px;' class="embed-responsive-item" src="https://comtrade.tradingeconomics.com/comtrade/share?r={{ .Get `country_code` }}&c=0000&v=treemapcategories&t={{ $graph_no }}&title=" style="border:none;" scrolling="no"></iframe>
+        <figcaption class="figure-caption text-right">{{ .Get "caption" }}</figcaption>
+    </figure>
+{{ end }}
+

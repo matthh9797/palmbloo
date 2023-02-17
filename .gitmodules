@@ -1,3 +1,6 @@
 [submodule "blogge-hugo-theme"]
 	path = blogge-hugo-theme
 	url = https://github.com/StaticMania/blogge-hugo-theme
+[submodule "analysis/r/r-utils"]
+	path = analysis/r/r-utils
+	url = https://github.com/matthh9797/r-utils

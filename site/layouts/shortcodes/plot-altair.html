@@ -1,0 +1,9 @@
+<div id="vis" style="max-width: 100%;"></div>
+
+<script type="text/javascript">
+    const spec = "{{ .Get `src` }}";
+    vegaEmbed("#vis", spec)
+      // result.view provides access to the Vega View API
+    .then(result => console.log(result))
+    .catch(console.warn);
+</script>
