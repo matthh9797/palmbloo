@@ -1,0 +1,139 @@
+eat:
+  header: Where to Eat 
+  description: >
+    Koh Chang is one of the best places either of us had ever been for food with local places never dissapointing and even a very good standard of Western food if you know where to look. In a local place you could expect to pay ฿50-฿80 ($1.45-$2.33) per dish and we would generally pay under ฿200 ($5.82) for dinner which would usually include a side dish or shake.
+    Most of our recommendations are local places that we found and never expensive touristy places except a couple of western restaurants for pizza, burgers etc. Note that some of the places had no name, no sign, some didn’t even have an English menu. In that case we will put the type of food in place of the name, you can refer to the pinned location on Google Maps.
+  recommendations:
+    - name: Thai Food 
+      googlemaps_id: 
+      place: White Sand Beach
+      price: $
+      description: Our favourite place, we tried several dishes here and it never dissapointed.
+    - name: Thai Food 
+      googlemaps_id: 
+      place: Khlong Son
+      price: $
+      description: The first time we tried this place we thought we had walked into someone’s living room, a proper authentic local experience, this place was so cheap and never dissapointed
+    - name: Bam & Boy
+      googlemaps_id: 
+      place: Khlong Prao
+      price: $
+      description: If you have never tried Thai style stewed chicken, go here at lunch and try it, amazing!
+    - name: Fish Place 
+      googlemaps_id: 
+      place: White Sand Beach
+      price: $
+      description: Our favourite place, we tried several dishes here and it never dissapointed.
+    - name: Fish Place 
+      googlemaps_id: 
+      place: White Sand Beach
+      price: $
+      description: Our favourite place, we tried several dishes here and it never dissapointed.
+
+stay:
+  header: Where to stay
+  description:
+  recommendations:
+    - name: White Sand Beach
+      description:
+      pros:
+        - Range of accommodation options for all budgets. We stayed in Tantawan which was a basic room but X baht per night in peak season with aircon and right on the beach. We also found some nice cheap looking places on the North part of the beach, most aren’t on booking.com (reference our maps)
+        - Great food. Although for local options you had to walk to South side, not a far walk
+        - Range of bars and cafes
+        - The beach is naturally very nice
+        - Shops and supermerkets
+      cons:
+        - The main strip is westernised so if you want a truly local experience you may be better elsewhere
+        - Not so easy (but always possible) to get a sunbathing spot when the tide is in unless offered by your accommodation.
+        - A lot of prositution in the area
+    - name: Lonely Beach
+      description:
+      pros:
+        - Laid back vibes
+        - Great sunset spot
+      cons:
+        - It’s not a party place, this can be a pro or a con depending on your preferences.
+        - Lack of shops and cafes with WiFi in the area
+        - Water wasn’t very clear
+
+tips:
+  header: Some Practical Tips 
+  description:
+  recommendations:
+    - Bangkok Bank White Sand Beach, best place to convert money or exchange them.
+    - A scooter is the best way to get around the island. If not you can use a shared taxi.
+
+activities:
+  header: Our Favourite Activities 
+  description:
+  recommendations:
+    - name: Trekking with Tan
+      googlemaps_id: 
+      url: 
+      place:
+      price: 1200 # per person
+      currency: THB
+      description: 
+    - name: Napoli Kitchen
+      googlemaps_id: 
+      url: 
+      place:
+      price: 400
+      currency: THB
+      description: 
+    - name: SUP board on lonely beach sunset
+      googlemaps_id: 
+      url: 
+      place:
+      price: 400
+      currency: THB
+      description: 
+
+cafes:
+  header: Our Favourite Cafes 
+  description:
+  recommendations:
+    - name: Kohchahokkaido milk tea
+      type: Cafe with Wi-Fi
+      googlemaps_id: 
+      place: White Sand Beach
+      price: 400
+      currency: THB
+      description: we have been in this cafe for three weeks to work with our laptops every morning, coffee is delicious and you can use wifi and plug.
+    - name: Marin Coffee
+      type: Cafe with Wi-Fi
+      googlemaps_id: 
+      place: White Sand Beach
+      price: 400
+      currency: THB
+      description: we found other two Marin Cafes around Ko Chang, the coffee is good and they have the possibility to work with your laptop
+
+beaches:
+  header: Our Favourite Cafes 
+  description:
+  recommendations:
+    - name: X
+      googlemaps_id: 
+      place: Y
+      price: $
+      description: Z
+
+bars:
+  header: Our Favourite Cafes 
+  description:
+  recommendations:
+    - name: X
+      googlemaps_id: 
+      place: Y
+      price: $
+      description: Z
+
+football:
+  header: Our Favourite Cafes 
+  description:
+  recommendations:
+    - name: X
+      googlemaps_id: 
+      place: Y
+      price: $
+      description: Z
