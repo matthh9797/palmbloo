@@ -1,5 +1,29 @@
-{{ partial "components/bootstrap-card-slider.html" . }}
+{{/*  Set the entity type (e.g. ID for recomendations article)  */}}
+{{ $entity := (index .Site.Data.recomendations .Params.recomendation_id) }}
+{{ .Scratch.Set "entity" $entity }}
+
+<style>
+    .footnotes {
+        position: absolute;
+        bottom: 30px;
+    }
+    .single-blog-content {
+        padding-bottom: 100px;
+    }
+</style>
 
 <div class="single-blog-content">
     {{ .Content }}
+
+    <h3>{{ $entity.eat.header }}</h3>
+    <p>{{ $entity.eat.description }}</p>
+    {{ .Scratch.Set "recomendation_category" "eat" }}
+    {{ partial "components/card-carousel.html" . }}
+
+    <h3>{{ $entity.cafes.header }}</h3>
+    <p>{{ $entity.cafes.description }}</p>
+    {{ .Scratch.Set "recomendation_category" "cafes" }}
+    {{ partial "components/card-carousel.html" . }}
+
 </div>
+
