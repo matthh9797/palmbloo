@@ -2,38 +2,43 @@ eat:
   header: Where to Eat 
   description: >
     Koh Chang is one of the best places either of us had ever been for food with local places never dissapointing and even a very good standard of Western food if you know where to look. In a local place you could expect to pay ฿50-฿80 ($1.45-$2.33) per dish and we would generally pay under ฿200 ($5.82) for dinner which would usually include a side dish or shake.
-    Most of our recommendations are local places that we found and never expensive touristy places except a couple of western restaurants for pizza, burgers etc. Note that some of the places had no name, no sign, some didn’t even have an English menu. In that case we will put the type of food in place of the name, you can refer to the pinned location on Google Maps.
-  recommendations:
+    Most of our recomendations are local places that we found and never expensive touristy places except a couple of western restaurants for pizza, burgers etc. Note that some of the places had no name, no sign, some didn’t even have an English menu. In that case we will put the type of food in place of the name, you can refer to the pinned location on Google Maps.
+  recomendations:
     - name: Thai Food 
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/Lc5iPJzQrsSWqNxs7
       place: White Sand Beach
       price: $
       description: Our favourite place, we tried several dishes here and it never dissapointed.
+      image: https://drive.google.com/uc?export=view&id=1CfWZT5o8crqqhMyq9bc2f86MxbCKjIz8
     - name: Thai Food 
+      image: https://drive.google.com/uc?export=view&id=1ByqhgGdITTI4Bmktowym6tKsIYrjVR-E
       googlemaps_id: 
       place: Khlong Son
       price: $
       description: The first time we tried this place we thought we had walked into someone’s living room, a proper authentic local experience, this place was so cheap and never dissapointed
     - name: Bam & Boy
+      image: https://drive.google.com/uc?export=view&id=1Bjx_5mBivIzYwksLcGQKYkiQ8n-S6a8a
       googlemaps_id: 
       place: Khlong Prao
       price: $
       description: If you have never tried Thai style stewed chicken, go here at lunch and try it, amazing!
     - name: Fish Place 
+      image: https://drive.google.com/uc?export=view&id=1ButAkQbL_muRfbgJqgk3XVVEGpLAdLfI
       googlemaps_id: 
       place: White Sand Beach
       price: $
       description: Our favourite place, we tried several dishes here and it never dissapointed.
     - name: Fish Place 
+      image: https://drive.google.com/uc?export=view&id=1BleUBpJaYxyMOGFJ1WDr_CycDf0_EVVM
       googlemaps_id: 
       place: White Sand Beach
       price: $
       description: Our favourite place, we tried several dishes here and it never dissapointed.
-
+      
 stay:
   header: Where to stay
   description:
-  recommendations:
+  recomendations:
     - name: White Sand Beach
       description:
       pros:
@@ -59,14 +64,14 @@ stay:
 tips:
   header: Some Practical Tips 
   description:
-  recommendations:
+  recomendations:
     - Bangkok Bank White Sand Beach, best place to convert money or exchange them.
     - A scooter is the best way to get around the island. If not you can use a shared taxi.
 
 activities:
   header: Our Favourite Activities 
   description:
-  recommendations:
+  recomendations:
     - name: Trekking with Tan
       googlemaps_id: 
       url: 
@@ -92,8 +97,9 @@ activities:
 cafes:
   header: Our Favourite Cafes 
   description:
-  recommendations:
+  recomendations:
     - name: Kohchahokkaido milk tea
+      image: https://drive.google.com/uc?export=view&id=1ByqhgGdITTI4Bmktowym6tKsIYrjVR-E
       type: Cafe with Wi-Fi
       googlemaps_id: 
       place: White Sand Beach
@@ -101,6 +107,7 @@ cafes:
       currency: THB
       description: we have been in this cafe for three weeks to work with our laptops every morning, coffee is delicious and you can use wifi and plug.
     - name: Marin Coffee
+      image: https://drive.google.com/uc?export=view&id=1BleUBpJaYxyMOGFJ1WDr_CycDf0_EVVM
       type: Cafe with Wi-Fi
       googlemaps_id: 
       place: White Sand Beach
@@ -111,7 +118,7 @@ cafes:
 beaches:
   header: Our Favourite Cafes 
   description:
-  recommendations:
+  recomendations:
     - name: X
       googlemaps_id: 
       place: Y
@@ -121,7 +128,7 @@ beaches:
 bars:
   header: Our Favourite Cafes 
   description:
-  recommendations:
+  recomendations:
     - name: X
       googlemaps_id: 
       place: Y
@@ -131,7 +138,7 @@ bars:
 football:
   header: Our Favourite Cafes 
   description:
-  recommendations:
+  recomendations:
     - name: X
       googlemaps_id: 
       place: Y

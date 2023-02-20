@@ -1,5 +1,6 @@
 ---
 type: recomendation
+recomendation_id: kohchang
 title: "Koh Chang"
 date: 2023-02-19T09:17:26+08:00
 tranding: false
@@ -10,7 +11,7 @@ featureImage: /images/blog/feature-image-04.jpg
 
 experiences:
     - name: Experience 1
-      description: Our favourite restaurant in White Sand Beach
+      description: Our favourite place, we tried several dishes here and it never dissapointed.
       img: /images/experience/animal-voice/slider-1/lulu-walkies.jpg
     - name: Experience 2
       description: A cool experience
@@ -40,7 +41,7 @@ Our first destination on the island has been the workaway place situated in Klon
 In this case depends what do you prefer, the west side is more touristy because there are cafes, beaches, supermarkets, etc. At the beginning we didn't want to ending up in a crowd area, but our priority by that time was having a place on the beach to chill but also work on the laptops and having a good wifi connection. To be fair we didn't find the west coast too crowded compare to places like Phuket or the other islands of Thailand.  
 If you fancy a break from the beach or from the tourist centres of the West side of Koh Chang then you will be well rewarded by a day or more exploring the ‘undiscovered’ East Coast of the island. This side of the island is far less developed than the other and you will be treated to a view of a more traditional Thai way of life as you watch local farmers and fisherman go about their business.
 
-### Where to Eat
+<!-- ### Where to Eat
 
 Koh Chang is one of the best places either of us had ever been for food with local places never dissapointing and even a very good standard of Western food if you know where to look. In a local place you could expect to pay ฿50-฿80 ($1.45-$2.33) per dish and we would generally pay under ฿200 ($5.82) for dinner which would usually include a side dish or shake.
 
@@ -112,7 +113,7 @@ We didn’t drink in bars often in Koh Chang due to our budget and general prefe
 
 - The White Elephant
 - Dodo
-- Kebab Station - Bit of an odd suggestion but this place had an English owner who had a massive screen for football. Although every time we went in we were the only customers.
+- Kebab Station - Bit of an odd suggestion but this place had an English owner who had a massive screen for football. Although every time we went in we were the only customers. -->
 
 <!-- Citations -->
 [^1]: (2021, April 24). How Big is Koh Chang? Iamkohchang.com. Retrieved February 19, 2023, from https://iamkohchang.com/blog/how-big-is-koh-chang.html
