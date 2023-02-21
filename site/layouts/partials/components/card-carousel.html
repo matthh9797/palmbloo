@@ -1,11 +1,12 @@
 
 {{ $recomendation_category := $.Scratch.Get "recomendation_category" }}
 {{ $entity_category := (index ($.Scratch.Get "entity") $recomendation_category ) }}
-<div class="card-carousel-container mb-3">
+<div class="card-carousel-container mb-5">
     <div class="owl-carousel owl-theme">
         {{ range $entity_category.recomendations }}
             <div class="card-wrapper ms-2 me-2">
-            {{ $path := (printf "components/bootstrap-cards/bootstrap-card-%s" $recomendation_category) }}
+            {{ $card_type := (cond (in (slice "eat" "cafes" "bars" "football") $recomendation_category) "eatery" (cond (in (slice "activities") $recomendation_category) "activity" "place") ) }}
+            {{ $path := (printf "components/bootstrap-cards/bs-card-%s" $card_type) }}
             {{ partial $path . }}
             </div>
         {{ end }}
