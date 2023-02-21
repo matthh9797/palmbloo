@@ -1,3 +1,12 @@
+<style>
+.list-group {
+    padding-left: 0px;
+}
+.list-group-item {
+    font-size: 9pt;
+}
+</style>
+
 {{/*  Set the entity type (e.g. ID for recomendations article)  */}}
 {{ $entity := (index .Site.Data.recomendations .Params.recomendation_id) }}
 {{ .Scratch.Set "entity" $entity }}
@@ -27,27 +36,41 @@
         <h3>{{ $entity.stay.header }}</h3>
         <p>{{ $entity.stay.description }}</p>
         {{ if $entity.stay.recomendations }}
-        <ul>
+        <div>
         {{ range $entity.stay.recomendations }} 
             <div class="mb-3">
-                <h4>{{ .name }}</h4>
                 {{ if .image }}<img src="{{ .image }}" alt="{{.description}}" class="card-img-top" style="aspect-ratio: 2; object-fit: cover;">{{ end }}
+                <h4 class="text-center mt-3">{{ .name }}</h4>
                 <p>{{ .description }}</p>
-                {{ if .pros }}
-                    <strong>What we liked:</strong>
-                    <ul class="mb-2">
-                        {{ range .pros }}<li>{{ . }}</li>{{ end }}
-                    </ul>
-                {{ end }}
-                {{ if .cons }}
-                    <strong>What to be aware of:</strong>
-                    <ul>
-                        {{ range .cons }}<li>{{ . }}</li>{{ end }}
-                    </ul>  
-                {{ end }}
+                <div class="table-borderless">
+                    <table class="table">
+                        <thead class="thead-dark text-center"><tr>
+                            <th scope="col">What we liked</th>
+                            <th scope="col">What to be aware of</th>
+                        </tr></thead>
+                        <tr>
+                            <td>
+                                {{ if .pros }}
+                                    <ul class="list-group">
+                                        {{ range .pros }}<li class="list-group-item list-group-item-action list-group-item-success">{{ . }}</li>{{ end }}
+                                    </ul>
+                                {{ end }}
+                            </td>
+                            <td>
+                                {{ if .cons }}
+                                    <ul class="list-group">
+                                        {{ range .cons }}<li class="list-group-item list-group-item-action list-group-item-warning">{{ . }}</li>{{ end }}
+                                    </ul>   
+                                {{ end }}
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+
+
             </div>
         {{ end }}
-        </ul>
+        </div>
         {{ end }}
     </section>
 
