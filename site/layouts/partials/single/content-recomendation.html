@@ -2,28 +2,91 @@
 {{ $entity := (index .Site.Data.recomendations .Params.recomendation_id) }}
 {{ .Scratch.Set "entity" $entity }}
 
-<style>
-    .footnotes {
-        position: absolute;
-        bottom: 30px;
-    }
-    .single-blog-content {
-        padding-bottom: 100px;
-    }
-</style>
-
 <div class="single-blog-content">
     {{ .Content }}
 
+    {{/*  Practical Tip's  */}}
+    <h3>{{ $entity.tips.header }}</h3>
+    <p>{{ $entity.tips.description }}</p>
+    {{ if $entity.tips.recomendations }}
+    <ul>
+    {{ range $entity.tips.recomendations }} 
+        <li>{{ . }}</li>
+    {{ end }}
+    </ul>
+    {{ end }}
+
+    {{/*  Where to Eat  */}}
     <h3>{{ $entity.eat.header }}</h3>
     <p>{{ $entity.eat.description }}</p>
     {{ .Scratch.Set "recomendation_category" "eat" }}
     {{ partial "components/card-carousel.html" . }}
 
+    {{/*  Where to Stay  */}}
+    <section class="mb-5">
+        <h3>{{ $entity.stay.header }}</h3>
+        <p>{{ $entity.stay.description }}</p>
+        {{ if $entity.stay.recomendations }}
+        <ul>
+        {{ range $entity.stay.recomendations }} 
+            <div class="mb-3">
+                <h4>{{ .name }}</h4>
+                {{ if .image }}<img src="{{ .image }}" alt="{{.description}}" class="card-img-top" style="aspect-ratio: 2; object-fit: cover;">{{ end }}
+                <p>{{ .description }}</p>
+                {{ if .pros }}
+                    <strong>What we liked:</strong>
+                    <ul class="mb-2">
+                        {{ range .pros }}<li>{{ . }}</li>{{ end }}
+                    </ul>
+                {{ end }}
+                {{ if .cons }}
+                    <strong>What to be aware of:</strong>
+                    <ul>
+                        {{ range .cons }}<li>{{ . }}</li>{{ end }}
+                    </ul>  
+                {{ end }}
+            </div>
+        {{ end }}
+        </ul>
+        {{ end }}
+    </section>
+
+    {{/*  Activities  */}}
+    <h3>{{ $entity.activities.header }}</h3>
+    <p>{{ $entity.activities.description }}</p>
+    {{ .Scratch.Set "recomendation_category" "activities" }}
+    {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Cafe's  */}}
     <h3>{{ $entity.cafes.header }}</h3>
     <p>{{ $entity.cafes.description }}</p>
     {{ .Scratch.Set "recomendation_category" "cafes" }}
     {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Beaches  */}}
+    <h3>{{ $entity.beaches.header }}</h3>
+    <p>{{ $entity.beaches.description }}</p>
+    {{ .Scratch.Set "recomendation_category" "beaches" }}
+    {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Bars  */}}
+    <h3>{{ $entity.bars.header }}</h3>
+    <p>{{ $entity.bars.description }}</p>
+    {{ .Scratch.Set "recomendation_category" "bars" }}
+    {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Football  */}}
+    <h3>{{ $entity.football.header }}</h3>
+    <p>{{ $entity.football.description }}</p>
+    {{ .Scratch.Set "recomendation_category" "football" }}
+    {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Closing Thoughts  */}}
+    <h3>{{ $entity.conclusion.header }}</h3>
+    <p>{{ $entity.conclusion.description }}</p>
+
+    {{/*  Footnotes  */}}
+    {{ partial "components/footnotes.html" . }}
 
 </div>
 
