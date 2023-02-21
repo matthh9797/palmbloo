@@ -28,7 +28,7 @@ experiences:
 
 For the first destination in our South East Asian adventure we chose Koh Chang island in Thailand and what a choice it turned out to be. The amazing food, pristine sandy beaches, a mountainous interior made up of [protected national parkland](https://www.thainationalparks.com/mu-ko-chang-national-park) and a range of local communities makes this a perfect place to live a chilled but adverturous lifetsyle.
 
-Koh Chang is Thailand’s third largest island and it took us about an hour by scooter to drive from top to bottom[^1]. The island can be reached from Bangkok by bus, car or a short flight, then a ferry from Laem Ngop ([From Bangkok to Koh Chang]({{< ref "/place/routes/from-bangkok-to-koh-chang.md" >}})). The climate on Koh Chang is tropical all year round, with rainy season from May to October and dry season which is regarded the best time to visit between November and February.
+Koh Chang is Thailand’s third largest island and it took us about an hour by scooter to drive from top to bottom{{< footnote "1" >}}. The island can be reached from Bangkok by bus, car or a short flight, then a ferry from Laem Ngop ([From Bangkok to Koh Chang]({{< ref "/place/routes/from-bangkok-to-koh-chang.md" >}})). The climate on Koh Chang is tropical all year round, with rainy season from May to October and dry season which is regarded the best time to visit between November and February.
 
 ### Where did we stay?
 
@@ -116,4 +116,4 @@ We didn’t drink in bars often in Koh Chang due to our budget and general prefe
 - Kebab Station - Bit of an odd suggestion but this place had an English owner who had a massive screen for football. Although every time we went in we were the only customers. -->
 
 <!-- Citations -->
-[^1]: (2021, April 24). How Big is Koh Chang? Iamkohchang.com. Retrieved February 19, 2023, from https://iamkohchang.com/blog/how-big-is-koh-chang.html
+<!-- [^1]: (2021, April 24). How Big is Koh Chang? Iamkohchang.com. Retrieved February 19, 2023, from https://iamkohchang.com/blog/how-big-is-koh-chang.html -->

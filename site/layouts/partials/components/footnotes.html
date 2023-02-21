@@ -1,0 +1,13 @@
+{{ $entity := ($.Scratch.Get "entity") }}
+{{ if $entity.footnotes }}
+<div class="myFootnotes" role="doc-endnotes">
+    <hr>
+    <ol>
+        {{ range $index, $value := $entity.footnotes }}
+        <li id="myFn-{{ $index }}">
+        <p>{{ $value | safeHTML }}&#160;<a href="#fnref:{{ $index }}" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+        </li>
+        {{ end }}
+    </ol>
+</div>
+{{ end }}
