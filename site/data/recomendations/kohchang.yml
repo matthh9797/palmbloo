@@ -50,20 +50,20 @@ eat:
       
 stay:
   header: Where to stay
-  description:
+  description: We stayed in Tantawan which was a basic room but X baht per night in peak season with aircon and right on the beach. We also found some nice cheap looking places on the North part of the beach, most aren’t on booking.com (reference our maps)
   recomendations:
     - name: White Sand Beach
       description:
       image: https://drive.google.com/uc?export=view&id=1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
       pros:
-        - Range of accommodation options for all budgets. We stayed in Tantawan which was a basic room but X baht per night in peak season with aircon and right on the beach. We also found some nice cheap looking places on the North part of the beach, most aren’t on booking.com (reference our maps)
-        - Great food. Although for local options you had to walk to South side, not a far walk
+        - Range of accomodation options for all budget
+        - Great food, there is a night market and local places off of the main strip 
         - Range of bars and cafes
         - The beach is naturally very nice
         - Shops and supermerkets
       cons:
-        - The main strip is westernised so if you want a truly local experience you may be better elsewhere
-        - Not so easy (but always possible) to get a sunbathing spot when the tide is in unless offered by your accommodation.
+        - The main strip is pretty Westernised if you are after a more local experience
+        - Not so easy (but always possible) to get a sunbathing spot when the tide is in
         - A lot of prositution in the area
     - name: Lonely Beach
       description:
@@ -89,24 +89,24 @@ activities:
     - name: Trekking with Tan
       image: https://drive.google.com/uc?export=view&id=1GpsDNzUbZWk0jxBw7K7uMEi-jQZzqIKD
       googlemaps_id: 
-      url: 
+      url: https://www.tripadvisor.com/Attraction_Review-g580110-d14975663-Reviews-Tan_Trekking-Ko_Chang_Trat_Province.html
       place: 
       price: 1200 # per person
       currency: THB
-      description: The only way to see the jungle in Ko Chang is to pay for a tour guide and is really worth the money 
+      description: The only way to see the jungle in Koh Chang is to pay for a tour guide and it is worth the money!
     - name: Napalai Kitchen
       image: https://drive.google.com/uc?export=view&id=1FzDKeokxkLOb09INuuYAyoXIMW_5Pmzo
       googlemaps_id: 
-      url: 
+      url: https://napalai-thai-cooking-school.business.site/
       place: Klong Prao 
       price: 400
       currency: THB
-      description: 3 hours and 10 dishes with Bunny
-    - name: SUP board on lonely beach sunset
+      description: You should definitely try a cooking class, 3 hours and 5 dishes with Bunny
+    - name: Chilling on lonely beach 
       googlemaps_id: 
       url: 
       place:
-      price: 400
+      price: 0
       currency: THB
       description: 
 
@@ -119,7 +119,7 @@ cafes:
       type: Cafe with Wi-Fi
       googlemaps_id: 
       place: White Sand Beach
-      price: 400
+      price: $
       currency: THB
       description: We have been in this cafe for three weeks to work with our laptops every morning, coffee is delicious and you can use wifi and plug.
     - name: Marin Coffee
@@ -127,14 +127,14 @@ cafes:
       type: Cafe with Wi-Fi
       googlemaps_id: 
       place: White Sand Beach
-      price: 400
+      price: $
       currency: THB
       description: We found other two Marin Cafes around Ko Chang, the coffee is good and they have the possibility to work with your laptop
     - name: Tr Coffee
       type: Cafe with WiFi
       googlemaps_id: 
       place: White Sand Beach
-      price: 
+      price: $
       currency: THB
       description: Good coffee, smoothie and food. Owner is friendly and very good price. 
 
