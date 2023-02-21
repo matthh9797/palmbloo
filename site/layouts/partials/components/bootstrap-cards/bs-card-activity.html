@@ -1,0 +1,11 @@
+<div class="card">
+    <img src="{{ .image }}" alt="{{.description}}" class="card-img-top">
+    <div class="card-body">
+      <h5 class="card-title">{{ .name }}</h5>
+      <div class="icons-wrapper">
+          <div class="text-center w-50"><span>{{ emojify ":money_with_wings:" }}</span>{{ .price }}</div>
+          <div class="text-center"><span>{{ emojify ":pushpin:" }}</span> <a href="{{ .googlemaps_id}}">{{ .place }}</a></div>
+      </div>
+      <p class="card-text">{{ .description }}</p>
+    </div>
+</div>
