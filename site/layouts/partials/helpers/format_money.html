@@ -1,7 +1,6 @@
 {{ $price := .Current.price }}
-{{/*  {{ $price }}  */}}
 {{ if eq $price 0 }}
-Free
+    Free
 {{ else }}
-{{ partial "helpers/get_currency_symbol.html" (dict "Page" .Page "Current" .Current) }}{{ replace (replace ( lang.NumFmt 2 (.Current.price) "- , ." ) "," "<sup>") "." "," | safeHTML }}</sup> pp
+    {{ partial "helpers/get_currency_symbol.html" (dict "Page" .Page "Current" .Current) }}{{ replace (replace ( lang.NumFmt 2 (.Current.price) "- , ." ) "," "<sup>") "." "," | safeHTML }}</sup> pp
 {{ end }}
