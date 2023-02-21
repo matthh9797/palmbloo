@@ -5,35 +5,48 @@ eat:
     Most of our recomendations are local places that we found and never expensive touristy places except a couple of western restaurants for pizza, burgers etc. Note that some of the places had no name, no sign, some didn’t even have an English menu. In that case we will put the type of food in place of the name, you can refer to the pinned location on Google Maps.
   recomendations:
     - name: Thai Food 
+      image: https://drive.google.com/uc?export=view&id=1F0hELyBvUZ-KwNdVMNCLMFpcHrWtVWso
       googlemaps_id: https://goo.gl/maps/Lc5iPJzQrsSWqNxs7
       place: White Sand Beach
       price: $
-      description: Our favourite place, we tried several dishes here and it never dissapointed.
-      image: https://drive.google.com/uc?export=view&id=1CfWZT5o8crqqhMyq9bc2f86MxbCKjIz8
+      description: This place became our go to restaurant, everything we tried was top quality and we tried a lot!
     - name: Thai Food 
-      image: https://drive.google.com/uc?export=view&id=1ByqhgGdITTI4Bmktowym6tKsIYrjVR-E
-      googlemaps_id: 
+      image: https://drive.google.com/uc?export=view&id=1FC6IYvuXWPD12nOlMNk4sIXuGTPfZQNU
+      googlemaps_id: https://www.google.com/maps/place/Klong+Son+Elephant+Camp/@12.1314512,102.2748306,20z/data=!4m6!3m5!1s0x31041361f99813df:0x54970c316e11d37e!8m2!3d12.1143992!4d102.2994698!16s%2Fg%2F11qjwc7khg
       place: Khlong Son
       price: $
-      description: The first time we tried this place we thought we had walked into someone’s living room, a proper authentic local experience, this place was so cheap and never dissapointed
+      description: No sign, not even a menu, we thought we'd walked into someone's living room but the food was so good and cheap
+    - name: Restaurant Eat Here 
+      image: https://drive.google.com/uc?export=view&id=1FUz8LcjfQZILudkevyO_qRF8h2Gfi0tn
+      googlemaps_id: 
+      place: Khlong Son
+      price: $$
+      description: Tacky sign but the Dutch owner makes huge mouth watering homemade burgers and his wife is a great Thai chief
     - name: Bam & Boy
-      image: https://drive.google.com/uc?export=view&id=1Bjx_5mBivIzYwksLcGQKYkiQ8n-S6a8a
+      image: https://drive.google.com/uc?export=view&id=1FLvaLK6btZFuz4rZfv5fc0vATqpJ3Y8P
       googlemaps_id: 
       place: Khlong Prao
       price: $
       description: If you have never tried Thai style stewed chicken, go here at lunch and try it, amazing!
-    - name: Fish Place 
-      image: https://drive.google.com/uc?export=view&id=1ButAkQbL_muRfbgJqgk3XVVEGpLAdLfI
+    - name: Salak Kok Seafood
+      image: https://drive.google.com/uc?export=view&id=1FPTytLwwvhdZw6u7tIsO2Tkaqhq_wKj1
+      googlemaps_id: https://goo.gl/maps/7TpcyfiZQFhQ9G369
+      place: Salakkok
+      price: $$
+      description: 
+        The seafood in Salakkok is a must, we can highly recommend the deep fried fish with crispy lemon grass
+    - name: Ta and Yai 
+      image: https://drive.google.com/uc?export=view&id=1FLTFvrXjRfhUbPp1sggNYsgFrV6ecvRQ
+      googlemaps_id: 
+      place: White Sand Beach 
+      price: $
+      description: Run by a local family, the food is top quality. Got to try the Red Curry in Young Coconut
+    - name: Tao's Burger
+      image: https://drive.google.com/uc?export=view&id=1FXTp9S7NmsMV5F1ZWEguFLN_TNRVY05E
       googlemaps_id: 
       place: White Sand Beach
       price: $
-      description: Our favourite place, we tried several dishes here and it never dissapointed.
-    - name: Fish Place 
-      image: https://drive.google.com/uc?export=view&id=1BleUBpJaYxyMOGFJ1WDr_CycDf0_EVVM
-      googlemaps_id: 
-      place: White Sand Beach
-      price: $
-      description: Our favourite place, we tried several dishes here and it never dissapointed.
+      description: If you need a break from Thai food but still want to eat cheap get one of Tao's homemade burgers
       
 stay:
   header: Where to stay
@@ -41,6 +54,7 @@ stay:
   recomendations:
     - name: White Sand Beach
       description:
+      image: https://drive.google.com/uc?export=view&id=1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
       pros:
         - Range of accommodation options for all budgets. We stayed in Tantawan which was a basic room but X baht per night in peak season with aircon and right on the beach. We also found some nice cheap looking places on the North part of the beach, most aren’t on booking.com (reference our maps)
         - Great food. Although for local options you had to walk to South side, not a far walk
@@ -62,7 +76,7 @@ stay:
         - Water wasn’t very clear
 
 tips:
-  header: Some Practical Tips 
+  header: Some Practical Tips
   description:
   recomendations:
     - Bangkok Bank White Sand Beach, best place to convert money or exchange them.
@@ -73,19 +87,21 @@ activities:
   description:
   recomendations:
     - name: Trekking with Tan
+      image: https://drive.google.com/uc?export=view&id=1GpsDNzUbZWk0jxBw7K7uMEi-jQZzqIKD
       googlemaps_id: 
       url: 
-      place:
+      place: 
       price: 1200 # per person
       currency: THB
-      description: 
-    - name: Napoli Kitchen
+      description: The only way to see the jungle in Ko Chang is to pay for a tour guide and is really worth the money 
+    - name: Napalai Kitchen
+      image: https://drive.google.com/uc?export=view&id=1FzDKeokxkLOb09INuuYAyoXIMW_5Pmzo
       googlemaps_id: 
       url: 
-      place:
+      place: Klong Prao 
       price: 400
       currency: THB
-      description: 
+      description: 3 hours and 10 dishes with Bunny
     - name: SUP board on lonely beach sunset
       googlemaps_id: 
       url: 
@@ -105,7 +121,7 @@ cafes:
       place: White Sand Beach
       price: 400
       currency: THB
-      description: we have been in this cafe for three weeks to work with our laptops every morning, coffee is delicious and you can use wifi and plug.
+      description: We have been in this cafe for three weeks to work with our laptops every morning, coffee is delicious and you can use wifi and plug.
     - name: Marin Coffee
       image: https://drive.google.com/uc?export=view&id=1BleUBpJaYxyMOGFJ1WDr_CycDf0_EVVM
       type: Cafe with Wi-Fi
@@ -113,34 +129,62 @@ cafes:
       place: White Sand Beach
       price: 400
       currency: THB
-      description: we found other two Marin Cafes around Ko Chang, the coffee is good and they have the possibility to work with your laptop
+      description: We found other two Marin Cafes around Ko Chang, the coffee is good and they have the possibility to work with your laptop
+    - name: Tr Coffee
+      type: Cafe with WiFi
+      googlemaps_id: 
+      place: White Sand Beach
+      price: 
+      currency: THB
+      description: Good coffee, smoothie and food. Owner is friendly and very good price. 
 
 beaches:
-  header: Our Favourite Cafes 
-  description:
+  header: Our Favourite Beaches 
+  description: Families, couples, few travellers, a good mix including ex-pats in the villas. A resort but we discovered that beside is private property is possible access easily, the guards around allowed us lots of time, the beach is extremely clean and it’s a lovely place to relax.
   recomendations:
-    - name: X
+    - name: White Sand Beach 
+      googlemaps_id: 
+      description: Likely to meet Tourists, families, couples and few backpackers. Mainly resorts and hotels but bungalows, huts, guesthouses also available
+    - name: Lonely Beach 
       googlemaps_id: 
       place: Y
       price: $
-      description: Z
+      description: Likely to meet, Backpackers, solo travellers, party people. Not the longest beach but good sand, best at the northern end, nice vibe
 
 bars:
-  header: Our Favourite Cafes 
-  description:
+  header: Our Favourite Bars 
+  description: We didn’t drink in bars often in Koh Chang due to our budget and general preference to drink a beer on the beach at our place. But there were a few that were cool ones.
   recomendations:
-    - name: X
+    - name: Oodie's Place 
       googlemaps_id: 
       place: Y
       price: $
-      description: Z
+      description: Thai/Folk/Rock live music bar. 
 
 football:
-  header: Our Favourite Cafes 
+  header: And Most Importantly, Where to Watch the Football?? 
   description:
   recomendations:
-    - name: X
+    - name: Dodo Bar 
       googlemaps_id: 
-      place: Y
+      place: Chai Chet Koh Chang 
       price: $
-      description: Z
+      description: Very welcoming bar with a screen to watch football, it has also a nice pool table and some drinks to enjoy
+    - name: The White Elephant 
+      googlemaps_id: 
+      place: White sand beach 
+      price: $
+      description: Sport pub, we went here to watch some World Cup's games, manly Western food, but good ranges of beers 
+    - name: Kebab Station
+      googlemaps_id: 
+      place: Klong Son 
+      price: $
+      description: Run by an English owner this pub offers a massive screen where you can watch football including a pool table 
+
+conclusion:
+  header: Closing Thoughts 
+  description: >
+    We loved Koh Chang .......ivnwni neofineox
+
+footnotes:
+  1: (2021, April 24). How Big is Koh Chang? Iamkohchang.com. Retrieved February 19, 2023, from <a href="https://iamkohchang.com/blog/how-big-is-koh-chang.html">https://iamkohchang.com/blog/how-big-is-koh-chang.html</a>
