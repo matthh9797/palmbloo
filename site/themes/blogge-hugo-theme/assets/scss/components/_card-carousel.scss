@@ -4,52 +4,109 @@
         flex-direction: row;   
         justify-content: center;  // to center you carousel
     }
-    @media (max-width: 728px) {
-        .card-wrapper {
-            .card {
-                width: 45vh;
+    &-full-width {
+        .card {
+            padding-top: 30px;
+        }
+        .owl-dots {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+        }
+        @media (max-width: 728px) {
+            .owl-prev, .owl-next {
+                visibility: hidden;
             }
         }
-        .owl-prev {
-            left: 0;
+        @media (min-width: 728px) {
+            .owl-prev {
+                left: -30px;
+            }
+            .owl-next {
+                right: -30px;
+            }
         }
-        .owl-next {
-            right: 0;
+        .owl-prev, .owl-next {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            span {
+                font-size: 80px;
+                color: black;
+            }
         }
-    }
-    @media (min-width: 728px) {
-        .owl-prev {
-            left: -30px;
-        }
-        .owl-next {
-            right: -30px;
-        }
-    }
-    .owl-prev, .owl-next {
-        position: absolute;
-        top: 150px;
-        span {
-            font-size: 80px;
-            color: black;
+        .owl-theme, .owl-nav[class*="owl-"]:hover {
+            background: transparent;
         }
     }
-    .owl-theme, .owl-nav[class*="owl-"]:hover {
-        background: transparent;
-    }
-    .card {
-        height: 60vh;
-        width: 35vh;
-        .card-img-top {
-            height: 28vh;
-            width: 100%;
-            object-fit: cover; // stops distortion
+    &-responsive {
+        @media (max-width: 728px) {
+            .card-wrapper {
+                .card {
+                    width: 45vh;
+                }
+            }
+            .owl-prev {
+                left: 0;
+            }
+            .owl-next {
+                right: 0;
+            }
         }
-        .card-body {
-            .icons-wrapper {
-                display: flex;
-                flex-direction: row;
-                flex-wrap: wrap;
+        @media (min-width: 728px) {
+            .owl-prev {
+                left: -30px;
+            }
+            .owl-next {
+                right: -30px;
+            }
+        }
+        .owl-prev, .owl-next {
+            position: absolute;
+            top: 150px;
+            span {
+                font-size: 80px;
+                color: black;
+            }
+        }
+        .owl-theme, .owl-nav[class*="owl-"]:hover {
+            background: transparent;
+        }
+        .card {
+            height: 60vh;
+            width: 35vh;
+            .card-img-top {
+                height: 28vh;
+                width: 100%;
+                object-fit: cover; // stops distortion
+            }
+            .card-body {
+                .icons-wrapper {
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                }
             }
         }
     }
 }
+// .card-carousel-full-width-container {
+//     .card-wrapper {
+//         display: flex !important;  // to override display:bloc i added !important
+//         flex-direction: row;   
+//         justify-content: center;  // to center you carousel
+//     }
+//     .owl-prev, .owl-next {
+//         position: absolute;
+//         top: 150px;
+//         span {
+//             font-size: 80px;
+//             color: black;
+//         }
+//     }
+//     .owl-theme, .owl-nav[class*="owl-"]:hover {
+//         background: transparent;
+//     }
+// }
