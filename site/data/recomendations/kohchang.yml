@@ -131,6 +131,7 @@ activities:
       currency: THB
       description: Fancy something a bit more ... ?
     - name: Massage on the Beach
+      image: https://drive.google.com/uc?export=view&id=1HVS41hqof_DX15W5y8-rLh67EkWQgFYu
       googlemaps_id: 
       url: 
       place:
@@ -138,13 +139,15 @@ activities:
       currency: THB
       description: 
     - name: SUP in the Mangroves
-      googlemaps_id: 
+      image: https://drive.google.com/uc?export=view&id=1GEo04yXCnWR-icf2y-Ey58KXUoDyxz_1
+      googlemaps_id:
       url: 
-      place:
+      place: 
       price: 0
       currency: THB
       description: 
     - name: Luam Waterfall
+      image: https://drive.google.com/uc?export=view&id=1GZDAKaXQlwG1eDbym26euOfR4mAzpLvj
       googlemaps_id: 
       url: 
       place:
@@ -152,6 +155,7 @@ activities:
       currency: THB
       description: 
     - name: Kayak to an Island
+      image: https://drive.google.com/uc?export=view&id=1HIYKkJa1cbJ533zlJCp2PrLqxlwrOImK
       googlemaps_id: 
       url: 
       place:
@@ -159,6 +163,7 @@ activities:
       currency: THB
       description: 
     - name: Pool at KYC Resort
+      image: https://drive.google.com/uc?export=view&id=1HowZWbkfYX8PRbRYGIFdSln7KyD6IBA2
       googlemaps_id: 
       url: 
       place:
@@ -177,16 +182,16 @@ cafes:
   header: Our Favourite Cafes 
   description: We would mainly look for cafe's with a wifi
   recomendations:
-    - name: Kohchahokkaido milk tea
-      image: https://drive.google.com/uc?export=view&id=1ByqhgGdITTI4Bmktowym6tKsIYrjVR-E
+    - name: Kohchahokkaido
+      image: https://drive.google.com/uc?export=view&id=1HcvGocjKkYuztrkH2gEaRnUmtYqOPizI
       type: Cafe with Wi-Fi
-      googlemaps_id: 
+      googlemaps_id:
       place: White Sand Beach
       price: $
       currency: THB
       description: We have been in this cafe for three weeks to work with our laptops every morning, coffee is delicious and you can use wifi and plug.
     - name: Marin Coffee
-      image: https://drive.google.com/uc?export=view&id=1BleUBpJaYxyMOGFJ1WDr_CycDf0_EVVM
+      image: https://drive.google.com/uc?export=view&id=1IJjMWTIvBtzOVwBTdYYx-1GAO90F87Mh
       type: Cafe with Wi-Fi
       googlemaps_id: 
       place: White Sand Beach
@@ -194,6 +199,31 @@ cafes:
       currency: THB
       description: We found other two Marin Cafes around Ko Chang, the coffee is good and they have the possibility to work with your laptop
     - name: Tr Coffee
+      image: https://drive.google.com/uc?export=view&id=1ISp3N1jcfNMr56e-cFIwUezwXLKVXWja
+      type: Cafe with WiFi
+      googlemaps_id:
+      place: White Sand Beach
+      price: $
+      currency: THB
+      description: Good coffee, smoothie and food. Owner is friendly and very good price. 
+    - name: Du Talay
+      image: https://drive.google.com/uc?export=view&id=1I5BUrIuveLIGNHIGE_CT8nzF6kqvGfxu
+      type: Cafe with Wi-Fi
+      googlemaps_id:
+      place: White Sand Beach
+      price: $
+      currency: THB
+      description: We have been in this cafe for three weeks to work with our laptops every morning, coffee is delicious and you can use wifi and plug.
+    - name: Marin Coffee
+      image: https://drive.google.com/uc?export=view&id=1Hmo-aIxEL2CAIygdxbW5nH_sPNvdWdWv
+      type: Cafe with Wi-Fi
+      googlemaps_id:  
+      place: Khlong Prao
+      price: $
+      currency: THB
+      description: We found other two Marin Cafes around Ko Chang, the coffee is good and they have the possibility to work with your laptop
+    - name: Apple Beachfront
+      image: https://drive.google.com/uc?export=view&id=1IgcsDXg2w0aM3BW3RjdOp-UUa5v0ZZpp
       type: Cafe with WiFi
       googlemaps_id: 
       place: White Sand Beach
@@ -219,27 +249,44 @@ bars:
   description: We didn’t drink in bars often in Koh Chang due to our budget and general preference to drink a beer on the beach at our place. But there were a few that were cool ones.
   recomendations:
     - name: Oodie's Place 
+      image: https://drive.google.com/uc?export=view&id=
+      category: music
       googlemaps_id: 
-      place: Y
+      place: White Sand Beach
       price: $
       description: Thai/Folk/Rock live music bar. 
-
-football:
-  header: And Most Importantly, Where to Watch the Football?? 
-  description:
-  recomendations:
     - name: Dodo Bar 
-      googlemaps_id: 
+      image: https://drive.google.com/uc?export=view&id=1HeBmqRJOnpkyGYSBeugwicyoLRClKisY
+      category: football
+      googlemaps_id:
       place: Chai Chet Koh Chang 
       price: $
       description: Very welcoming bar with a screen to watch football, it has also a nice pool table and some drinks to enjoy
     - name: The White Elephant 
+      image: https://drive.google.com/uc?export=view&id=1HjA-8wz5W2M5D04Ha-g6_ZgfOknuFJsB
+      category: football      
       googlemaps_id: 
-      place: White sand beach 
+      place: White Sand Beach 
       price: $
       description: Sport pub, we went here to watch some World Cup's games, manly Western food, but good ranges of beers 
-    - name: Kebab Station
+    - name: Tapas Bar
+      image: https://drive.google.com/uc?export=view&id=1FyqQKNNGMtrSRLE7BNtZFZYeX9hZ_fhA
+      category: cocktail
       googlemaps_id: 
+      place: White Sand Beach 
+      price: $
+      description: Thai/Folk/Rock live music bar. 
+    - name: Nature Beach
+      image: https://drive.google.com/uc?export=view&id=1HOWVTcU9v1S66vRO_F3ZTncg-GTQxOXa
+      category: cocktail
+      googlemaps_id:
+      place: Lonely Beach
+      price: $
+      description: Thai/Folk/Rock live music bar. 
+    - name: Kebab Station
+      image: https://drive.google.com/uc?export=view&id=1HjBj8GP4SgFuSlv50FOHqTFy_i-5Selw
+      category: football
+      googlemaps_id:
       place: Klong Son 
       price: $
       description: Run by an English owner this pub offers a massive screen where you can watch football including a pool table 
