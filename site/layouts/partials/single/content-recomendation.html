@@ -14,16 +14,15 @@
 <div class="single-blog-content">
     {{ .Content }}
 
-    {{/*  Practical Tip's  */}}
-    <h3>{{ $entity.tips.header }}</h3>
-    <p>{{ $entity.tips.description }}</p>
-    {{ if $entity.tips.recomendations }}
-    <ul>
-    {{ range $entity.tips.recomendations }} 
-        <li>{{ . }}</li>
-    {{ end }}
-    </ul>
-    {{ end }}
+    {{/*  Where to Stay  */}}
+    <section class="mb-5">
+        <h3>{{ $entity.stay.header }}</h3>
+        <p>{{ $entity.stay.description  | safeHTML }}</p>
+        {{ if $entity.stay.recomendations }}
+        {{ .Scratch.Set "recomendation_category" "stay" }}
+        {{ partial "components/card-carousel-full-width.html" . }}
+        {{ end }}
+    </section>
 
     {{/*  Where to Eat  */}}
     <h3>{{ $entity.eat.header }}</h3>
@@ -31,48 +30,6 @@
     {{ .Scratch.Set "recomendation_category" "eat" }}
     {{ partial "components/card-carousel.html" . }}
 
-    {{/*  Where to Stay  */}}
-    <section class="mb-5">
-        <h3>{{ $entity.stay.header }}</h3>
-        <p>{{ $entity.stay.description }}</p>
-        {{ if $entity.stay.recomendations }}
-        <div>
-        {{ range $entity.stay.recomendations }} 
-            <div class="mb-3">
-                {{ if .image }}<img src="{{ .image }}" alt="{{.description}}" class="card-img-top" style="aspect-ratio: 2; object-fit: cover;">{{ end }}
-                <h4 class="text-center mt-3">{{ .name }}</h4>
-                <p>{{ .description }}</p>
-                <div class="table-borderless">
-                    <table class="table">
-                        <thead class="thead-dark text-center"><tr>
-                            <th scope="col">What we liked</th>
-                            <th scope="col">What to be aware of</th>
-                        </tr></thead>
-                        <tr>
-                            <td>
-                                {{ if .pros }}
-                                    <ul class="list-group">
-                                        {{ range .pros }}<li class="list-group-item list-group-item-action list-group-item-success">{{ . }}</li>{{ end }}
-                                    </ul>
-                                {{ end }}
-                            </td>
-                            <td>
-                                {{ if .cons }}
-                                    <ul class="list-group">
-                                        {{ range .cons }}<li class="list-group-item list-group-item-action list-group-item-warning">{{ . }}</li>{{ end }}
-                                    </ul>   
-                                {{ end }}
-                            </td>
-                        </tr>
-                    </table>
-                </div>
-
-
-            </div>
-        {{ end }}
-        </div>
-        {{ end }}
-    </section>
 
     {{/*  Activities  */}}
     <h3>{{ $entity.activities.header }}</h3>
@@ -88,7 +45,7 @@
 
     {{/*  Beaches  */}}
     <h3>{{ $entity.beaches.header }}</h3>
-    <p>{{ $entity.beaches.description }}</p>
+    <p>{{ $entity.beaches.description | markdownify }}</p>
     {{ .Scratch.Set "recomendation_category" "beaches" }}
     {{ partial "components/card-carousel.html" . }}
 
@@ -97,6 +54,17 @@
     <p>{{ $entity.bars.description }}</p>
     {{ .Scratch.Set "recomendation_category" "bars" }}
     {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Practical Tip's  */}}
+    <h3>{{ $entity.tips.header }}</h3>
+    <p>{{ $entity.tips.description }}</p>
+    {{ if $entity.tips.recomendations }}
+    <ul>
+        {{ range $entity.tips.recomendations }} 
+            <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
 
     {{/*  Closing Thoughts  */}}
     <h3>{{ $entity.conclusion.header }}</h3>

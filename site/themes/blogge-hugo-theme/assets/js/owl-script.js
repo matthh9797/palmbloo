@@ -1,7 +1,7 @@
-$(".owl-carousel").owlCarousel({
-    // autoplay: true,
-    // autoplayhoverpause: true,
-    // autoplaytimeout: 100,
+$(".owl-one").owlCarousel({
+    autoplay: true,
+    autoplayhoverpause: true,
+    autoplaytimeout: 100,
     items: 2,
     nav: true,
     loop: true,
@@ -19,4 +19,12 @@ $(".owl-carousel").owlCarousel({
             dots: true
         }
     }
+});
+$(".owl-two").owlCarousel({
+    autoplay: true,
+    autoplayhoverpause: true,
+    autoplaytimeout: 100,
+    items: 1,
+    nav: true,
+    loop: true,
 });
