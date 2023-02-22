@@ -50,7 +50,7 @@ eat:
       
 stay:
   header: Where to stay
-  description: We stayed in Tantawan which was a basic room but X baht per night in peak season with aircon and right on the beach. We also found some nice cheap looking places on the North part of the beach, most aren’t on booking.com (reference our maps)
+  description: We stayed in Tantawan which was a basic room but X baht per night in peak season with aircon and right on the beach. We also found some nice cheap looking places on the North part of the beach, most aren’t on booking.com (reference our maps). Bang Bao seems nice, we didn't like Kai Bae, Salakkok 
   recomendations:
     - name: White Sand Beach
       description:
@@ -74,6 +74,25 @@ stay:
         - It’s not a party place, this can be a pro or a con depending on your preferences.
         - Lack of shops and cafes with WiFi in the area
         - Water wasn’t very clear
+    - name: Khlong Prao
+      description:
+      pros:
+        - Laid back vibes
+        - Great sunset spot
+      cons:
+        - It’s not a party place, this can be a pro or a con depending on your preferences.
+    - name: Khlong Son
+      description:
+      pros:
+        - Laid back vibes
+      cons:
+        - It’s not a party place, this can be a pro or a con depending on your preferences.
+    - name: Salakkok
+      description:
+      pros:
+        - Laid back vibes
+      cons:
+        - It’s not a party place, this can be a pro or a con depending on your preferences.
 
 tips:
   header: Some Practical Tips
@@ -81,9 +100,10 @@ tips:
   recomendations:
     - Bangkok Bank White Sand Beach, best place to convert money or exchange them.
     - A scooter is the best way to get around the island. If not you can use a shared taxi.
+    - The activities and spots which charge tourist 200 baht are a rip off 
 
 activities:
-  header: Our Favourite Activities 
+  header: Our Favourite Experiences 
   description:
   recomendations:
     - name: Trekking with Tan
@@ -102,7 +122,50 @@ activities:
       price: 400
       currency: THB
       description: You should definitely try a cooking class, 3 hours and 5 dishes with Bunny
-    - name: Chilling on lonely beach 
+    - name: Animal Voice
+      image: 
+      googlemaps_id: 
+      url: 
+      place: Klong Prao 
+      price: 0
+      currency: THB
+      description: Fancy something a bit more ... ?
+    - name: Massage on the Beach
+      googlemaps_id: 
+      url: 
+      place:
+      price: 0
+      currency: THB
+      description: 
+    - name: SUP in the Mangroves
+      googlemaps_id: 
+      url: 
+      place:
+      price: 0
+      currency: THB
+      description: 
+    - name: Luam Waterfall
+      googlemaps_id: 
+      url: 
+      place:
+      price: 0
+      currency: THB
+      description: 
+    - name: Kayak to an Island
+      googlemaps_id: 
+      url: 
+      place:
+      price: 0
+      currency: THB
+      description: 
+    - name: Pool at KYC Resort
+      googlemaps_id: 
+      url: 
+      place:
+      price: 0
+      currency: THB
+      description: 
+    - name: Get a Bamboo Tattoo
       googlemaps_id: 
       url: 
       place:
@@ -112,7 +175,7 @@ activities:
 
 cafes:
   header: Our Favourite Cafes 
-  description:
+  description: We would mainly look for cafe's with a wifi
   recomendations:
     - name: Kohchahokkaido milk tea
       image: https://drive.google.com/uc?export=view&id=1ByqhgGdITTI4Bmktowym6tKsIYrjVR-E
