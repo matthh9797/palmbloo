@@ -98,12 +98,6 @@
     {{ .Scratch.Set "recomendation_category" "bars" }}
     {{ partial "components/card-carousel.html" . }}
 
-    {{/*  Football  */}}
-    <h3>{{ $entity.football.header }}</h3>
-    <p>{{ $entity.football.description }}</p>
-    {{ .Scratch.Set "recomendation_category" "football" }}
-    {{ partial "components/card-carousel.html" . }}
-
     {{/*  Closing Thoughts  */}}
     <h3>{{ $entity.conclusion.header }}</h3>
     <p>{{ $entity.conclusion.description }}</p>
