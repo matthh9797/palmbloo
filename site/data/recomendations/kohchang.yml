@@ -49,12 +49,21 @@ eat:
       description: If you need a break from Thai food but still want to eat cheap get one of Tao's homemade burgers
       
 stay:
-  header: Where to stay
-  description: We stayed in Tantawan which was a basic room but X baht per night in peak season with aircon and right on the beach. We also found some nice cheap looking places on the North part of the beach, most aren’t on booking.com (reference our maps). Bang Bao seems nice, we didn't like Kai Bae, Salakkok 
+  header: Where Should You Stay?
+  description: > 
+    <p>
+    We stayed mainly in Khlong Son and White Sand Beach, but we also stayed for a few nights in Khlong Prao and Lonely Beach and toured the island 
+    quite a so we got a pretty good idea of what each place has to offer. Below are some details for our favourite areas on the island. 
+    </p><p>    
+    Note we have not included Kai Bae, this area didn't suit us due to lack of local food options and expensive bars. We have also missed out Bang Bao the main 
+    ferry point to the other islands, we only visited here a couple of times, it seems nice enough but there wasn't seem to be a lot to do.
+    </p>   
+
   recomendations:
     - name: White Sand Beach
       description:
-      image: https://drive.google.com/uc?export=view&id=1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
+      caption: Christmas Day on White Sand Beach
+      image: 1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
       pros:
         - Range of accomodation options for all budget
         - Great food, there is a night market and local places off of the main strip 
@@ -66,7 +75,8 @@ stay:
         - Not so easy (but always possible) to get a sunbathing spot when the tide is in
         - A lot of prositution in the area
     - name: Lonely Beach
-      description:
+      description: 
+      image: 1n8cX_onyNGNSAcX8k7wSaadyPjP26PnT
       pros:
         - Laid back vibes
         - Great sunset spot
@@ -75,7 +85,8 @@ stay:
         - Lack of shops and cafes with WiFi in the area
         - Water wasn’t very clear
     - name: Khlong Prao
-      description:
+      description: 
+      image: 1wVw82vLs0Ao9SmmfYhwPyWLv9-B2F4Km
       pros:
         - Laid back vibes
         - Great sunset spot
@@ -83,12 +94,14 @@ stay:
         - It’s not a party place, this can be a pro or a con depending on your preferences.
     - name: Khlong Son
       description:
+      image: 1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
       pros:
         - Laid back vibes
       cons:
         - It’s not a party place, this can be a pro or a con depending on your preferences.
     - name: Salakkok
       description:
+      image: 1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
       pros:
         - Laid back vibes
       cons:
@@ -101,6 +114,7 @@ tips:
     - Bangkok Bank White Sand Beach, best place to convert money or exchange them.
     - A scooter is the best way to get around the island. If not you can use a shared taxi.
     - The activities and spots which charge tourist 200 baht are a rip off 
+    - There is a massive hill in the middle of Koh Chang, be carefull not to drive too fast around the corners!
 
 activities:
   header: Our Favourite Experiences 
