@@ -67,7 +67,7 @@ stay:
       pros:
         - Range of accomodation options for all budget
         - Great food, there is a night market and local places off of the main strip 
-        - Range of bars and cafes
+        - Range of bars and cafes and a lot going on in the area
         - The beach is naturally very nice
         - Shops and supermerkets
       cons:
@@ -78,34 +78,42 @@ stay:
       description: 
       image: 1n8cX_onyNGNSAcX8k7wSaadyPjP26PnT
       pros:
-        - Laid back vibes
-        - Great sunset spot
+        - Very laid back vibes and nice hippie style accomodation 
+        - Great sunset spot with lots of chill beach bars to watch from
       cons:
-        - It’s not a party place, this can be a pro or a con depending on your preferences.
+        - It’s not a party place if that is what you are looking for
         - Lack of shops and cafes with WiFi in the area
-        - Water wasn’t very clear
+        - Water is not very clear 
     - name: Khlong Prao
       description: 
       image: 1wVw82vLs0Ao9SmmfYhwPyWLv9-B2F4Km
       pros:
-        - Laid back vibes
-        - Great sunset spot
+        - Good range of food, both Western and Thai (we had an amazing pizza at Babylon)
+        - Nice alternative feeling bars and a good cafe with Wi-Fi in the center
       cons:
-        - It’s not a party place, this can be a pro or a con depending on your preferences.
+        - 
     - name: Khlong Son
       description:
       image: 1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
       pros:
-        - Laid back vibes
+        - The most authentic feeling local place we stayed 
+        - Very nice beach which is not busy 
+        - Amazing local Thai food at some of the best prices on the island
+        - You can go to Luam Waterfall which is a good way to experience the jungle and they charge the same price for foreigners and locals
       cons:
-        - It’s not a party place, this can be a pro or a con depending on your preferences.
+        - Quite a small area so there is not a range of cafes or food options 
+        - Not a lot going on at night time 
     - name: Salakkok
       description:
       image: 1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
       pros:
-        - Laid back vibes
+        - Great if you want to really escape the Western World and experience some Asian lifestyle
+        - Really relaxing and nice at sunset 
+        - There are some good activities like kayaking in the Mangroves
       cons:
-        - It’s not a party place, this can be a pro or a con depending on your preferences.
+        - There is nothing going on at night time here 
+        - You will need a scooter to get around as not much is walkable 
+        - Not many shops or cafes or bars
 
 tips:
   header: Some Practical Tips
@@ -115,7 +123,7 @@ tips:
     - A scooter is the best way to get around the island. If not you can use a shared taxi.
     - The activities and spots which charge tourist 200 baht are a rip off 
     - There is a massive hill in the middle of Koh Chang, be carefull not to drive too fast around the corners!
-
+    - There are no free Elephants on the island only captive ones, we would advice against giving these people money
 activities:
   header: Our Favourite Experiences 
   description:

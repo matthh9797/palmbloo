@@ -59,19 +59,21 @@
     <h3>{{ $entity.tips.header }}</h3>
     <p>{{ $entity.tips.description }}</p>
     {{ if $entity.tips.recomendations }}
-    <ul>
+    <ul class="list-group">
         {{ range $entity.tips.recomendations }} 
-            <li>{{ . }}</li>
+            <li class="list-group-item list-group-item-action list-group-item-info">{{ . }}</li>
         {{ end }}
     </ul>
     {{ end }}
 
-    {{/*  Closing Thoughts  */}}
-    <h3>{{ $entity.conclusion.header }}</h3>
-    <p>{{ $entity.conclusion.description }}</p>
+    <section class="mt-5">
+        {{/*  Closing Thoughts  */}}
+        <h3>{{ $entity.conclusion.header }}</h3>
+        <p>{{ $entity.conclusion.description }}</p>
 
-    {{/*  Footnotes  */}}
-    {{ partial "components/footnotes.html" . }}
+        {{/*  Footnotes  */}}
+        {{ partial "components/footnotes.html" . }}
+    </section>
 
 </div>
 
