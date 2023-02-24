@@ -28,6 +28,6 @@ After three weeks at the workaway we decided to stay in White Sand Beach, mainly
 
 It's important to know when you go to Koh Chang that the island is split into two sides and there is no road connecting them at the bottom. We were told by the people that the Thai government didn't want the island to turn into a destination for "hairy bikers" to do loops around.
 
-The West coast of the island is the touristic side whilst there few people living on the East coast, mainly farmers and fishermen. The main reason for the major tourist development on the West coast is that this is where almost all of the beaches are. However, in terms of natural beauty the East coast has lots to offer as well, including waterfalls, mangroves and islands.
+The West coast of the island is the touristic side whilst there are few people living on the East coast, mainly farmers and fishermen. The main reason for the major tourist development on the West coast is that this is where almost all of the beaches are. However, in terms of natural beauty the East coast has lots to offer as well, including waterfalls, mangroves and islands.
 
 We decided to stay on the West coast for all of our time on the island due to the beaches and better development, it was also nowhere near as busy as other major islands on Thailand. However, we ventured round to the East coast several times to check out the mangroves, waterfalls and fishing villages. If you fancy an adventure or to really get away from the crowds we are sure you would enjoy the peace and tranquillity of the East.
