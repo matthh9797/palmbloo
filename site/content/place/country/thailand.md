@@ -14,7 +14,7 @@ summary: >
     Thailand is one of the World's most popular tourist destinations.
 ---
 
-{{< boostrap-alert alert_type="danger" text="We overstayed our visa 1 day and we charged ฿500 ($15). Tip no.1 don't calculate the departure date yourself, check the stamp on your passport!">}}
+{{< boostrap-alert type="danger" text="We overstayed our visa 1 day and we charged ฿500 ($15). Tip no.1 don't calculate the departure date yourself, check the stamp on your passport!">}}
 
 ### Introduction
 

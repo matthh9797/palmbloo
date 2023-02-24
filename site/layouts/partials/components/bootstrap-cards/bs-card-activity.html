@@ -1,0 +1,11 @@
+<div class="card">
+    <img src="{{ .Recomendation.image }}" alt="{{.Recomendation.description}}" class="card-img-top">
+    <div class="card-body">
+      <h5 class="card-title">{{ .Recomendation.name }}</h5>
+      <div class="icons-wrapper">
+          <div class="w-50"><span class="pr-1">{{ emojify ":money_with_wings:" }}</span> {{ partial "helpers/format_money.html" (dict "Current" .Recomendation "Page" .Page) }}</div>
+          <div><span class="pr-1">{{ emojify ":link:" }}</span> <a href="{{ .Recomendation.url }}">{{ replace (urls.Parse .Recomendation.url).Host "www." "" }}</a></div>
+      </div>
+      <p class="card-text">{{ .Recomendation.description }}</p>
+    </div>
+</div>

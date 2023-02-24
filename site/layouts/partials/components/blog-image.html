@@ -1,0 +1,12 @@
+{{ $border_radius := (.border_radius) | default "5px" }}
+{{ $wh_ratio := (.wh_ratio) | default "16 / 9" }}
+{{ $caption_position := (.caption_position) | default "right" }}
+
+<div class="shortcode">
+    <div class="blog-image">
+        <figure class="figure">
+            <img style="border-radius: {{$border_radius}}; aspect-ratio: {{$wh_ratio}};" src="https://drive.google.com/uc?export=view&id={{.gdrive_id}}"/>
+            <figcaption class="figure-caption text-{{$caption_position}}">{{ .caption }}</figcaption>
+        </figure>
+    </div>
+</div>

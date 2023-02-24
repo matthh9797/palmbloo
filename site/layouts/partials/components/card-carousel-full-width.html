@@ -1,0 +1,16 @@
+
+{{ $recomendation_category := $.Scratch.Get "recomendation_category" }}
+{{ $entity_category := (index ($.Scratch.Get "entity") $recomendation_category ) }}
+<div class="card-carousel-container mb-5">
+    <div class="card-carousel-container-full-width">
+        <div class="owl-two owl-carousel owl-theme">
+            {{ range $entity_category.recomendations }}
+                <div class="card-wrapper ms-2 me-2">
+                {{ $card_type := (partial "components/lookups/lookup-bs-card-category" (dict "recomendation_category" $recomendation_category) ) }}
+                {{ $path := (printf "components/bootstrap-cards/bs-card-%s" $card_type) }}
+                {{ partial $path (dict "Page" $ "Recomendation" .) }}
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>

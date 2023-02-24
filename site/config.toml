@@ -63,7 +63,8 @@ enableEmoji = true
   fabformURL  = "9AJk8ro"
   googleMapAPI = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
   custom_css = [
-    "css/recipe_box.css"
+    "css/owl.carousel.min.css",
+    "css/owl.theme.default.css"
   ]
 
 [taxonomies]

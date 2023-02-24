@@ -1,0 +1,5 @@
+{{   cond (in (slice "eat" "cafes") .recomendation_category) "eatery" 
+    (cond (in (slice "activities") .recomendation_category) "activity" 
+    (cond (in (slice "bars") .recomendation_category) "bar" 
+    (cond (in (slice "stay") .recomendation_category) "stay" 
+    "place"))) }}

@@ -1,0 +1,11 @@
+<div class="card">
+    <img src="{{ .Recomendation.image }}" alt="{{.Recomendation.description}}" class="card-img-top">
+    <div class="card-body">
+      <h5 class="card-title">{{ .Recomendation.name }}</h5>
+      <div class="icons-wrapper">
+          <div class="text-center w-25"> {{ .Recomendation.price }}</div>
+          <div class="text-center"><span>{{ emojify ":pushpin:" }}</span> <a href="{{ .Recomendation.googlemaps_id}}">{{ .Recomendation.place }}</a></div>
+      </div>
+      <p class="card-text">{{ .Recomendation.description }}</p>
+    </div>
+</div>

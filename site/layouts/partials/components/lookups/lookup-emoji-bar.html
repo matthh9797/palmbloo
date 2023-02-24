@@ -1,0 +1,6 @@
+{{ $category :=  cond (in (slice "music") .bar_category) ":guitar:" 
+                (cond (in (slice "football") .bar_category) ":soccer:" 
+                (cond (in (slice "party") .bar_category) ":tada:" 
+                (cond (in (slice "cocktail") .bar_category) ":tropical_drink:" 
+                ":beers:"))) }}
+{{ emojify $category }}

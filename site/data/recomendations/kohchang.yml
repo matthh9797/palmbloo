@@ -1,0 +1,347 @@
+eat:
+  header: Where to Eat 
+  description: >
+    Koh Chang is one of the best places either of us had ever been for food with local places never disappointing and even a very good standard of Western food if you know where to look.
+    Most of our recommendations are local places that we found and never expensive touristy places except a couple of western restaurants for pizza, burgers etc. Note that some of the places had no name, no sign, some didn’t even have an English menu. In that case we will put the type of food in place of the name, you can refer to the pinned location on Google Maps.
+  recomendations:
+    - name: Thai Food 
+      image: https://drive.google.com/uc?export=view&id=1F0hELyBvUZ-KwNdVMNCLMFpcHrWtVWso
+      googlemaps_id: https://goo.gl/maps/Lc5iPJzQrsSWqNxs7
+      place: White Sand Beach
+      price: $
+      description: This place became our go to restaurant, everything we tried was top quality and we tried a lot!
+    - name: Thai Food 
+      image: https://drive.google.com/uc?export=view&id=1FC6IYvuXWPD12nOlMNk4sIXuGTPfZQNU
+      googlemaps_id: https://www.google.com/maps/place/Klong+Son+Elephant+Camp/@12.1314512,102.2748306,20z/data=!4m6!3m5!1s0x31041361f99813df:0x54970c316e11d37e!8m2!3d12.1143992!4d102.2994698!16s%2Fg%2F11qjwc7khg
+      place: Klong Son
+      price: $
+      description: No sign, not even a menu, we thought we'd walked into someone's living room but the food was so good and cheap
+    - name: Restaurant Eat Here 
+      image: https://drive.google.com/uc?export=view&id=1FUz8LcjfQZILudkevyO_qRF8h2Gfi0tn
+      googlemaps_id: https://goo.gl/maps/smW64mmWWg4nGK347
+      place: Klong Son
+      price: $$
+      description: Tacky sign but the Dutch owner makes huge mouth watering homemade burgers and his wife is a great Thai chief
+    - name: Bam & Boy
+      image: https://drive.google.com/uc?export=view&id=1FLvaLK6btZFuz4rZfv5fc0vATqpJ3Y8P
+      googlemaps_id: https://goo.gl/maps/osS2o3WdLGTNPzx3A
+      place: Klong Prao
+      price: $
+      description: If you have never tried Thai style stewed chicken, go here at lunch and try it, amazing!
+    - name: Salak Kok Seafood
+      image: https://drive.google.com/uc?export=view&id=1FPTytLwwvhdZw6u7tIsO2Tkaqhq_wKj1
+      googlemaps_id: https://goo.gl/maps/7TpcyfiZQFhQ9G369
+      place: Salakkok
+      price: $$
+      description: 
+        The seafood in Salakkok is a must, we can highly recommend the deep fried fish with crispy lemon grass
+    - name: Ta and Yai 
+      image: https://drive.google.com/uc?export=view&id=1FLTFvrXjRfhUbPp1sggNYsgFrV6ecvRQ
+      googlemaps_id: https://goo.gl/maps/y5qGq69efVxNuwvt7
+      place: White Sand Beach 
+      price: $
+      description: Run by a local family, the food is top quality. Got to try the Red Curry in Young Coconut
+    - name: Tao's Burger
+      image: https://drive.google.com/uc?export=view&id=1FXTp9S7NmsMV5F1ZWEguFLN_TNRVY05E
+      googlemaps_id: https://goo.gl/maps/kL122noiCRMbusEM8
+      place: White Sand Beach
+      price: $
+      description: If you need a break from Thai food but still want to eat cheap get one of Tao's homemade burgers
+      
+stay:
+  header: Where Should You Stay?
+  description: > 
+    <p>
+    As well as Klong Son and White Sand Beach, we also stayed for a few nights in Klong Prao and Lonely Beach and toured the island 
+    quite a lot so we got a pretty good idea of what each place has to offer. Below are some details for our favourite areas on the island. 
+    </p><p>    
+    Note we have not included Kai Bae, this area didn't suit us due to lack of local food options and expensive bars. We have also missed out Bang Bao the main 
+    ferry point to the other islands, we only visited here a couple of times, it seems nice enough but there didn't seem to be a lot to do.
+    </p>   
+  recomendations:
+    - name: White Sand Beach
+      description:
+      caption: 
+      image: 1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
+      pros:
+        - Range of accommodation options for all budgets
+        - Great food, there is a night market and local places off of the main strip 
+        - Range of bars and cafes and a lot going on in the area
+        - The beach is naturally very nice
+        - Shops and supermarkets
+      cons:
+        - The main strip is pretty Westernised if you are after a more local experience
+        - Not so easy (but always possible) to get a sunbathing spot when the tide is in
+        - A lot of prostitution in the area
+    - name: Klong Son
+      description:
+      image: 1IhqVCIQeTYG90V1FajXtnyq2hO0xDqxK
+      pros:
+        - You can sneak into the private resorts and stay at a very nice beach, no questions asked ^
+        - The most authentic feeling local place we stayed 
+        - Amazing local Thai food at some of the best prices on the island
+        - You can go to Lueam Waterfall which is a good way to experience the jungle and they charge the same price for foreigners and locals
+      cons:
+        - Not a lively area and you will need to go up and over the mountain to get to White Sand Beach
+        - Not many bars, cafes or Western food options
+    - name: Klong Prao
+      description: 
+      image: 1wVw82vLs0Ao9SmmfYhwPyWLv9-B2F4Km
+      pros:
+        - Good range of food, both Western and Thai (we had an amazing pizza at Babylon)
+        - Nice alternative feeling bars and a good cafe with Wi-Fi in the centre
+      cons:
+        - Can't think of any but we were only here for a few days
+    - name: Lonely Beach
+      description: 
+      image: 1n8cX_onyNGNSAcX8k7wSaadyPjP26PnT
+      pros:
+        - Very laid back vibes and nice hippie style accommodation 
+        - Great sunset spot with lots of chill beach bars to watch from
+        - Activities like renting a SUP board and getting a massage on the beach
+      cons:
+        - It’s not a party place if that is what you are looking for
+        - Lack of shops and cafes with WiFi in the area
+        - Water is not very clear 
+    - name: Salakkok
+      description:
+      image: 1Ik1v8RgbXP8tt9tNfFTmxWImuvDfoQ8R
+      pros:
+        - Great if you want to really escape the Western World and experience some Asian lifestyle
+        - Really relaxing and nice at sunset 
+        - There are some good activities like kayaking in the Mangroves
+      cons:
+        - There is nothing going on at night time here 
+        - You will need a scooter to get around as not much is walkable 
+        - Not many shops or cafes or bars
+
+tips:
+  header: Some Practical Tips
+  description:
+  recomendations:
+    - To avoid ATM charges and get the best exchange rate go to Bangkok Bank White Sand Beach with your passport.
+    - A scooter is the best way to get around the island. If not you can use a shared taxi.
+    - The activities and spots which charge tourists 200 baht are often disappointing and there are better cheaper options. 
+    - There is a massive hill in the middle of Koh Chang, be careful not to drive too fast around the corners!
+    - There are no free Elephants on the island, only captive ones, we would advise against giving these people money.
+
+activities:
+  header: Our Favourite Experiences 
+  description: > 
+    Koh Chang is a big island and it has a lot to offer in terms of activities. Be aware that a lot of the sightseeing spots 
+    which come up on Google charge foreigners five times the price of locals. We tried both Koh Yak and Khlong Plu
+    and were disappointed by the experiences so we will not recommend any of these but in our opinion some better alternatives.
+  recomendations:
+    - name: Trekking with Tan
+      image: https://drive.google.com/uc?export=view&id=1GpsDNzUbZWk0jxBw7K7uMEi-jQZzqIKD
+      googlemaps_id: 
+      url: https://www.tripadvisor.com/Attraction_Review-g580110-d14975663-Reviews-Tan_Trekking-Ko_Chang_Trat_Province.html
+      place: 
+      price: 1200 # per person
+      currency: THB
+      description: The only way to see the jungle in Koh Chang is to pay for a tour guide and it is worth the money!
+    - name: Napalai Kitchen
+      image: https://drive.google.com/uc?export=view&id=1FzDKeokxkLOb09INuuYAyoXIMW_5Pmzo
+      googlemaps_id: https://goo.gl/maps/2RrDetAwey6WuWzBA
+      url: https://napalai-thai-cooking-school.business.site/
+      place: Klong Prao 
+      price: 400
+      currency: THB
+      description: You should definitely try a cooking class, 3 hours and 5 dishes with Bunny
+    - name: Animal Voice
+      image: https://drive.google.com/uc?export=view&id=1G4bVSJS2fQjLXL7KNGafec4hmg3xdz_f
+      googlemaps_id: https://goo.gl/maps/wneJjoux3irkpUGG6
+      url: https://www.animalvoicekohchang.com/
+      place: Klong Son
+      price: 0
+      currency: THB
+      description: Hurry up Matthew! It's time to bring us for a walk. Why not volunteer to help these amazing doggies?
+    - name: Massage on the Beach
+      image: https://drive.google.com/uc?export=view&id=1HVS41hqof_DX15W5y8-rLh67EkWQgFYu
+      googlemaps_id: https://goo.gl/maps/vnuQzDQYfSQFEYHP8
+      url: https://goo.gl/maps/vnuQzDQYfSQFEYHP8
+      place:
+      price: 350
+      currency: THB
+      description: There's nothing more relaxing than getting a massage and listening to the sound of the waves
+    - name: SUP in the Mangroves
+      image: https://drive.google.com/uc?export=view&id=1GEo04yXCnWR-icf2y-Ey58KXUoDyxz_1
+      googlemaps_id: https://goo.gl/maps/L3iLc2Pr4qdc3e9C9
+      url: https://goo.gl/maps/L3iLc2Pr4qdc3e9C9
+      place: 
+      price: 500
+      currency: THB
+      description: Friendly staff who taught us how to paddle and were happy to take lots of pictures
+    - name: Lueam Waterfall
+      image: https://drive.google.com/uc?export=view&id=1GZDAKaXQlwG1eDbym26euOfR4mAzpLvj
+      googlemaps_id: https://goo.gl/maps/LbgHhpmAvuKHQ6r47
+      url: https://goo.gl/maps/LbgHhpmAvuKHQ6r47
+      place:
+      price: 40
+      currency: THB
+      description: Nice waterfall, you can swim and walk around the jungle 
+        even if it's very easy get lost! Foreigners charged local price.
+    - name: Kayak to an Island
+      image: https://drive.google.com/uc?export=view&id=1HIYKkJa1cbJ533zlJCp2PrLqxlwrOImK
+      googlemaps_id: https://goo.gl/maps/qZJwMdcDJxmmR4Xj8
+      url: https://goo.gl/maps/qZJwMdcDJxmmR4Xj8
+      place:
+      price: 400
+      currency: THB
+      description: Fancy a bit of a challenge? Ko Suwan is about 40 minutes from Klong Prao by kayak
+    - name: Pool at KC Resort
+      image: https://drive.google.com/uc?export=view&id=1HowZWbkfYX8PRbRYGIFdSln7KyD6IBA2
+      googlemaps_id: https://goo.gl/maps/fbGzNmJLqVv6MdeTA
+      url: https://goo.gl/maps/fbGzNmJLqVv6MdeTA
+      place: 
+      price: 0
+      currency: THB
+      description: Cool pool bar to enjoy cocktails on the sunset
+    - name: Get a Bamboo Tattoo
+      image: https://drive.google.com/uc?export=view&id=1zYWfX-CiCsaXh5lzP87S01lvkYpkXpEH
+      googlemaps_id: https://goo.gl/maps/KoAM8uaDXi5imb1S9
+      url: https://www.facebook.com/bestbambootattookohchang/ 
+      place:
+      price: 0
+      currency: THB
+      description: Lulu got her first traditional bamboo tattoo, a Cambodian symbol of good fortune
+
+cafes:
+  header: Our Favourite Cafes 
+  description: >
+    Most of our recommendations for cafes are places where you can sit and do work on a laptop since that was usually our main motivation to go.  
+    There are a range of nice cafes on the island though, you will not struggle to find whatever you are looking for. 
+  recomendations:
+    - name: Kohchahokkaido
+      image: https://drive.google.com/uc?export=view&id=1HcvGocjKkYuztrkH2gEaRnUmtYqOPizI
+      type: Cafe with Wi-Fi
+      googlemaps_id: https://goo.gl/maps/hrGJ2UVXwbmDUDf87
+      place: White Sand Beach
+      price: $
+      currency: THB
+      description: We have been in this cafe for three weeks to work with our laptops every morning, coffee is delicious and you can use wifi and plug
+    - name: Marin Coffee
+      image: https://drive.google.com/uc?export=view&id=1IJjMWTIvBtzOVwBTdYYx-1GAO90F87Mh
+      type: Cafe with Wi-Fi
+      googlemaps_id: https://goo.gl/maps/avDaDgBv4A5KeK297
+      place: White Sand Beach
+      price: $
+      currency: THB
+      description: We found two Marin Cafes around Koh Chang, the coffee is good and they have the possibility to work with your laptop
+    - name: Marin Coffee
+      image: https://drive.google.com/uc?export=view&id=1Hmo-aIxEL2CAIygdxbW5nH_sPNvdWdWv
+      type: Cafe with Wi-Fi
+      googlemaps_id:  https://goo.gl/maps/p1jTudjt85KLuFVZ9
+      place: Klong Prao
+      price: $
+      currency: THB
+      description: The second Marin cafe is in Klong Prao, we liked this one more as it was more spacious for working
+    - name: Tr Coffee
+      image: https://drive.google.com/uc?export=view&id=1ISp3N1jcfNMr56e-cFIwUezwXLKVXWja
+      type: Cafe with WiFi
+      googlemaps_id: https://goo.gl/maps/smRoBwEZ4u9JxtYk9
+      place: White Sand Beach
+      price: $
+      currency: THB
+      description: Good coffee, smoothies, food, a nice friendly owner who charges good prices
+    - name: Du Talay
+      image: https://drive.google.com/uc?export=view&id=1I5BUrIuveLIGNHIGE_CT8nzF6kqvGfxu
+      type: Cafe with Wi-Fi
+      googlemaps_id: https://goo.gl/maps/32s4e2Pk7RNprnio6
+      place: White Sand Beach
+      price: $
+      currency: THB
+      description: This is actually a restaurant within a hotel but we would often sit and order a coffee, amazing view and cool nets for when you need a break
+    - name: Apple Beachfront
+      image: https://drive.google.com/uc?export=view&id=1IgcsDXg2w0aM3BW3RjdOp-UUa5v0ZZpp
+      type: Cafe with WiFi
+      googlemaps_id: https://goo.gl/maps/pMDYgas5zgFh8TXU9
+      place: White Sand Beach
+      price: $
+      currency: THB
+      description: You can try this place for a beachfront view and reasonable prices
+
+beaches:
+  header: Our Favourite Beaches 
+  description: >
+    <p>The island has some good beaches to choose from, we found that as we went further South the water tended to be a bit less clear.
+    White Sand Beach is probably the nicest natural beach which is the reason for the main tourist development but there are lots of nice alternatives to escape the crowds.
+    </p>
+  recomendations:
+    - name: White Sand Beach 
+      place: White Sand Beach 
+      image: https://drive.google.com/uc?export=view&id=1N6WigwqsD4KYLkYKhtF2l3WwqqX8df9G
+      googlemaps_id: https://goo.gl/maps/JcM4WpNVBszgpZy5A
+      description: Probably the nicest natural beach on the island although the sand is not actually white!
+    - name: Klong Son Beach
+      place: Klong Son Beach
+      image: https://drive.google.com/uc?export=view&id=1I36_P55OWvr71LEQb3TVlaRDdENJXokN
+      googlemaps_id: https://goo.gl/maps/ixE1yX3k9mBUcoj68
+      description: This is essentially a private beach for a resort but you are never questioned, it is extremely clean and it’s a lovely place to relax
+    - name: Lonely Beach 
+      place: Lonely Beach 
+      image: https://drive.google.com/uc?export=view&id=1GUmn9-7Xt4i-mByh6XnVIIgWH_n0TAPx
+      googlemaps_id: https://goo.gl/maps/mDVVuNncJ8RGfck47
+      description: Likely to meet backpackers, solo travellers, party people. Not the longest beach but good sand and nice vibes
+    - name: Long Beach 
+      place: Long Beach
+      image: https://drive.google.com/uc?export=view&id=1IgiwjSWupthxZlIUl3vSzYDUQ2S1jX1Z
+      googlemaps_id: https://goo.gl/maps/2RZz5dd5cuWQTntE6
+      description: This is the only beach we found on the East coast. It is a long way to get there but it is very nice and we were the only people there
+
+bars:
+  header: Our Favourite Bars 
+  description: We didn’t drink in bars often in Koh Chang due to our budget and general preference to drink a beer on the beach at our place. But there were a few that were cool ones
+  recomendations:
+    - name: Oodie's Place 
+      image: https://drive.google.com/uc?export=view&id=1IhAtKERCpc7CKyYrhjbDKVV0c0OlLSg0
+      category: music
+      googlemaps_id: https://goo.gl/maps/59jmxfXwMWwCd34Z7
+      place: White Sand Beach
+      price: $
+      description: We were surprised by the standard of music on the island in general but Oodies was definitely the winner
+    - name: Dodo Bar 
+      image: https://drive.google.com/uc?export=view&id=1HeBmqRJOnpkyGYSBeugwicyoLRClKisY
+      category: football
+      googlemaps_id: https://goo.gl/maps/ZLkxPny73wfyX6ZK7
+      place: Chai Chet Koh Chang 
+      price: $
+      description: Very welcoming bar with a big screen to watch football, it has also a nice pool table and some drinks to enjoy
+    - name: The White Elephant 
+      image: https://drive.google.com/uc?export=view&id=1HjA-8wz5W2M5D04Ha-g6_ZgfOknuFJsB
+      category: football      
+      googlemaps_id: https://goo.gl/maps/EQYehd4TpotZdWgo7
+      place: White Sand Beach 
+      price: $
+      description: Sport pub, we went here to watch some World Cup's games, manly Western food, but good ranges of beers 
+    - name: Tapas Bar
+      image: https://drive.google.com/uc?export=view&id=1FyqQKNNGMtrSRLE7BNtZFZYeX9hZ_fhA
+      category: cocktail
+      googlemaps_id: https://goo.gl/maps/3HTtLa2NiHy3tF8N8
+      place: White Sand Beach 
+      price: $
+      description: This was a little beach hut on White Sand beach which made great cocktails, a perfect sunset spot
+    - name: Nature Beach
+      image: https://drive.google.com/uc?export=view&id=1HOWVTcU9v1S66vRO_F3ZTncg-GTQxOXa
+      category: cocktail
+      googlemaps_id: https://goo.gl/maps/qzthrdKBkVYvn4hA6
+      place: Lonely Beach
+      price: $
+      description: This is also a really nice accommodation, we stayed here for Lulu's birthday, chilled music and good cocktails
+    - name: Kebab Station
+      image: https://drive.google.com/uc?export=view&id=1HjBj8GP4SgFuSlv50FOHqTFy_i-5Selw
+      category: football
+      googlemaps_id: https://goo.gl/maps/ttSefPKXCiygWpm39
+      place: Klong Son 
+      price: $
+      description: Run by an English owner this pub offers a massive screen where you can watch football including a pool table 
+
+conclusion:
+  header: Closing Thoughts 
+  description: >
+    If you want a relaxing holiday, surrounded by beautiful beaches and unspoilt jungle, consider Koh Chang island. If you are looking for a party island you would probably
+    be better choosing somewhere else.  We loved it there and it was exactly what we were looking for, a chilled environment with adventurous activities, beautiful nature, 
+    great food and the opportunity to soak in some authentic Asian culture. 
+
+footnotes:
+  1: (2021, April 24). How Big is Koh Chang? Iamkohchang.com. Retrieved February 19, 2023, from <a href="https://iamkohchang.com/blog/how-big-is-koh-chang.html">https://iamkohchang.com/blog/how-big-is-koh-chang.html</a>

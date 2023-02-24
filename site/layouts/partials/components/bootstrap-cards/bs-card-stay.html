@@ -1,0 +1,33 @@
+<div class="card border-0">
+    <div class="mb-3">
+        <h4 class="text-center mb-4">{{ .Recomendation.name }}</h4>
+        {{ if .Recomendation.image }}{{ partial "components/blog-image" (dict "gdrive_id" .Recomendation.image "caption" .Recomendation.caption "wh_ratio" "2" "caption_position" "center") }}{{ end }}
+        <p>{{ .Recomendation.description }}</p>
+
+        <div class="table-borderless">
+            <table class="table">
+                <thead class="thead-dark text-center"><tr>
+                    <th scope="col">What we liked</th>
+                    <th scope="col">What to be aware of</th>
+                </tr></thead>
+                <tr>
+                    <td>
+                        {{ if .Recomendation.pros }}
+                            <ul class="list-group">
+                                {{ range .Recomendation.pros }}<li class="list-group-item list-group-item-action list-group-item-success">{{ . }}</li>{{ end }}
+                            </ul>
+                        {{ end }}
+                    </td>
+                    <td>
+                        {{ if .Recomendation.cons }}
+                            <ul class="list-group">
+                                {{ range .Recomendation.cons }}<li class="list-group-item list-group-item-action list-group-item-warning">{{ . }}</li>{{ end }}
+                            </ul>   
+                        {{ end }}
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+</div>

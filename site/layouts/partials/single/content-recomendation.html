@@ -1,0 +1,72 @@
+{{/*  Set the entity type (e.g. ID for recomendations article)  */}}
+{{ $entity := (index .Site.Data.recomendations .Params.recomendation_id) }}
+{{ .Scratch.Set "entity" $entity }}
+
+<div class="single-blog-content">
+    {{ .Content }}
+
+    {{/*  Where to Stay  */}}
+    <section class="mb-5">
+        <h3>{{ $entity.stay.header }}</h3>
+        <p>{{ $entity.stay.description  | safeHTML }}</p>
+        {{ if $entity.stay.recomendations }}
+        {{ .Scratch.Set "recomendation_category" "stay" }}
+        {{ partial "components/card-carousel-full-width.html" . }}
+        {{ end }}
+    </section>
+
+    {{/*  Where to Eat  */}}
+    <h3>{{ $entity.eat.header }}</h3>
+    <p>{{ $entity.eat.description }}</p>
+    {{ .Scratch.Set "recomendation_category" "eat" }}
+    {{ partial "components/card-carousel.html" . }}
+
+
+    {{/*  Activities  */}}
+    <h3>{{ $entity.activities.header }}</h3>
+    <p>{{ $entity.activities.description }}</p>
+    {{ .Scratch.Set "recomendation_category" "activities" }}
+    {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Cafe's  */}}
+    <h3>{{ $entity.cafes.header }}</h3>
+    <p>{{ $entity.cafes.description }}</p>
+    {{ .Scratch.Set "recomendation_category" "cafes" }}
+    {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Beaches  */}}
+    <h3>{{ $entity.beaches.header }}</h3>
+    <p>{{ $entity.beaches.description | safeHTML }}</p>
+    {{ .Scratch.Set "recomendation_category" "beaches" }}
+    {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Bars  */}}
+    <h3>{{ $entity.bars.header }}</h3>
+    <p>{{ $entity.bars.description | safeHTML }}</p>
+    {{ .Scratch.Set "recomendation_category" "bars" }}
+    {{ partial "components/card-carousel.html" . }}
+
+    {{/*  Practical Tip's  */}}
+    <h3>{{ $entity.tips.header }}</h3>
+    <p>{{ $entity.tips.description }}</p>
+    {{ if $entity.tips.recomendations }}
+    <div class="tips-container">
+        <ul class="list-group">
+            {{ range $entity.tips.recomendations }} 
+                <li class="list-group-item list-group-item-action list-group-item-info">{{ . }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </div>
+
+    <section class="mt-5">
+        {{/*  Closing Thoughts  */}}
+        <h3>{{ $entity.conclusion.header }}</h3>
+        <p>{{ $entity.conclusion.description }}</p>
+
+        {{/*  Footnotes  */}}
+        {{ partial "components/footnotes.html" . }}
+    </section>
+
+</div>
+
