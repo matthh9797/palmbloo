@@ -18,13 +18,13 @@ eat:
       description: No sign, not even a menu, we thought we'd walked into someone's living room but the food was so good and cheap
     - name: Restaurant Eat Here 
       image: https://drive.google.com/uc?export=view&id=1FUz8LcjfQZILudkevyO_qRF8h2Gfi0tn
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/smW64mmWWg4nGK347
       place: Khlong Son
       price: $$
       description: Tacky sign but the Dutch owner makes huge mouth watering homemade burgers and his wife is a great Thai chief
     - name: Bam & Boy
       image: https://drive.google.com/uc?export=view&id=1FLvaLK6btZFuz4rZfv5fc0vATqpJ3Y8P
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/osS2o3WdLGTNPzx3A
       place: Khlong Prao
       price: $
       description: If you have never tried Thai style stewed chicken, go here at lunch and try it, amazing!
@@ -37,13 +37,13 @@ eat:
         The seafood in Salakkok is a must, we can highly recommend the deep fried fish with crispy lemon grass
     - name: Ta and Yai 
       image: https://drive.google.com/uc?export=view&id=1FLTFvrXjRfhUbPp1sggNYsgFrV6ecvRQ
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/y5qGq69efVxNuwvt7
       place: White Sand Beach 
       price: $
       description: Run by a local family, the food is top quality. Got to try the Red Curry in Young Coconut
     - name: Tao's Burger
       image: https://drive.google.com/uc?export=view&id=1FXTp9S7NmsMV5F1ZWEguFLN_TNRVY05E
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/kL122noiCRMbusEM8
       place: White Sand Beach
       price: $
       description: If you need a break from Thai food but still want to eat cheap get one of Tao's homemade burgers
@@ -142,7 +142,7 @@ activities:
       description: The only way to see the jungle in Koh Chang is to pay for a tour guide and it is worth the money!
     - name: Napalai Kitchen
       image: https://drive.google.com/uc?export=view&id=1FzDKeokxkLOb09INuuYAyoXIMW_5Pmzo
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/2RrDetAwey6WuWzBA
       url: https://napalai-thai-cooking-school.business.site/
       place: Klong Prao 
       price: 400
@@ -150,7 +150,7 @@ activities:
       description: You should definitely try a cooking class, 3 hours and 5 dishes with Bunny
     - name: Animal Voice
       image: https://drive.google.com/uc?export=view&id=1G4bVSJS2fQjLXL7KNGafec4hmg3xdz_f
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/wneJjoux3irkpUGG6
       url: https://www.animalvoicekohchang.com/
       place: Klong Son
       price: 0
@@ -199,7 +199,7 @@ activities:
       description: Cool pool bar to enjoy cocktails on the sunset
     - name: Get a Bamboo Tattoo
       image: https://drive.google.com/uc?export=view&id=1zYWfX-CiCsaXh5lzP87S01lvkYpkXpEH
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/KoAM8uaDXi5imb1S9
       url: https://www.facebook.com/bestbambootattookohchang/ 
       place:
       price: 0
@@ -215,7 +215,7 @@ cafes:
     - name: Kohchahokkaido
       image: https://drive.google.com/uc?export=view&id=1HcvGocjKkYuztrkH2gEaRnUmtYqOPizI
       type: Cafe with Wi-Fi
-      googlemaps_id:
+      googlemaps_id: https://goo.gl/maps/hrGJ2UVXwbmDUDf87
       place: White Sand Beach
       price: $
       currency: THB
@@ -223,7 +223,7 @@ cafes:
     - name: Marin Coffee
       image: https://drive.google.com/uc?export=view&id=1IJjMWTIvBtzOVwBTdYYx-1GAO90F87Mh
       type: Cafe with Wi-Fi
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/avDaDgBv4A5KeK297
       place: White Sand Beach
       price: $
       currency: THB
@@ -231,7 +231,7 @@ cafes:
     - name: Marin Coffee
       image: https://drive.google.com/uc?export=view&id=1Hmo-aIxEL2CAIygdxbW5nH_sPNvdWdWv
       type: Cafe with Wi-Fi
-      googlemaps_id:  
+      googlemaps_id:  https://goo.gl/maps/p1jTudjt85KLuFVZ9
       place: Khlong Prao
       price: $
       currency: THB
@@ -239,7 +239,7 @@ cafes:
     - name: Tr Coffee
       image: https://drive.google.com/uc?export=view&id=1ISp3N1jcfNMr56e-cFIwUezwXLKVXWja
       type: Cafe with WiFi
-      googlemaps_id:
+      googlemaps_id: https://goo.gl/maps/smRoBwEZ4u9JxtYk9
       place: White Sand Beach
       price: $
       currency: THB
@@ -247,7 +247,7 @@ cafes:
     - name: Du Talay
       image: https://drive.google.com/uc?export=view&id=1I5BUrIuveLIGNHIGE_CT8nzF6kqvGfxu
       type: Cafe with Wi-Fi
-      googlemaps_id:
+      googlemaps_id: https://goo.gl/maps/32s4e2Pk7RNprnio6
       place: White Sand Beach
       price: $
       currency: THB
@@ -255,7 +255,7 @@ cafes:
     - name: Apple Beachfront
       image: https://drive.google.com/uc?export=view&id=1IgcsDXg2w0aM3BW3RjdOp-UUa5v0ZZpp
       type: Cafe with WiFi
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/pMDYgas5zgFh8TXU9
       place: White Sand Beach
       price: $
       currency: THB
@@ -270,20 +270,20 @@ beaches:
   recomendations:
     - name: White Sand Beach 
       image: https://drive.google.com/uc?export=view&id=1N6WigwqsD4KYLkYKhtF2l3WwqqX8df9G
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/JcM4WpNVBszgpZy5A
       description: Probably the nicest natural beach on the island although the sand is not actually white!
     - name: Klong Son Beach
       image: https://drive.google.com/uc?export=view&id=1I36_P55OWvr71LEQb3TVlaRDdENJXokN
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/ixE1yX3k9mBUcoj68
       description: This is essentially a private beach for a resort but you are never questioned, it is extremely clean and it’s a lovely place to relax
     - name: Lonely Beach 
       image: https://drive.google.com/uc?export=view&id=1GUmn9-7Xt4i-mByh6XnVIIgWH_n0TAPx
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/mDVVuNncJ8RGfck47
       place: Y
       description: Likely to meet, Backpackers, solo travellers, party people. Not the longest beach but good sand, best at the northern end, nice vibe
     - name: Long Beach 
       image: https://drive.google.com/uc?export=view&id=1IgiwjSWupthxZlIUl3vSzYDUQ2S1jX1Z
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/2RZz5dd5cuWQTntE6
       place: Y
       description: This is the only beach we found on the East coast. It is a long way to get there but it is very nice and we were the only people there
 
@@ -294,42 +294,42 @@ bars:
     - name: Oodie's Place 
       image: https://drive.google.com/uc?export=view&id=1IhAtKERCpc7CKyYrhjbDKVV0c0OlLSg0
       category: music
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/59jmxfXwMWwCd34Z7
       place: White Sand Beach
       price: $
       description: Thai/Folk/Rock live music bar. 
     - name: Dodo Bar 
       image: https://drive.google.com/uc?export=view&id=1HeBmqRJOnpkyGYSBeugwicyoLRClKisY
       category: football
-      googlemaps_id:
+      googlemaps_id: https://goo.gl/maps/ZLkxPny73wfyX6ZK7
       place: Chai Chet Koh Chang 
       price: $
       description: Very welcoming bar with a screen to watch football, it has also a nice pool table and some drinks to enjoy
     - name: The White Elephant 
       image: https://drive.google.com/uc?export=view&id=1HjA-8wz5W2M5D04Ha-g6_ZgfOknuFJsB
       category: football      
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/EQYehd4TpotZdWgo7
       place: White Sand Beach 
       price: $
       description: Sport pub, we went here to watch some World Cup's games, manly Western food, but good ranges of beers 
     - name: Tapas Bar
       image: https://drive.google.com/uc?export=view&id=1FyqQKNNGMtrSRLE7BNtZFZYeX9hZ_fhA
       category: cocktail
-      googlemaps_id: 
+      googlemaps_id: https://goo.gl/maps/3HTtLa2NiHy3tF8N8
       place: White Sand Beach 
       price: $
       description: Thai/Folk/Rock live music bar. 
     - name: Nature Beach
       image: https://drive.google.com/uc?export=view&id=1HOWVTcU9v1S66vRO_F3ZTncg-GTQxOXa
       category: cocktail
-      googlemaps_id:
+      googlemaps_id: https://goo.gl/maps/qzthrdKBkVYvn4hA6
       place: Lonely Beach
       price: $
       description: Thai/Folk/Rock live music bar. 
     - name: Kebab Station
       image: https://drive.google.com/uc?export=view&id=1HjBj8GP4SgFuSlv50FOHqTFy_i-5Selw
       category: football
-      googlemaps_id:
+      googlemaps_id: https://goo.gl/maps/ttSefPKXCiygWpm39
       place: Klong Son 
       price: $
       description: Run by an English owner this pub offers a massive screen where you can watch football including a pool table 
