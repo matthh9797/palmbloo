@@ -10,7 +10,7 @@ thumbnail: /images/place/koh-chang/thumbnail.jpg
 featureImage: /images/place/koh-chang/cover.jpg
 ---
 
-{{< boostrap-alert text="This article's main focus is to give some extra information about our favorite places. For a full set of our recommendations, check out our personal [Google Maps for Koh Chang](www.ourgooglemapwhenexists.com)" type="primary" >}}
+<!-- {{< boostrap-alert text="This article's main focus is to give some extra information about our favorite places. For a full set of our recommendations, check out our personal [Google Maps for Koh Chang](www.ourgooglemapwhenexists.com)" type="primary" >}} -->
 
 For the first destination in our South East Asian adventure we chose Koh Chang island in Thailand and what a choice it turned out to be. The amazing food, pristine sandy beaches, a mountainous interior made up of [protected national parkland](https://www.thainationalparks.com/mu-ko-chang-national-park) and a range of local communities makes this a perfect place to live a chilled but adventurous lifestyle.
 
