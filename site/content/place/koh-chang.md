@@ -5,7 +5,7 @@ title: "Koh Chang"
 date: 2023-02-19T09:17:26+08:00
 tranding: false
 author: "Lulu"
-readTime: "4 min"
+readTime: "6 min"
 thumbnail: /images/place/koh-chang/thumbnail.jpg
 featureImage: /images/place/koh-chang/cover.jpg
 ---
@@ -22,9 +22,12 @@ We spent most of our time in two main areas *Khlong Son* and *White Sand Beach*.
 
 Our first destination was at a workaway to help stray dogs in Khlong Son which is the first area you pass when heading down the West Coast from the ferry point. We loved the area as it was a very local and rarely visited by tourists, the food options were great and there is a very nice beach that is not too busy.
 
-After three weeks at the workaway we decided to stay in White Sand Beach, mainly motivated by the variety of cafe options so we could work on the blog. At first, we thought it was going to be too touritic for us but we actually loved it. We got a cheap accomodation which was a very basic bunglow but right on the beach and went for a jog along the beach every morning. There are some great cafes here and good live music.
+After three weeks at the workaway we decided to stay in White Sand Beach, mainly motivated by the variety of cafe options so we could work on the blog. At first, we thought it was going to be too touritic for us but we actually loved it. We stayed in a cheap and very basic bunglaow that was right on the beach and went for a jog along the beach every morning. There are some great cafes here and good live music.
 
 ### East Coast vs West Coast
 
-In this case depends what do you prefer, the west side is more touristy because there are cafes, beaches, supermarkets, etc. At the beginning we didn't want to ending up in a crowd area, but our priority by that time was having a place on the beach to chill but also work on the laptops and having a good wifi connection. To be fair we didn't find the west coast too crowded compare to places like Phuket or the other islands of Thailand.  
-If you fancy a break from the beach or from the tourist centres of the West side of Koh Chang then you will be well rewarded by a day or more exploring the ‘undiscovered’ East Coast of the island. This side of the island is far less developed than the other and you will be treated to a view of a more traditional Thai way of life as you watch local farmers and fisherman go about their business.
+It's important to know when you go to Koh Chang that the island is split into two sides and there is no road connecting them at the bottom. We were told by the people that the Thai government didn't want the island to turn into a destination for "hairy bikers" to do loops around.
+
+The West coast of the island is the touristic side whilst there few people living on the East coast, mainly farmers and fishermen. The main reason for the major tourist development on the West coast is that this is where almost all of the beaches are. However, in terms of natural beauty the East coast has lots to offer as well, including waterfalls, mangroves and islands.
+
+We decided to stay on the West coast for all of our time on the island due to the beaches and better development, it was also no where near as busy as other major islands on Thailand. However, we ventured round to the East coast several times to check out the mangroves, waterfalls and fishing villages. If you fancy an adventure or to really get away from the crowds we are sure you would enjoy the peace and tranquility of the East.
