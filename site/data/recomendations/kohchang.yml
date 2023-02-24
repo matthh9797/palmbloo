@@ -1,8 +1,8 @@
 eat:
   header: Where to Eat 
   description: >
-    Koh Chang is one of the best places either of us had ever been for food with local places never dissapointing and even a very good standard of Western food if you know where to look.
-    Most of our recomendations are local places that we found and never expensive touristy places except a couple of western restaurants for pizza, burgers etc. Note that some of the places had no name, no sign, some didn’t even have an English menu. In that case we will put the type of food in place of the name, you can refer to the pinned location on Google Maps.
+    Koh Chang is one of the best places either of us had ever been for food with local places never disappointing and even a very good standard of Western food if you know where to look.
+    Most of our recommendations are local places that we found and never expensive touristy places except a couple of western restaurants for pizza, burgers etc. Note that some of the places had no name, no sign, some didn’t even have an English menu. In that case we will put the type of food in place of the name, you can refer to the pinned location on Google Maps.
   recomendations:
     - name: Thai Food 
       image: https://drive.google.com/uc?export=view&id=1F0hELyBvUZ-KwNdVMNCLMFpcHrWtVWso
@@ -13,19 +13,19 @@ eat:
     - name: Thai Food 
       image: https://drive.google.com/uc?export=view&id=1FC6IYvuXWPD12nOlMNk4sIXuGTPfZQNU
       googlemaps_id: https://www.google.com/maps/place/Klong+Son+Elephant+Camp/@12.1314512,102.2748306,20z/data=!4m6!3m5!1s0x31041361f99813df:0x54970c316e11d37e!8m2!3d12.1143992!4d102.2994698!16s%2Fg%2F11qjwc7khg
-      place: Khlong Son
+      place: Klong Son
       price: $
       description: No sign, not even a menu, we thought we'd walked into someone's living room but the food was so good and cheap
     - name: Restaurant Eat Here 
       image: https://drive.google.com/uc?export=view&id=1FUz8LcjfQZILudkevyO_qRF8h2Gfi0tn
       googlemaps_id: https://goo.gl/maps/smW64mmWWg4nGK347
-      place: Khlong Son
+      place: Klong Son
       price: $$
       description: Tacky sign but the Dutch owner makes huge mouth watering homemade burgers and his wife is a great Thai chief
     - name: Bam & Boy
       image: https://drive.google.com/uc?export=view&id=1FLvaLK6btZFuz4rZfv5fc0vATqpJ3Y8P
       googlemaps_id: https://goo.gl/maps/osS2o3WdLGTNPzx3A
-      place: Khlong Prao
+      place: Klong Prao
       price: $
       description: If you have never tried Thai style stewed chicken, go here at lunch and try it, amazing!
     - name: Salak Kok Seafood
@@ -52,7 +52,7 @@ stay:
   header: Where Should You Stay?
   description: > 
     <p>
-    As well as Khlong Son and White Sand Beach, we also stayed for a few nights in Khlong Prao and Lonely Beach and toured the island 
+    As well as Klong Son and White Sand Beach, we also stayed for a few nights in Klong Prao and Lonely Beach and toured the island 
     quite a lot so we got a pretty good idea of what each place has to offer. Below are some details for our favourite areas on the island. 
     </p><p>    
     Note we have not included Kai Bae, this area didn't suit us due to lack of local food options and expensive bars. We have also missed out Bang Bao the main 
@@ -64,16 +64,16 @@ stay:
       caption: 
       image: 1EN0RBCYbPaNLgfGpNxMqTU71zyd6FkN4
       pros:
-        - Range of accomodation options for all budgets
+        - Range of accommodation options for all budgets
         - Great food, there is a night market and local places off of the main strip 
         - Range of bars and cafes and a lot going on in the area
         - The beach is naturally very nice
-        - Shops and supermerkets
+        - Shops and supermarkets
       cons:
         - The main strip is pretty Westernised if you are after a more local experience
         - Not so easy (but always possible) to get a sunbathing spot when the tide is in
-        - A lot of prositution in the area
-    - name: Khlong Son
+        - A lot of prostitution in the area
+    - name: Klong Son
       description:
       image: 1IhqVCIQeTYG90V1FajXtnyq2hO0xDqxK
       pros:
@@ -84,19 +84,19 @@ stay:
       cons:
         - Not a lively area and you will need to go up and over the mountain to get to White Sand Beach
         - Not many bars, cafes or Western food options
-    - name: Khlong Prao
+    - name: Klong Prao
       description: 
       image: 1wVw82vLs0Ao9SmmfYhwPyWLv9-B2F4Km
       pros:
         - Good range of food, both Western and Thai (we had an amazing pizza at Babylon)
-        - Nice alternative feeling bars and a good cafe with Wi-Fi in the center
+        - Nice alternative feeling bars and a good cafe with Wi-Fi in the centre
       cons:
         - Can't think of any but we were only here for a few days
     - name: Lonely Beach
       description: 
       image: 1n8cX_onyNGNSAcX8k7wSaadyPjP26PnT
       pros:
-        - Very laid back vibes and nice hippie style accomodation 
+        - Very laid back vibes and nice hippie style accommodation 
         - Great sunset spot with lots of chill beach bars to watch from
         - Activities like renting a SUP board and getting a massage on the beach
       cons:
@@ -121,16 +121,16 @@ tips:
   recomendations:
     - To avoid ATM charges and get the best exchange rate go to Bangkok Bank White Sand Beach with your passport.
     - A scooter is the best way to get around the island. If not you can use a shared taxi.
-    - The activities and spots which charge tourists 200 baht are often disapointing and there are better cheaper options. 
-    - There is a massive hill in the middle of Koh Chang, be carefull not to drive too fast around the corners!
-    - There are no free Elephants on the island, only captive ones, we would advice against giving these people money.
+    - The activities and spots which charge tourists 200 baht are often disappointing and there are better cheaper options. 
+    - There is a massive hill in the middle of Koh Chang, be careful not to drive too fast around the corners!
+    - There are no free Elephants on the island, only captive ones, we would advise against giving these people money.
 
 activities:
   header: Our Favourite Experiences 
   description: > 
     Koh Chang is a big island and it has a lot to offer in terms of activities. Be aware that a lot of the sightseeing spots 
     which come up on Google charge foreigners five times the price of locals such as Koh Yak, ... , . We tried both Koh Yak and 
-    and were disapointed by the experience so we will not recomend any of these but in our opinion some better alternatives.
+    and were disappointed by the experience so we will not recommend any of these but in our opinion some better alternatives.
   recomendations:
     - name: Trekking with Tan
       image: https://drive.google.com/uc?export=view&id=1GpsDNzUbZWk0jxBw7K7uMEi-jQZzqIKD
@@ -209,7 +209,7 @@ activities:
 cafes:
   header: Our Favourite Cafes 
   description: >
-    Most of our recomendations for cafes are places where you can sit and do work on a laptop since that was usually our main motivtion to go. 
+    Most of our recommendations for cafes are places where you can sit and do work on a laptop since that was usually our main motivation to go.  
     There are a range of nice cafes on the island though, you will not struggle to find whatever you are looking for. 
   recomendations:
     - name: Kohchahokkaido
@@ -227,15 +227,15 @@ cafes:
       place: White Sand Beach
       price: $
       currency: THB
-      description: We found other two Marin Cafes around Ko Chang, the coffee is good and they have the possibility to work with your laptop
+      description: We found other two Marin Cafes around Koh Chang, the coffee is good and they have the possibility to work with your laptop
     - name: Marin Coffee
       image: https://drive.google.com/uc?export=view&id=1Hmo-aIxEL2CAIygdxbW5nH_sPNvdWdWv
       type: Cafe with Wi-Fi
       googlemaps_id:  https://goo.gl/maps/p1jTudjt85KLuFVZ9
-      place: Khlong Prao
+      place: Klong Prao
       price: $
       currency: THB
-      description: We found other two Marin Cafes around Ko Chang, the coffee is good and they have the possibility to work with your laptop
+      description: We found other two Marin Cafes around Koh Chang, the coffee is good and they have the possibility to work with your laptop
     - name: Tr Coffee
       image: https://drive.google.com/uc?export=view&id=1ISp3N1jcfNMr56e-cFIwUezwXLKVXWja
       type: Cafe with WiFi
