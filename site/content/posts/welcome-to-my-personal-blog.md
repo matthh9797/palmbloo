@@ -28,7 +28,7 @@ Whilst we can't share everything about traveling we have tried to group our reas
 - [Immerse yourself in local Cuisine]({{< ref "/cuisine" >}})
 - [Widen your Experiences]({{< ref "/experience" >}})
 - [Discover interesting Places]({{< ref "/place" >}})
-- [Learn new Skills]({{< ref "/skill" >}})
+<!-- - [Learn new Skills]({{< ref "/" >}}) -->
 <!-- - [Deepen your Perspective]({{< ref "/" >}}) -->
 
 Everyone has a different experience when they travel and we don't claim this is a full list of reasons to do it. In fact, there are some important reasons we missed out since they are harder to share through a blog. But most people who travel would agree that these are some of the key reasons to do it and this is what we would like to share with you.
@@ -44,10 +44,6 @@ We would like to show you the unique and amazing [Experiences]({{< ref "/experie
 
 By moving to lots of different places and living under lots of different conditions we will share with you the pro's and con's of living in different [Places]({{< ref "/place" >}}) and help you discover what is really important to you in your chosen place to live. There is no perfect place in the world, if there was everyone would move there, then it would no longer be perfect. There are lots of factors to consider when choosing a place like weather, cost of living, jobs, crowdedness, activities, safety and weather again!
 
-### Learn new skills
-
-When travelling you learn a lot of new skills so we would like to share some [Skills]({{< ref "/skill" >}}), tips and tricks. We like to focus our travel around meeting local people and with that you often learn a variety of interesting things. We also try to travel cheap and light (*within reason*) and you learn a lot as you go so you can read this section for our tips and tricks.
-
 ![Lonely Beach sunset](/images/posts/welcome-article/lonely-beach2.jpg)
 
 ### A Few More Reasons
@@ -57,6 +53,10 @@ There are some other important reasons to travel. Although we did not feel these
 ### Deepen your perspective
 
 Observing how different societies function deepens your Perspective and we would like to share our thoughts about it as we travel the world. Meeting people from other cultures will teach you that the way you have been looking at the world isn't the way everybody else does. Perspective is something you take into everything you do and one of the main reasons we love to travel.
+
+### Learn new skills
+
+When travelling you learn a lot of new skills so we would like to share some Skills, tips and tricks. We like to focus our travel around meeting local people and with that you often learn a variety of interesting things. We also try to travel cheap and light (*within reason*) and you learn a lot as you go so you can read this section for our tips and tricks.
 
 - Brings you out of your shell socially
 - Is a great way to improve your English for non-natives
