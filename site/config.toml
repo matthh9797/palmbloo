@@ -2,7 +2,7 @@ baseURL = "https://gypsy-lulu.com"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
-title = "Gypsy Lulu | Travel Blog"
+title = "PalmBloo | Travel Blog"
 theme = "blogge-hugo-theme"
 enableEmoji = true
 
@@ -28,10 +28,10 @@ enableEmoji = true
     name = "Places"
     url= "place"
     weight= 5
-  [[menu.main]]
-    name = "Skills"
-    url= "skill"
-    weight= 6
+  # [[menu.main]]
+  #   name = "Skills"
+  #   url= "skill"
+  #   weight= 6
   [[menu.main]]
     name = "About"
     url= "about"
@@ -44,7 +44,8 @@ enableEmoji = true
 
 [params]
   summarylength = 80
-  logo = "images/logo.png"
+  logo = "images/palm-bloo-logo.png"
+  favicon = "images/palm-bloo-favicon.png"
   author = "Lulu and Matthew"
   authorThumb = "images/matt-and-lulu.png"
   authorAddress = "Somewhere in Thailand"
@@ -56,7 +57,7 @@ enableEmoji = true
   linkedinUsername = "matthew-henderson-986374bb"
   youtubeUsername = "UCI-dfBogFVLoaxbo5hxe_og"
   blogTitle = "Articles"
-  blogSubTitle = "View the latest posts on Gypsy Lulu"
+  blogSubTitle = "View the latest posts on PalmBloo"
   trendingBlogIcon = "images/blog/icon.svg"
   # Replace the third party URL/API with yours
   # We're using formspree.io for form handling, paste your formspree url below
