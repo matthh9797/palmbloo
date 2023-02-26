@@ -6,7 +6,7 @@
   tags: "Travel"
   tranding: false
   readTime: "5 mins"
-  thumbnail: /images/welcome-image-3.jpg
+  thumbnail: /images/welcome-image.jpg
   featureImage: /images/posts/welcome-article/chilling.jpg
 ---
 

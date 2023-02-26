@@ -28,13 +28,22 @@
       }
     }
     &-thumb {
+      border-radius: 10px;
       overflow: hidden;
-      img {
-        width: 100%;
-        height: 412.5px;
-        width: 550px;
-        object-fit: cover;
-        border-radius: 10px;
+      box-shadow: 10px 25px 40px rgba($color: #12151a, $alpha: 0.15);
+      @media(min-width:767px){
+        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        img {
+          width: 600px;
+          object-fit: cover;
+        }
+      }
+      @media(max-width:767px){
+        img {
+          width: 100%;
+        }
       }
     }
     &-author {
