@@ -3,6 +3,7 @@ type: recomendation
 recomendation_id: kohchang
 title: "Koh Chang"
 date: 2023-02-19T09:17:26+08:00
+tags: "Island"
 tranding: false
 author: "Lulu"
 readTime: "6 min"
