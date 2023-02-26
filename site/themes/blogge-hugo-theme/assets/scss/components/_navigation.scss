@@ -41,7 +41,12 @@
 
   .navbar-brand {
     img {
-      width: 115px;
+      width: 90px;
+      // width: 200px;
+    }
+    @media(min-width:991px){
+      margin-bottom: 13px;
+      margin-left: 50px;
     }
   }
 
