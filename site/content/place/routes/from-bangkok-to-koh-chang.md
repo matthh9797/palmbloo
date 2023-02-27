@@ -29,6 +29,6 @@ The ferry was pretty standard, there were some cheap snacks and and you could al
 
 By the time we had arrived on the island we had managed to get our WorkAway host to come and pick us up who was a really nice and energetic woman from Cambodia. She told us to jump on the back of her small 4 by 4 with all of our luggage which turned out to be a really cool way to get an initial view of the island and the crazy antics of Thai drivers.
 
-{{< blog-image gdrive_id="171uQ5R3YLxjOG5jYiuXTYAv8-PnqJf0b" caption="Crazy Thai drivers" >}}
+{{< blog-image gdrive_id="1ZeR0QnBXPtr_11BMGZcEgHe5xiBOIOyP" caption="Crazy Thai drivers" >}}
 
 And that was us, we left our accomodation in Ekkamai at 7am and arrived in our accomodation on Koh Chang island by 2pm where our hosts were preparing a BBQ for our arrival.
