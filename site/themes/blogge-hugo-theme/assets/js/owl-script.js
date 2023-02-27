@@ -36,6 +36,7 @@ $(".owl-blog-slider").owlCarousel({
     autoplayTimeout: 7000,
     items: 1,
     nav: true,
-    loop: true
+    loop: true,
+    lazyLoad: true
 });
 

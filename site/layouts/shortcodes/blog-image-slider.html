@@ -5,7 +5,7 @@
         <div class="owl-blog-slider owl-carousel owl-theme">
             {{ range $slider }}
                 {{ $image := (cond (isset . "gdrive_id") (printf "https://drive.google.com/uc?export=view&id=%s" .gdrive_id) .image) }}
-                {{ partial "components/blog-image" (dict "image" $image "caption" .caption "caption_position" "center") }}
+                {{ partial "components/blog-image-lazy" (dict "image" $image "caption" .caption "caption_position" "center") }}
             {{ end }}
         </div>
     </div>
