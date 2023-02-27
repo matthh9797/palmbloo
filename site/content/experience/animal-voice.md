@@ -13,9 +13,6 @@ summary: Three weeks surrounded by dogs in a modern pad in the middle of the jun
 
 sliders:
     animal_voice:
-        - image: /images/how_to/cut_pineapple/slider/pineapple-cut-brown-spots-2.jpg
-          position: bottomright
-          caption: none
         - gdrive_id: 19MfXvG5vTkiEFfFyyLeD9taYe2pD3Zz4
           position: topright
           caption: Straight Outta Compton
