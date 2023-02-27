@@ -1,0 +1,12 @@
+{{ $border_radius := (.border_radius) | default "5px" }}
+{{ $wh_ratio := (.wh_ratio) | default "16 / 9" }}
+{{ $caption_position := (.caption_position) | default "center" }}
+{{ $image := (.image) | default (printf "https://drive.google.com/uc?export=view&id=%s" .gdrive_id)  }}
+<div class="shortcode">
+    <div class="blog-image">
+        <figure class="figure">
+            <img class="owl-lazy" style="border-radius: {{$border_radius}}; aspect-ratio: {{$wh_ratio}};" data-src="{{$image}}"/>
+            <figcaption class="figure-caption text-{{$caption_position}}">{{ .caption }}</figcaption>
+        </figure>
+    </div>
+</div>
