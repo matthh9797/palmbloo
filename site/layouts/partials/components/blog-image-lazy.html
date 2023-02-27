@@ -6,7 +6,7 @@
     <div class="blog-image">
         <figure class="figure">
             <img class="owl-lazy" style="border-radius: {{$border_radius}}; aspect-ratio: {{$wh_ratio}};" data-src="{{$image}}"/>
-            <figcaption class="figure-caption text-{{$caption_position}}">{{ .caption }}</figcaption>
+            <figcaption class="figure-caption text-{{$caption_position}}">{{ if eq .caption "none" }}{{ else }}{{ .caption }}{{end}}</figcaption>
         </figure>
     </div>
 </div>
