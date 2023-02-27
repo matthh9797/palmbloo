@@ -34,7 +34,7 @@ Before choosing to go to Australia I had been to a few interviews for graduate j
 
 In Australia, I spent time studying machine learning and taught myself to code to a high enough standard that I was able to get a job within a pretty short period of time when I had returned. The way I see it is taking a year out to travel saved me £12,000 - £15,000 in loans for a masters degree.
 
-But much more importantly travelling allowed me to realise that I loved coding in the first place. When you finish University there is so much pressure to choose what you want to do quickly and stop being a negative asset on your parents bank account. That pressure had me considering all sorts of careers that would have taken me down paths that would have led to me being unhappy in my chosen career.
+But much more importantly travelling allowed me to realise that I loved coding in the first place. When you finish University there is so much pressure to choose what you want to do quickly. That pressure had me considering all sorts of careers that would have taken me down paths that would have led to me being unhappy in my chosen career.
 
 > The freedom of mind and time to follow your intuition is my favourite thing about travelling
 
