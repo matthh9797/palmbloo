@@ -16,4 +16,44 @@
     .w3-carousel {
         margin-bottom: 25px;
     }
+    .blog-image-slider {
+        .owl-dots {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+        }
+        .blog-image {
+            padding-top: 30px;
+        }
+        @media (max-width: 728px) {
+            .owl-prev, .owl-next {
+                visibility: hidden;
+            }
+        }
+        @media (min-width: 728px) {
+            .owl-prev {
+                left: -30px;
+            }
+            .owl-next {
+                right: -30px;
+            }
+        }
+        .owl-prev, .owl-next {
+            position: absolute;
+            margin: 0;
+            position: absolute;
+            top: 49%;
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            span {
+                font-size: 80px;
+                color: black;
+            }
+        }
+        .owl-theme, .owl-nav[class*="owl-"]:hover {
+            background: transparent;
+        }
+    }
 }

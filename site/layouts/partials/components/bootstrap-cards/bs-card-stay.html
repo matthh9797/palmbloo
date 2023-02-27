@@ -1,7 +1,7 @@
 <div class="card border-0">
     <div class="mb-3">
         <h4 class="text-center mb-4">{{ .Recomendation.name }}</h4>
-        {{ if .Recomendation.image }}{{ partial "components/blog-image" (dict "gdrive_id" .Recomendation.image "caption" .Recomendation.caption "wh_ratio" "2" "caption_position" "center") }}{{ end }}
+        {{ if .Recomendation.image }}{{ partial "components/blog-image-lazy" (dict "gdrive_id" .Recomendation.image "caption" .Recomendation.caption "wh_ratio" "2" "caption_position" "center") }}{{ end }}
         <p>{{ .Recomendation.description }}</p>
 
         <div class="table-borderless">

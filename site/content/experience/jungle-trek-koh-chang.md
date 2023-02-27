@@ -14,6 +14,27 @@ thumbnail: /images/experience/thumbnail.jpg
 featureImage: /images/experience/jungle-trek-koh-chang-header.jpg
 
 summary: Trekking in the jungle on Koh Chang island without a tour guide is illegal on Koh Chang island.
+
+sliders:
+    jtkohchang:
+        - image: /images/experience/jungle-trek-koh-chang-slider1/a-trees-used-for-toys.jpg
+          position: bottomleft
+          caption: Tree bark farmed
+        - image: /images/experience/jungle-trek-koh-chang-slider1/b-wild-mushrooms-squashy.jpg
+          position: bottomright
+          caption: Squashy mushrooms
+        - image: /images/experience/jungle-trek-koh-chang-slider1/b-wild-mushrooms.jpg
+          position: topright
+          caption: Solid mushrooms attached to tree
+        - image: /images/experience/jungle-trek-koh-chang-slider1/c-tree-camo.jpg
+          position: bottomleft
+          caption: Natural camouflage
+        - image: /images/experience/jungle-trek-koh-chang-slider1/d-ivy.jpg
+          position: bottomright
+          caption: Ivy
+        - image: /images/experience/jungle-trek-koh-chang-slider1/termite-mound.jpg
+          position: bottomleft
+          caption: Termite mound   
 ---
 
 Trekking in the jungle on Koh Chang island without a tour guide is illegal on Koh Chang island. Tan (*our trekking guide*) explained to us on the way up the mountain that tourists had been lost in the jungle in the past and they are extremely hard to find. A tourist dying has a negative effect on tourism which hurts the local economy, therefore, a large effort is put into finding lost tourists costing lots of people time.
@@ -34,7 +55,7 @@ The incline was quite steep and the humidity made it hard work. The path felt ve
 
 We started the trek by making our way through some farmers land. Tan explained how the farmers used the trees to make toys and tyres. On the way up the mountain Tan pointed out lots of jungle vegetation such as lots of different types of mushrooms, some hard like wood and other soft and squigy. Trees with natural camoflage which tan explained were the colours vietnam soldiers would wear in the war. Also some plants such as Ivy and Orchids. 
 
-{{< w3-carousel id="jtkohchang" >}}
+{{< blog-image-slider id="jtkohchang" >}}
 
 After a couple of hours we got to a point where we could leave our bags and reach the peak. At the top of the mountain there were two amazing views, the first a view of the inner jungle and the second a view of the sea. We stopped at each for a while. One thing we have noticed of the Thai culture is that they work hard but when they stop they really relax and take their time.
 

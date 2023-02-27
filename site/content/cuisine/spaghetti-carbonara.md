@@ -17,6 +17,27 @@ cookTime: 45
 
 summary: The recipe for carbonara began to appear in 1944. It is said that American soldiers, during the Second World War ... 
 
+sliders:
+    spaghetti_carbonara:
+      - image: https://drive.google.com/uc?export=view&id=19zvaoR9mAre87g5hdVaT6SYmfi80MaqO
+        position: topleft
+        caption: "Step 0: Ingredients"
+      - image: https://drive.google.com/uc?export=view&id=1A0ynNpi20AwzYRGFRdbnNVldC13MzyEk
+        position: topleft
+        caption: "Step 1: Prepare"
+      - image: https://drive.google.com/uc?export=view&id=1ACLHlSHEV47lRwoI6X6-rndmHzs_U7FO
+        position: bottomright
+        caption: "Step 2: Cook"
+      - image: https://drive.google.com/uc?export=view&id=19jmOTLtY7jKQ7bI593gqLyKZgOdHOYhl
+        position: topright
+        caption: "Step 3: The cream"
+      - image: https://drive.google.com/uc?export=view&id=1A7v8ZgWKLrmYhChOZSDrAn_87L_0Zyep
+        position: topright
+        caption: "Step 4: Mix"
+      - image: https://drive.google.com/uc?export=view&id=19pyHHt-0TUIhX5ku7VZCaeryNXjx6Zbn
+        position: bottomleft
+        caption: "Step 5: Eat!"
+
 description: >
     The recipe for *carbonara* began to appear in 1944. It is said that American soldiers, during the Second World War, tasted the Abruzzese " cacio e  uova " pasta prepared by *carbonari* and from here it could be born the name *carbonara*. From there, adding the bacon, came almost natural.
 
@@ -28,5 +49,5 @@ directions:
 - Take the ladel and a pointed kitchen utensil. Twirl the carbonara inside the ladel and add to the plate. 
 ---
 
-{{< w3-carousel id="spaghetti_carbonara" >}}
+{{< blog-image-slider id="spaghetti_carbonara" >}}
 
