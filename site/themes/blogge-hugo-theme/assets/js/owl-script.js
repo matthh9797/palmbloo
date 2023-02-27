@@ -5,6 +5,7 @@ $(".owl-one").owlCarousel({
     items: 2,
     nav: true,
     loop: true,
+    lazyLoad: true,
     responsive: {
         0: {
             items: 1,
@@ -26,5 +27,15 @@ $(".owl-two").owlCarousel({
     autoplayTimeout: 7000,
     items: 1,
     nav: true,
+    loop: true,
+    lazyLoad: true
+});
+$(".owl-blog-slider").owlCarousel({
+    autoplay: true,
+    autoplayHoverPause: true,
+    autoplayTimeout: 7000,
+    items: 1,
+    nav: true,
     loop: true
 });
+
