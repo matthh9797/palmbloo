@@ -7,6 +7,15 @@ author: "Luana"
 readTime: "2 min"
 thumbnail: /images/how_to/cut_pineapple/cut-pineapple-thumbnail.jpg
 featureImage: /images/how_to/cut_pineapple/header.jpg
+
+sliders:
+    cut_pinapple:
+        - image: /images/how_to/cut_pineapple/slider/pineapple-cut-brown-spots-2.jpg
+          position: bottomright
+          caption: none
+        - image: /images/how_to/cut_pineapple/slider/s-pineapple-spiraled.jpg
+          position: bottomleft
+          caption: none
 ---
 
 {{< youtube KGb6Ov9dRBo >}}
@@ -24,7 +33,7 @@ Trim the outer fruit portion from the sides of the pineapple leaving the brown p
 
 Next, go around the pineapple slicing the brown prickly dots out in chunks.
 
-{{< w3-carousel id="cut_pinapple" >}}
+{{< blog-image-slider id="cut_pinapple" >}}
 
 Chop the pineapple into 4 quarters lengthwise and remove the inner part of the pineapple.
 

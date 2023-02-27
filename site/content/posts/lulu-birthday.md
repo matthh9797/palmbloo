@@ -7,6 +7,18 @@ author: "Luana"
 readTime: "3 min"
 thumbnail: /images/posts/lulu-birthday/lulu-birthday-thumbnail.jpg
 featureImage: /images/posts/lulu-birthday/lulu-birthday-header.jpg
+
+sliders:
+    lulu_birthday:
+        - image: /images/posts/lulu-birthday/slider1/pork-ribs.jpg
+          position: bottomright
+          caption: Pork Ribs
+        - image: /images/posts/lulu-birthday/slider1/chicken-cashew-nuts.jpg
+          position: bottomleft
+          caption: Chicken Cashew Nuts
+        - image: /images/posts/lulu-birthday/slider1/papaya-salad.jpg
+          position: topright
+          caption: Papaya Salad
 ---
 
 My birthday on Koh Chang Island started with a beautiful breakfast at [Tango Bar](https://www.facebook.com/BeachTangoWhiteSandBeach/) located on *White Sand Beach*. We ordered a banana pancake and scrambled eggs with toast.
@@ -35,7 +47,7 @@ As a birthday present from Matthew we rented a bungalow called [Nature Beach](ht
 
 After enjoying a couple of cocktails and the sunset we started to get hungry so we chose a beach restaurant that had this table framed with a heart. We ate delicious food here, papaya salad, pork ribs and Stir-Fried Chicken with Cashew Nuts!
 
-{{< w3-carousel id="lulu_birthday" >}}
+{{< blog-image-slider id="lulu_birthday" >}}
 
 After dinner some volunteer girls from the place where we are doing our WorkAway joined us to have a drink together, we tried a bottle never heard before, *black cock*, and other shots. 
 We ended up quite drunk, Matthew jumped on the pool naked **sorry I don't have a picture** and that is the end of my adventurous birthday. 

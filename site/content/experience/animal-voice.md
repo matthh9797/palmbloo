@@ -11,6 +11,44 @@ featureImage: /images/experience/animal-voice/cover.jpeg
 
 summary: Three weeks surrounded by dogs in a modern pad in the middle of the jungle, what not to like? 
 
+sliders:
+    animal_voice:
+        - image: /images/how_to/cut_pineapple/slider/pineapple-cut-brown-spots-2.jpg
+          position: bottomright
+          caption: none
+        - gdrive_id: 19MfXvG5vTkiEFfFyyLeD9taYe2pD3Zz4
+          position: topright
+          caption: Straight Outta Compton
+        - image: /images/experience/animal-voice/slider-1/matt-walkies.jpg
+          position: topright
+          caption: The day a stray joined us
+        - gdrive_id: 14ktvX_4a-XjqdhsuaTCISd_1G8nQCDJL
+          position: topleft
+          caption: Lulu in love
+        - gdrive_id: 12fx3EZ4Qqmn54NtyHUot3juyUmSqpOJQ
+          position: bottomright
+          caption: Matthew in da house
+        - gdrive_id: 19QdK97dK2dHWPTzw5fYC7Vsyqzrz0JJz
+          position: topleft
+          caption: Time to sleep
+        - gdrive_id: 14sAoAMP6rxdCd13y5XY8fZi2J9aj8wNb
+          position: topleft
+          caption: Scruffy and Kangi chilling
+        - gdrive_id: 14n35c-xEAtrt5Gq5i_Z96q-um1lY8q28
+          position: bottomleft
+          caption: Time for walkies
+        - gdrive_id: 14z8G6tRHj6oqAnl36Hnx0t4ESDz9GtOC
+          position: bottomleft
+          caption: Matthew and Point
+        - gdrive_id: 14HkmAG20dipMYrg51vIKRDnxa3KcGPwk
+          position: bottomleft
+          caption: Naughty Kafi!
+        - gdrive_id: 13Fef3mpIKsabpcbJ2pWQz8y_V9lQvPIW
+          position: topright
+          caption: Waiting for walkies
+        - gdrive_id: 14eusUaAgDItM2DITjbEcIjRWOKDVtQZU
+          position: topright
+          caption: Had to end with another puppy picture
 ---
 
 {{< bootstrap-button text="Donate Here" url="https://www.animalvoicekohchang.com/donation/" >}}
@@ -50,7 +88,7 @@ Near the end of our stay Agnieszka came to us with some "bad news", we were goin
 
 The puppies arrived late in the evening and they were so tiny. We fed them with some warm milk and covered them with a blanket. 
 
-{{< blog-image gdrive_id="15BMy7p3OV0WQeL7itrCIBRchrNI9NaxN" caption="Puppies!" >}}
+{{< blog-image gdrive_id="15BMy7p3OV0WQeL7itrCIBRchrNI9NaxN" caption="Puppies!" caption_position="center" >}}
 
 Unfortunately two puppies didn't seem very active at all in fact during the night two of the volunteers found a puppy dead and let us know that another was not looking well. The next morning we expected the worst and in fact we found another puppy dead. It was very sad for us but there wasn't much we could do to save them.
 
@@ -61,5 +99,4 @@ The reality of working in an animal shelter it is a hospital for sick dogs and p
 
 We loved this experience and would have stayed even longer had it not have been fully booked. At the end we were pretty sad to say goodbye to the dogs. Maybe we will back one day, but for now we will keep with us this experience very happy with the fact that there are organisations in the world like this one that do so much to help animals in need. 
 
-{{< w3-carousel id="animal_voice" >}}
-
+{{< blog-image-slider id="animal_voice" >}}

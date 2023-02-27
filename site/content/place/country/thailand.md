@@ -12,6 +12,33 @@ countryid: thailand
 
 summary: >
     Thailand is one of the World's most popular tourist destinations.
+
+sliders:
+    thailand_food:
+      - image: https://drive.google.com/uc?export=view&id=1CfWZT5o8crqqhMyq9bc2f86MxbCKjIz8
+        position: bottomright
+        caption: Tom Yam Soup
+      - image: https://drive.google.com/uc?export=view&id=1ByqhgGdITTI4Bmktowym6tKsIYrjVR-E
+        position: bottomright
+        caption: Chicken Cashew Nut
+      - image: https://drive.google.com/uc?export=view&id=1Bjx_5mBivIzYwksLcGQKYkiQ8n-S6a8a
+        position: topright
+        caption: Fish from Salakphet
+      - image: https://drive.google.com/uc?export=view&id=1ButAkQbL_muRfbgJqgk3XVVEGpLAdLfI
+        position: topright
+        caption: Coconut Soup
+      - image: https://drive.google.com/uc?export=view&id=1D5INs-7wxUP5jaqG8jFGOb1hn9NF4vs-
+        position: topright
+        caption: Stewed Chicken
+      - image: https://drive.google.com/uc?export=view&id=1BleUBpJaYxyMOGFJ1WDr_CycDf0_EVVM
+        position: bottomleft
+        caption: Pineapple Fried Rice
+      - image: https://drive.google.com/uc?export=view&id=1C6ptMTagf9GJeFD_gPBMYLBmu0KT6mmb
+        position: topright
+        caption: Noodle Soup
+      - image: https://drive.google.com/uc?export=view&id=1BrYMZ7hB8BA4kk-6LmU8AEHvlU6SMUiQ
+        position: bottomright
+        caption: Crispy Pork and Kale
 ---
 
 {{< boostrap-alert type="danger" text="We overstayed our visa 1 day and we charged ฿500 ($15). Tip no.1 don't calculate the departure date yourself, check the stamp on your passport!">}}
@@ -32,7 +59,7 @@ Let's start with the most important part when you visit Thailand. We're not goin
 - **Thai Style Fish:** Cheapest place I have ever eaten a big fish like this, so good.
 - **Chicken Cashew Nut:** Lulu's favourite dish was one we didn't expect to find here but we loved it.
 
-{{< w3-carousel id="thailand_food" >}}
+{{< blog-image-slider id="thailand_food" >}}
 
 ### The Thai Culture
 
