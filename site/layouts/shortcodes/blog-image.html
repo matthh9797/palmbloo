@@ -1,5 +1,5 @@
 {{ $border_radius := (.Get "border-radius") | default "5px" }}
 {{ $wh_ratio := (.Get "wh_ratio") | default "16 / 9" }}
-{{ $caption_position := (.Get "caption_position") | default "right" }}
+{{ $caption_position := (.Get "caption_position") | default "center" }}
 
 {{ partial "components/blog-image" (dict "gdrive_id" (.Get "gdrive_id") "caption" (.Get "caption") "border_radius" $border_radius "wh_ratio" $wh_ratio "caption_position" $caption_position) }}
