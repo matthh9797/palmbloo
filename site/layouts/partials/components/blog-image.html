@@ -6,7 +6,7 @@
     <div class="blog-image">
         <figure class="figure">
             <img style="border-radius: {{$border_radius}}; aspect-ratio: {{$wh_ratio}};" src="{{$image}}"/>
-            <figcaption class="figure-caption text-{{$caption_position}}">{{ .caption }}</figcaption>
+            <figcaption class="figure-caption text-{{$caption_position}}">{{ if eq .caption "none" }}{{ else }}{{ .caption }}{{end}}</figcaption>
         </figure>
     </div>
 </div>
