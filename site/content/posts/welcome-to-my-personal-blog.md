@@ -12,8 +12,6 @@
 
 Welcome to our travel blog! This website is meant for anyone who is interested to learn about the world. If you already love traveling you can learn some tips and practical advice. If you are thinking about traveling you can learn how skills and experiences will enhance your character. Everyone can learn new recipes from some of the best World Cuisine or gain perspective by considering how people in other cultures live.
 
-We decided to call the blog "Gypsy Lulu". The word gypsy is inspired by Fleetwood Mac and to us means "a nomadic and free spirited person". Gypsy Lulu is a concept of a person who does not belong to one place or country.
-
 ### Why do we choose to travel?
 
 When you tell people that you have decided to take an extended period of time to go **"traveling"** you are often met with a roll of the eyes: "What about your career?", "Are you going to party for a full year?", "Are you going to find yourself?"
