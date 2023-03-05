@@ -33,7 +33,7 @@ $(".owl-two").owlCarousel({
 $(".owl-blog-slider").owlCarousel({
     autoplay: true,
     autoplayHoverPause: true,
-    autoplayTimeout: 7000,
+    autoplayTimeout: 12000,
     items: 1,
     nav: true,
     loop: true,
