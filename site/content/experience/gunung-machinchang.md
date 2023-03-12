@@ -18,7 +18,9 @@ sliders:
     gm1:
         - gdrive_id: 1KfkdIbTFrAMf6vR0malrx6XlzrNYkHsM
           caption: View from the top
-        - gdrive_id: 1JcxBEAyS5hUSBkQNPCLzInH9jdVLOvXJ
+        - gdrive_id: 1Khv8tGeiWw2WgKSxDcw2b1L5P8kAwavy
+          caption: View from the top
+        - gdrive_id: 1Kj_c1zmCIeelfcR7imKPmJQ7koe2QUow
           caption: View from the top
         - gdrive_id: 1K9S35WP0PfmNOlIIVRGQ2kviy3E4tWGd
           caption: Matthew at the peak
