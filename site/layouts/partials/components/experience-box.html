@@ -4,11 +4,11 @@
       <h5 class="card-title text-center">Experience Details</h5>
       <p class="card-text">
         <ul class="list-group list-group-flush">
-            <li class="list-group-item">{{ emojify ":money_with_wings:" }} Price <span class="position-absolute start-50">{{ .Params.price }}</span></li>
-            <li class="list-group-item">{{ emojify ":pushpin:" }} Location <span class="position-absolute start-50">{{ .Params.location }}</span></li>
-            <li class="list-group-item">{{ emojify ":clock230:" }} Duration <span class="position-absolute start-50">{{ .Params.duration }}</span></li>
-            <li class="list-group-item">{{ emojify ":snake:" }} Wildlife spotted <span class="position-absolute start-50">{{ .Params.wildlife }}</span></li>
-            <li class="list-group-item">{{ emojify ":school_satchel:" }} What to bring <span class="position-absolute start-50">{{ .Params.to_bring }}</span></li>   
+            {{ if .Params.price }}<li class="list-group-item">{{ emojify ":money_with_wings:" }} Price <span class="position-absolute start-50">{{ .Params.price }}</span></li>{{ end }}
+            {{ if .Params.location }}<li class="list-group-item">{{ emojify ":pushpin:" }} Location <span class="position-absolute start-50">{{ .Params.location }}</span></li>{{ end }}
+            {{ if .Params.duration }}<li class="list-group-item">{{ emojify ":clock230:" }} Duration <span class="position-absolute start-50">{{ .Params.duration }}</span></li>{{ end }}
+            {{ if .Params.wildlife }}<li class="list-group-item">{{ emojify ":snake:" }} Wildlife spotted <span class="position-absolute start-50">{{ .Params.wildlife }}</span></li>{{ end }}
+            {{ if .Params.to_bring }}<li class="list-group-item">{{ emojify ":school_satchel:" }} What to bring <span class="position-absolute start-50">{{ .Params.to_bring }}</span></li>   {{ end }}
           </ul>
       </p>
     </div>
