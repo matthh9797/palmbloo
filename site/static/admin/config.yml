@@ -1,0 +1,181 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow # Allows drafting, reviewing and approving articles
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "cuisine" # Used in routes, e.g., /admin/collections/blog
+    label: "Recipes" # Used in the UI
+    folder: "cuisine/recipes" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Recipe ID", name: "recipe_id", widget: "hidden", default: "cuisine"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Tranding", name: "tranding", widget: "boolean"}
+      - {label: "Read Time", name: "readTime", widget: "string"}
+      - {label: "Scroll Image", name: "thumbnail", widget: "image"}
+      - {label: "Feature Image", name: "featureImage", widget: "image"}
+      - {label: "Serves", name: "yield", widget: "number"}
+      - {label: "Prepration Time", name: "prepTime", widget: "number"}
+      - {label: "Cook Time", name: "cookTime", widget: "number"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - label: "Sliders"
+        name: "sliders"
+        widget: "object"
+        fields: 
+          - label: "Slider ID"
+            name: "slider_id"
+            widget: "list"
+            collapsed: true
+            allow_add: false
+            fields:  
+              - {label: "Image Source", name: "image", widget: "string"}
+              - {label: "Caption", name: "caption", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - label: "Directions"
+        name: "directions"
+        widget: "list"
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "cuisine" # Used in routes, e.g., /admin/collections/blog
+    label: "Preparation" # Used in the UI
+    folder: "cuisine/prep" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Tranding", name: "tranding", widget: "boolean"}
+      - {label: "Read Time", name: "readTime", widget: "string"}
+      - {label: "Scroll Image", name: "thumbnail", widget: "image"}
+      - {label: "Feature Image", name: "featureImage", widget: "image"}
+      - label: "Sliders"
+        name: "sliders"
+        widget: "object"
+        fields: 
+          - label: "Slider ID"
+            name: "slider_id"
+            widget: "list"
+            collapsed: true
+            allow_add: false
+            fields:  
+              - {label: "Image Source", name: "image", widget: "string"}
+              - {label: "Caption", name: "caption", widget: "string"}
+
+  - name: "experience" # Used in routes, e.g., /admin/collections/blog
+    label: "Experiences" # Used in the UI
+    folder: "experience" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Tranding", name: "tranding", widget: "boolean"}
+      - {label: "Read Time", name: "readTime", widget: "string"}
+      - {label: "Scroll Image", name: "thumbnail", widget: "image"}
+      - {label: "Feature Image", name: "featureImage", widget: "image"}
+      - label: "Sliders"
+        name: "sliders"
+        widget: "object"
+        fields: 
+          - label: "Slider ID"
+            name: "slider_id"
+            widget: "list"
+            collapsed: true
+            allow_add: false
+            fields:  
+              - {label: "Image Source", name: "image", widget: "string"}
+              - {label: "Caption", name: "caption", widget: "string"}
+
+  - name: "perspective" # Used in routes, e.g., /admin/collections/blog
+    label: "Perspective" # Used in the UI
+    folder: "perspective" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Tranding", name: "tranding", widget: "boolean"}
+      - {label: "Read Time", name: "readTime", widget: "string"}
+      - {label: "Scroll Image", name: "thumbnail", widget: "image"}
+      - {label: "Feature Image", name: "featureImage", widget: "image"}
+      - label: "Sliders"
+        name: "sliders"
+        widget: "object"
+        fields: 
+          - label: "Slider ID"
+            name: "slider_id"
+            widget: "list"
+            collapsed: true
+            allow_add: false
+            fields:  
+              - {label: "Image Source", name: "image", widget: "string"}
+              - {label: "Caption", name: "caption", widget: "string"}
+
+  - name: "place" # Used in routes, e.g., /admin/collections/blog
+    label: "Places" # Used in the UI
+    folder: "place" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Tranding", name: "tranding", widget: "boolean"}
+      - {label: "Read Time", name: "readTime", widget: "string"}
+      - {label: "Scroll Image", name: "thumbnail", widget: "image"}
+      - {label: "Feature Image", name: "featureImage", widget: "image"}
+      - label: "Sliders"
+        name: "sliders"
+        widget: "object"
+        fields: 
+          - label: "Slider ID"
+            name: "slider_id"
+            widget: "list"
+            collapsed: true
+            allow_add: false
+            fields:  
+              - {label: "Image Source", name: "image", widget: "string"}
+              - {label: "Caption", name: "caption", widget: "string"}
+
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    folder: "posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Tranding", name: "tranding", widget: "boolean"}
+      - {label: "Read Time", name: "readTime", widget: "string"}
+      - {label: "Scroll Image", name: "thumbnail", widget: "image"}
+      - {label: "Feature Image", name: "featureImage", widget: "image"}
+      - label: "Sliders"
+        name: "sliders"
+        widget: "object"
+        fields: 
+          - label: "Slider ID"
+            name: "slider_id"
+            widget: "list"
+            collapsed: true
+            allow_add: false
+            fields:  
+              - {label: "Image Source", name: "image", widget: "string"}
+              - {label: "Caption", name: "caption", widget: "string"}
+

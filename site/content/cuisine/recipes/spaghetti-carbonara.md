@@ -8,9 +8,6 @@ tranding: false
 readTime: "4 min"
 thumbnail: /images/recipe/spaghetti-carbonara/thumb.jpeg
 featureImage: /images/recipe/spaghetti-carbonara/cover.jpg
-YouTubeID: F2SYDXV1W1w# The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
-category: pasta 
-cuisine: "Italian"
 yield: 2
 prepTime: 15
 cookTime: 45
@@ -18,24 +15,18 @@ cookTime: 45
 summary: The recipe for carbonara began to appear in 1944. It is said that American soldiers, during the Second World War ... 
 
 sliders:
-    spaghetti_carbonara:
+    - spaghetti_carbonara:
       - image: https://drive.google.com/uc?export=view&id=19zvaoR9mAre87g5hdVaT6SYmfi80MaqO
-        position: topleft
         caption: "Step 0: Ingredients"
       - image: https://drive.google.com/uc?export=view&id=1A0ynNpi20AwzYRGFRdbnNVldC13MzyEk
-        position: topleft
         caption: "Step 1: Prepare"
       - image: https://drive.google.com/uc?export=view&id=1ACLHlSHEV47lRwoI6X6-rndmHzs_U7FO
-        position: bottomright
         caption: "Step 2: Cook"
       - image: https://drive.google.com/uc?export=view&id=19jmOTLtY7jKQ7bI593gqLyKZgOdHOYhl
-        position: topright
         caption: "Step 3: The cream"
       - image: https://drive.google.com/uc?export=view&id=1A7v8ZgWKLrmYhChOZSDrAn_87L_0Zyep
-        position: topright
         caption: "Step 4: Mix"
       - image: https://drive.google.com/uc?export=view&id=19pyHHt-0TUIhX5ku7VZCaeryNXjx6Zbn
-        position: bottomleft
         caption: "Step 5: Eat!"
 
 description: >
