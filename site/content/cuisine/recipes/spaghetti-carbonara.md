@@ -15,7 +15,7 @@ cookTime: 45
 summary: The recipe for carbonara began to appear in 1944. It is said that American soldiers, during the Second World War ... 
 
 sliders:
-    - spaghetti_carbonara:
+    spaghetti_carbonara:
       - image: https://drive.google.com/uc?export=view&id=19zvaoR9mAre87g5hdVaT6SYmfi80MaqO
         caption: "Step 0: Ingredients"
       - image: https://drive.google.com/uc?export=view&id=1A0ynNpi20AwzYRGFRdbnNVldC13MzyEk
