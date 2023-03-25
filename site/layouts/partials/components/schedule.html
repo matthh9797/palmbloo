@@ -1,0 +1,16 @@
+{{/*  Code from https://www.bootdey.com/snippets/view/bs4-schedule-list#preview  */}}
+<div class="shortcode">
+    <div class="schedule-wrapper">
+        <ul class="list-timeline list-timeline-primary">
+            {{ range .Params.schedule }}
+            <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
+            <p class="my-0 text-dark flex-fw text-sm text-uppercase"><span class="text-inverse op-8">{{ .time }}</span> - {{ .item }}</p>
+            {{ if .dropdown }}
+            <p class="my-0 collapse flex-fw text-uppercase text-xs text-dark op-8" id="day-1-item-6"> {{ .dropdown }} </p>
+            {{ end }}
+            </li>
+            {{ end }}
+
+        </ul>
+    </div>
+</div>
