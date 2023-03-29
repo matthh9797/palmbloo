@@ -82,7 +82,7 @@ We spent one day at Angkor Wat and the ticket cost us $47 each. If you go for 3 
 
 ### How Much To Pay The Tuk Tuk Driver?
 
-The price for a tuk tuk driver can vary widely and we heard of people paying anything between $15 to $50. We wanted to make sure we weren't being scammed but at the same time we were paying a fair rate for a full day's work. We liked our tuk tuk driver and he even sent us a video of his son saying "Thank You" afterwards so we were happy to pay a little over the cheapest rate.
+The price for a tuk tuk driver can vary widely and we heard of people paying anything between $15 to $50. We wanted to make sure we weren't being scammed but at the same time we were paying a fair rate for a full day's work. We liked our tuk tuk driver and he even sent us a video of his son saying "Thank You" afterwards so we were happy to pay a little extra.
 
 ### Should You Rent A Bike?
 
@@ -100,9 +100,10 @@ We started our day in Angkor Wat, the most famous temple in the City of Angkor a
 
 {{< blog-image-slider id="angkor1" >}}
 
-We climbed up to the top of Angkor Wat. This climb is steep and a little scary, but well worth it for a 360 degree view of the giant complex and it's beautiful gardens. After that, we decided to take a walk around the outside of the perimeter of the temple walls and we found it amazing how alone we were in this wonder of the world heritage site, quite different to the main attractions in Europe.
+We climbed up to the top of Angkor Wat. This climb is steep and a little scary, but well worth it for the 360 degree view of the giant complex and it's beautiful gardens. After that, we decided to take a walk around the outside perimeter of the temple walls and we found it amazing how alone we were in this wonder of the world heritage site, quite different to the main attractions in Europe.
 
-After our walk we headed towards the exit, where we found so many stalls selling coconuts, sarongs and temple paintings. We had expected these stalls to be full of high price tourist jargon but everything was very cheap and the sellers were extremely kind. We bought a little canvas painting of Angkor Wat for around $10 as a souvenir.
+After our walk we headed towards the exit, where we found so many stalls selling coconuts, sarongs and temple paintings. We had expected these stalls to be full of high price tourist tat but everything was very cheap and the sellers were extremely kind. We bought a little canvas painting of Angkor Wat for around $10 as a souvenir.
+
 ### Ta Prohm (The Tomb Raider Temple)
 
 This was our favourite temple in the Angkor complex. We were fascinated by the fantastic root system of the ancient 600 year old trees. This is where part of the first *Tomb Raider* was filmed. If you have to choose only one temple, this is a must see.
@@ -132,6 +133,8 @@ The day started to be more and more hot so for the afternoon part we chose somet
 ### The Sunset At Phnom Bakheng
 
 The golden hour started to get closer so we climbed a hill called Phnom Bakheng which is a small temple and  one of the best spots for sunset, although a little overcrowded. We sat here and watched the sun go down. After the sunset our driver took us back to our hotel and we were shattered from a big day. We were sad to say "Goodbye" to our tuk tuk driver who was a great guy who we had really enjoyed spending the day with.
+
+{{< my-youtube TuU9283Qsdw >}}
 
 ### Closing Thoughts
 
