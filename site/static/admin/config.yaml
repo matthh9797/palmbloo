@@ -2,6 +2,22 @@ backend:
   name: git-gateway
   branch: main
 
-# publish_mode: editorial_workflow # Allows drafting, reviewing and approving articles
+publish_mode: editorial_workflow # Allows drafting, reviewing and approving articles
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "experience" # Used in routes, e.g., /admin/collections/blog
+    label: "Experiences" # Used in the UI
+    folder: "experience" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Tranding", name: "tranding", widget: "boolean"}
+      - {label: "Read Time", name: "readTime", widget: "string"}
+      - {label: "Scroll Image", name: "thumbnail", widget: "image"}
+      - {label: "Feature Image", name: "featureImage", widget: "image"}
