@@ -74,3 +74,16 @@
 
   {{ $script := resources.Get "js/owl-script.js" | minify }}
   <script src="{{ $script.Permalink }}"></script>
+
+  {{/*  For CMS  */}}
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
