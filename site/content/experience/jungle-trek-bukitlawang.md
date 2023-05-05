@@ -28,8 +28,7 @@ Our first day of trekking started around 9am where, after breakfast,we met our J
 
 ### Day 2 
   
-The day after we trek again in the deeper parts of the rainforest where we had more chance to see orangutans. That day we saw also a baby orangutan chilled in the tree with her mother. We reached another campsite and we spend another day swimming and enjoy the rest of the night.
-
+The day after we woke up around 8am. After a beautifully decorated breakfast of toast and omelet with some vegetables we pack all of our bags and we started hiking again between 9 and 10 am. We trek again in the deeper parts of the rainforest where we had more chance to see orangutans. That day we saw also a baby orangutan chilled in the tree with her mother. We reached another campsite next to the river, surrounded by memorable sounds of the rainforest and we spend another day swimming and enjoy the rest of the night. 
 ### Day 3 
 
  The third and last day of our trekking we reached a cool waterfall and then we did rafting down the river Bohorok wich has been very fun! 
