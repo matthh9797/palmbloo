@@ -12,6 +12,14 @@ author: "Lulu"
 readTime: "4 min"
 thumbnail: /images/blog/blog-thum-2.png
 featureImage: /images/blog/feature-image-04.jpg
+
+sliders:
+    slide1:
+        - gdrive_id: 1KfkdIbTFrAMf6vR0malrx6XlzrNYkHsM
+          caption: Image 1
+        - gdrive_id: 1Khv8tGeiWw2WgKSxDcw2b1L5P8kAwavy
+          caption: Image 2
+
 ---
 
 ## Practicalities
@@ -25,6 +33,10 @@ The atmosphere here is so cool because the location is inside the Gunung Leuser 
 ### Day 1 
 
 Our first day of trekking started around 9am where, after breakfast,we met our Jungle Guide which explained us what we were going to do that day. We met the semiwild orangutans swinging in the trees around us having lunch etc until we arrived around 4pm in one of the first campsites to swim and chill. They prepared for us a delicius dinner and we chatted with our tour guide for all night then we fell aslepp surrounded by magical jungle sounds.
+
+To add sliders do this:
+
+{{< blog-image-slider id="slide1" >}}
 
 ### Day 2 
   
